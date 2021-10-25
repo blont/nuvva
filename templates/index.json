@@ -7,7 +7,7 @@
       },
       "blocks": {
         "preheading": {
-          "type": "preheading",
+          "type": "heading",
           "settings": {
             "heading": "Rotlichttherapie preheader"
           }
