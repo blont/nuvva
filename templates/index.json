@@ -6,6 +6,13 @@
         "desktop_text_box_position": "flex-end"
       },
       "blocks": {
+        "preheading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rotlichttherapie preheader"
+          }
+        },
+
         "heading": {
           "type": "heading",
           "settings": {

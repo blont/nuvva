@@ -82,10 +82,13 @@
     <div class="banner__box color-{{ section.settings.color_scheme }}">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
+                  {%- when 'preheading' -%}
+                     <h5 class="banner__preheading" {{ block.shopify_attributes }}>
+                      <span>test{{ block.settings.preheading | escape }}</span>
+                    </h5>
+
           {%- when 'heading' -%}
-            <h5 class="banner__preheading" {{ block.shopify_attributes }}>
-                 <span>test{{ block.settings.preheading | escape }}</span>
-               </h5>
+
 
             <h2 class="banner__heading {% if block.settings.heading_size == 'medium' %}h1{% else %}h0{% endif %}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.heading | escape }}</span>
