@@ -7,7 +7,7 @@
       },
       "blocks": {
         "preheading": {
-          "type": "heading",
+          "type": "preheading",
           "settings": {
             "heading": "Rotlichttherapie preheader"
           }
@@ -29,6 +29,7 @@
         }
       },
       "block_order": [
+        "preheading",
         "heading",
         "button"
       ]
