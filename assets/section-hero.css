@@ -15,3 +15,18 @@ top:0;}
     z-index: 2;
     text-align: center;
 }
+.hero-collections{
+    position: relative;
+    z-index: 3;
+    margin: 80px 0 100px;
+}
+.hero-collections__card-ctn{
+   display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.hero-collections__card{
+
+     position: relative;
+    border:  3px solid grey;
+ }
