@@ -8,22 +8,14 @@
  </h1>
  <img src="{{ 'bg_abstract-bg-large.svg' | asset_url }}" />
 
- <a href="" />
- <div></div>
-  <div></div>
-   <h3></h3>
- </a>
 
- <a href="" />
+{% for block in section.blocks %}
+ <a href="" alt="nuuva collection">
  <div></div>
   <div></div>
-   <h3></h3>
+   <h3>{{ block.settings.collection.title }}</h3>
  </a>
-  <a href="" />
-  <div></div>
-   <div></div>
-    <h3></h3>
-  </a>
+{% endfor %}
 
 
 </div>
@@ -31,7 +23,7 @@
 {% schema %}
 {
 "name":"Hero",
-"blocks":[
+"blocks": [
        {
        "type":"collection",
       "limit":3,
@@ -53,14 +45,14 @@
                     "label":"Image Hover"
 
          }
-         ]
-         }
+        ]
+   }
 
-       ],
-"presets":[
+  ],
+"presets": [
 {
 "name":"Hero"
 }
-]
+],
 }
 {% endschema %}
