@@ -8,45 +8,48 @@
  </h1>
  <img src="{{ 'bg_abstract-bg-large.svg' | asset_url }}" />
 
+
 <div class="hero-collections">
 <div class="hero-collections__card-ctn">
+
 {% for block in section.blocks %}
- <a class="hero-collections_card" href="" alt="nuuva collection">
- <div></div>
-  <div></div>
-   <h3>{{ block.settings.collection.title }}</h3>
+ <a class="hero-collections__card" href="#" alt="nuuva collection">
+ <div class="hero-collections__card--bg" style ="background-image:url({{ block.settings.image_bg | img_url: 'Medium'}})"></div>
+   <div class="hero-collections__card--hover" style ="background-image:url({{ block.settings.image_hover | img_url: 'Medium' }})"></div>
+     <h3 class="hero-collections__card-title">{{ block.settings.collection.title }}</h3>
  </a>
 {% endfor %}
 </div>
 </div>
 </div>
 
-{% schema %}
-{
+
+
+
+{% schema %}{
 "name":"Hero",
 "blocks": [
        {
        "type":"collection",
       "limit":3,
       "name":"Collection",
-      "settings":[
-      {
-      "type":"collection",
-      "id":"collection",
-      "label":"Collection"
-       },
-         {
-             "type":"image_picker",
-             "id":"image_bg",
-             "label":"Image Background"
+  "settings":[
+           {
+           "type":"collection",
+           "id":"collection",
+           "label":"Collection"
             },
-         {
-                    "type":"image_picker",
-                    "id":"image_hover",
-                    "label":"Image Hover"
+          {
+                           "type":"image_picker",
+                           "id":"image_bg",
+                           "label":"Image Background"
+                          },
+                       {
+                                  "type":"image_picker",
+                                  "id":"image_hover",
+                                  "label":"Image Hover"
 
-         }
-        ]
+                       }    ]
    }
 
   ],
@@ -57,3 +60,5 @@
 ]
 }
 {% endschema %}
+
+
