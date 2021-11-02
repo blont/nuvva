@@ -1,0 +1,53 @@
+{{ 'section-weekly-picks.css' | asset_url | stylesheet_tag }}
+
+<div class="weekly-picks"><h2 class="weekly-picks__header">Angebote der Woche</h2>
+
+<div class="weekly-picks__product-ctn">
+{% for product in section.settings.collection.products %}
+
+<div class="weekly-picks__item">
+<a class="weekly-picks__item-link" href="{{ product.url }}">
+<div class="product-flag flag-{% if product.tags contains 'Neu' %}new{% elsif product.compare_at_price != blank %}sale{% endif %}">
+<span>
+{% if product.tags contains "Neu" %}Neu{% elsif product.compare_at_price != blank %}Sale{% endif %}
+</span>
+</div>
+
+<div class="weekly-picks__image-wrapper">
+<img src="{{ product.images[0].src | img_url: 'medium' }}" alt= "{{ product.title }}"/>
+</div>
+
+<p class="weekly-picks__product-title">
+{{ product.title }}
+</p>
+<div class="weekly-picks__price">
+<span>{{ product.price | money }}</span>
+</div>
+</a>
+</div>
+{% endfor %}
+
+
+</div>
+
+</div>
+
+{% schema %}
+{
+"name":"Weekly picks",
+ "settings":[
+{
+"type":"collection",
+"id":"collection",
+"label":"Collection"
+}
+ ],
+"presets": [
+{
+"name":"Weekly picks"
+}
+]
+}
+{% endschema %}
+
+

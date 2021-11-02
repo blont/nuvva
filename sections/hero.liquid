@@ -1,20 +1,25 @@
-{{'section-hero.css' | asset_url | stylesheet_tag}}
+{{ 'section-hero.css' | asset_url | stylesheet_tag }}
 
-<div class="header-container">
-<h1>
-
- <span>test test</span>
-
+<div class="header-container" data-aos="fade-in" >
+  {% if section.settings.title %}
+    <h1 data-aos="fade-up">
+     <span>
+    {{ section.settings.title }}
+     </span>
  </h1>
+    {% endif %}
  <img src="{{ 'bg_abstract-bg-large.svg' | asset_url }}" />
 
 
 <div class="hero-collections">
-<div class="hero-collections__card-ctn">
+<div class="hero-collections__card-ctn" >
 
 {% for block in section.blocks %}
- <a class="hero-collections__card" href="collections/{{ block.settings.collection}}" alt="nuuva collection">
- <div class="hero-collections__card--bg" style ="background-image:url({{ block.settings.image_bg | img_url: 'Medium'}})"></div>
+  {% assign delay = delay | plus: 300 %}
+ <a class="hero-collections__card" href="collections/{{ block.settings.collection }}" alt="nuuva collection" data-aos="fade-up"   data-aos-delay="{{ delay }}">
+
+
+ <div class="hero-collections__card--bg" style ="background-image:url({{ block.settings.image_bg | img_url: 'Medium' }})"></div>
    <div class="hero-collections__card--hover" style ="background-image:url({{ block.settings.image_hover | img_url: 'Medium' }})"></div>
      <h3 class="hero-collections__card-title">{{ block.settings.collection.title }}</h3>
  </a>
@@ -28,6 +33,14 @@
 
 {% schema %}{
 "name":"Hero",
+"settings": [
+  {
+    "type": "text",
+    "id": "title",
+    "label": "Optional Header",
+    "default": "Hero Header"
+  }
+],
 "blocks": [
        {
        "type":"collection",
@@ -48,7 +61,6 @@
                                   "type":"image_picker",
                                   "id":"image_hover",
                                   "label":"Image Hover"
-
                        }    ]
    }
 

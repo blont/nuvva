@@ -1,0 +1,77 @@
+
+{{ 'section-collection-grid.css' | asset_url | stylesheet_tag }}
+<div class= "collection-grid-ctn"  data-aos="fade-in"  >
+  
+  
+  <div class= "collection-grid__header">
+    <div class= "collection-grid__title_decker">  
+<h2 class= "collection-grid__title"  data-aos="fade-up"  data-aos-delay="1000" data-aos-duration="800">{{ section.settings.header }}</h2>
+</div>
+
+<a href="/pages/shop" data-a-stagger="" title="{{ section.settings.linktext }}" class="btn btn--secondary a-fade" style="opacity: 1;">
+  <span class="button__el"><span>{{ section.settings.linktext }}</span>
+  <svg class="arrow-but_hi" viewBox="0 0 14 9"><g stroke="currentColor" fill="none" fill-rule="evenodd">
+    <path d="M9.472 0l4 4.626-4 4.374"></path>
+  <path d="M12.5 4.5H.683" stroke-linecap="square">
+  </path></g></svg>
+   <svg class="arrow-but_p" viewBox="0 0 6 9" xmlns="http://www.w3.org/2000/svg"><path d="M1 0l4 4.626L1 9" stroke="currentColor" fill="none" fill-rule="evenodd"></path></svg>
+</span>
+</a>
+
+</div>
+
+<div class= "collection-grid__grid-ctn">
+
+{% for block in section.blocks %}
+<a class= "collection-grid__grid-item" href="{{ block.settings.collection.url }}">
+<div class= "collection-grid__img-ctn">
+<img src="{{ block.settings.collection.image | img_url: 'Large' }}" />
+
+
+<h3 class= "collection-grid__grid-title">{{ block.settings.collection.title }}</h3>
+
+</div>
+</a>
+{% endfor %}
+</div>
+</div>
+
+{% schema %}
+{
+"name":"Collection grid",
+  "settings":[
+           {
+           "type":"text",
+           "id":"header",
+           "label":"Header"
+            },   
+             {
+              "type":"text",
+              "id":"linktext",
+              "label":"Link Text"
+               }
+  ],
+"blocks": [
+       {
+       "type":"collection",
+      "limit":4,
+      "name":"collection",
+ "settings":[
+           {
+           "type":"collection",
+          "id":"collection",
+               "label":"Collection"
+            }
+  ]
+   }
+
+  ],
+"presets": [
+{
+"name":"Collection grid"
+}
+]
+}
+{% endschema %}
+
+

@@ -1,0 +1,85 @@
+{{ 'section-accordion.css' | asset_url | stylesheet_tag }}
+
+
+
+<div class="accordion-ctn">
+    {% if section.settings.title %}
+    <h2>
+    {{ section.settings.title }}
+ </h2>
+    {% endif %}
+
+
+<div class="row">
+    <div class="col">
+
+    <div class="tabs">
+      
+        {% for block in section.blocks %}
+            {% assign count = count | plus: 1 %}
+            <div class="tab" data-aos="fade-up"  data-aos-duration="1100">
+        <input type="radio" id="rd{{ count }}" name="rd">
+        <label class="tab-label" for="rd{{ count }}">{{ block.settings.title }}</label>
+        <div class="tab-content">
+            {{ block.settings.content }}
+        </div>
+      </div>
+
+    {% endfor %}
+    {% assign count = count | plus: 1 %}
+    <div class="tab" data-aos="fade-up"   data-aos-duration="1500">
+        <input type="radio" id="rd{{ count }}" name="rd">
+        <label for="rd{{ count }}" class="tab-close">Schliessen &times;</label>
+      </div>
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+{% schema %}{
+    "name": "Accordions",
+    "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Optional Header",
+          "default": "Accordion Header"
+        }
+      ],
+
+      "blocks": [
+        {
+          "type": "accordion",
+          "name": "Accordion",
+          "settings": [
+            {
+              "type": "text",
+              "id": "title",
+              "default": "Accordion Header",
+              "label": "Accordion Header"
+            },
+            {
+              "type": "richtext",
+              "id": "content",
+              "default": "",
+              "label": "Accordion Content"
+            }
+          ]
+   }
+
+  ],
+"presets": [
+{
+"name":"Accordions"
+}
+]
+}
+{% endschema %}
+
+

@@ -7,7 +7,7 @@
     <meta name="theme-color" content="">
     <link rel="canonical" href="{{ canonical_url }}">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
-
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | img_url: '32x32' }}">
     {%- endif -%}
@@ -46,11 +46,11 @@
       {{ settings.type_header_font | font_face: font_display: 'swap' }}
 
       :root {
-        --font-body-family: {{ settings.type_body_font.family }}, {{ settings.type_body_font.fallback_families }};
+        --font-body-family: 'Quicksand-Regular', {{ settings.type_body_font.fallback_families }};
         --font-body-style: {{ settings.type_body_font.style }};
         --font-body-weight: {{ settings.type_body_font.weight }};
 
-        --font-heading-family: {{ settings.type_header_font.family }}, {{ settings.type_header_font.fallback_families }};
+        --font-heading-family:'Quicksand-Medium', {{ settings.type_header_font.fallback_families }};
         --font-heading-style: {{ settings.type_header_font.style }};
         --font-heading-weight: {{ settings.type_header_font.weight }};
 
@@ -106,6 +106,11 @@
           font-size: 1.6rem;
         }
       }
+.flag-sale{background-image: url({{ "flag-sale.svg" | asset_url }})}
+.flag-new{background-image: url({{ "flag-new.svg" | asset_url }})}
+
+
+
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
@@ -133,6 +138,9 @@
     {% section 'header' %}
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
+   
+     
+   
     </main>
 
     {% section 'footer' %}
@@ -163,6 +171,29 @@
 
       window.accessibilityStrings = {
         shareSuccess: `{{ 'general.share.success_message' | t }}`,
+      }
+    </script>
+
+    
+    <script src="{{ 'aos.js' | asset_url }}" defer="defer"></script>
+    <script>
+    
+      if (!window.Cypress) {
+
+        setTimeout(function(){ 
+
+           AOS.init({
+          mirror: true
+        });
+
+        }, 1000);
+
+       
+        document.addEventListener('aos:in', function(e) {
+          console.log('in!', e.detail);
+        });
+
+     
       }
     </script>
 
