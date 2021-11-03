@@ -49,6 +49,41 @@
         "layout": "image_first"
       }
     },
+    "16359412341220a733": {
+      "type": "image-with-text",
+      "blocks": {
+        "16359412341220a733-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3 Modele in einem"
+          }
+        },
+        "16359412341220a733-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16359412341220a733-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16359412341220a733-0",
+        "16359412341220a733-1",
+        "16359412341220a733-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
     "163593724891150a59": {
       "type": "image-with-text",
       "blocks": {
@@ -81,6 +116,7 @@
     "banner",
     "product-grid",
     "163593723729661e2c",
+    "16359412341220a733",
     "163593724891150a59"
   ]
 }
