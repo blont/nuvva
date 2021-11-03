@@ -12,7 +12,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Wohlbefinden und Gesundheit mit der Kraft des Lichts",
+            "heading": "Wohlbefinden und Gesundheit",
+            "heading2": "mit der Kraft des Lichts",
             "heading_size": "medium"
           }
         },
