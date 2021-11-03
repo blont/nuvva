@@ -83,6 +83,9 @@
   left: auto;
 }
 
+.banner__heading,.banner__text{
+  color:white;
+}
 @media screen and (max-width: 749px) {
   .banner--stacked .banner__media-half {
     width: 100%;
