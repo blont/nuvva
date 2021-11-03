@@ -2293,6 +2293,17 @@ details-disclosure > details {
     position: absolute;
 }
 
+.box-shadow-but{
+    -webkit-box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.35); 
+    box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.35);
+
+}
+.box-shadow-but:hover{
+    -webkit-box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.5); 
+    box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.5);
+
+}
+
 .btn--link .button__el, .btn--secondary .button__el {
     padding-right: 20px;
     top: 0;
