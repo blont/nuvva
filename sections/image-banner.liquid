@@ -85,7 +85,9 @@
           {%- when 'heading' -%}
             <h2 class="banner__heading {% if block.settings.heading_size == 'medium' %}h1{% else %}h0{% endif %}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.heading | escape }}</span>
+              <span>{{ block.settings.heading2 | escape }}</span>
             </h2>
+         
           {%- when 'text' -%}
             <div class="banner__text" {{ block.shopify_attributes }}>
               <span>{{ block.settings.text | escape }}</span>
@@ -242,6 +244,12 @@
           "id": "heading",
           "default": "Image banner",
           "label": "t:sections.image-banner.blocks.heading.settings.heading.label"
+        },
+        {
+          "type": "text",
+          "id": "heading2",
+          "default": "-",
+          "label": "heading2 Zeile 2"
         },
         {
           "type": "select",
