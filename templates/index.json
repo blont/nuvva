@@ -37,55 +37,47 @@
         "show_text_below": true
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Beliebte Produkte",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1635351417eb23c5e9": {
+      "type": "hero",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "a13cb640-17da-4814-aba8-28e2d142ff4b": {
+          "type": "collection",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "collection": "maxpro",
+            "image_bg": "shopify:\/\/shop_images\/4.jpg",
+            "image_hover": "shopify:\/\/shop_images\/3_2b33f188-09b0-41ca-839d-988263fca100.jpg"
           }
         },
-        "text": {
-          "type": "text",
+        "13f5d081-21a6-47c6-af5f-9546151fff52": {
+          "type": "collection",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "collection": "vitapro",
+            "image_bg": "shopify:\/\/shop_images\/5.jpg",
+            "image_hover": "shopify:\/\/shop_images\/6.jpg"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "a13cb640-17da-4814-aba8-28e2d142ff4b",
+        "13f5d081-21a6-47c6-af5f-9546151fff52"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "collection": "all",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
       }
     },
     "collage": {
@@ -177,20 +169,14 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "16353426345e6ffd8c": {
-      "type": "hero",
-      "settings": {
-      }
     }
   },
   "order": [
     "image_banner",
-    "rich_text",
     "featured_products",
+    "1635351417eb23c5e9",
     "collage",
     "video",
-    "multi_column",
-    "16353426345e6ffd8c"
+    "multi_column"
   ]
 }
