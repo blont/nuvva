@@ -72,8 +72,14 @@
   left: 0;
   top: 0;
   width: 100%;
-}
 
+
+}
+.banner__media.media > img {
+
+  object-position: center right!important;
+
+}
 .banner__media-half {
   width: 50%;
 }
@@ -83,9 +89,7 @@
   left: auto;
 }
 
-.banner__heading,.banner__text{
-  color:white;
-}
+
 @media screen and (max-width: 749px) {
   .banner--stacked .banner__media-half {
     width: 100%;
@@ -97,6 +101,9 @@
 }
 
 @media screen and (min-width: 750px) {
+  .banner__heading,.banner__text{
+    color:white;
+  }
   .banner__media {
     height: 100%;
   }
