@@ -2293,12 +2293,12 @@ details-disclosure > details {
     position: absolute;
 }
 
-.box-shadow-but{
+.box-shadow-but a{
     -webkit-box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.35); 
     box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.35);
 
 }
-.box-shadow-but:hover{
+.box-shadow-but a:hover{
     -webkit-box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.5); 
     box-shadow: 5px 3px 6px 5px rgba(0,0,0,0.5);
 
