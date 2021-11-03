@@ -3,10 +3,16 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "6e953341-af0d-44c3-9c76-e6669b03cf00": {
+          "type": "text",
+          "settings": {
+            "text": "Rotlichttherapie für Zuhause"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Wohlbefinden und Gesundheit mit der Kraft des Lichts",
             "heading_size": "medium"
           }
         },
@@ -23,10 +29,12 @@
         }
       },
       "block_order": [
+        "6e953341-af0d-44c3-9c76-e6669b03cf00",
         "heading",
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/header1.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
