@@ -73,7 +73,7 @@
         "image": "shopify:\/\/shop_images\/ventilatoren-erklaert.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     }
   },
