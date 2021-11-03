@@ -48,11 +48,39 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "163593724891150a59": {
+      "type": "image-with-text",
+      "blocks": {
+        "163593724891150a59-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Optimale Kühlung"
+          }
+        },
+        "163593724891150a59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163593724891150a59-0",
+        "163593724891150a59-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ventilatoren-erklaert.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "163593723729661e2c"
+    "163593723729661e2c",
+    "163593724891150a59"
   ]
 }
