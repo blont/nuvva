@@ -18,19 +18,17 @@
         {% for block in section.blocks %}
             {% assign count = count | plus: 1 %}
             <div class="tab" data-aos="fade-up"  data-aos-duration="1100">
-        <input type="radio" id="rd{{ count }}" name="rd">
-        <label class="tab-label" for="rd{{ count }}">{{ block.settings.title }}</label>
+    
+        <input type="checkbox" id="chck{{ count }}">
+        <label class="tab-label" for="chck{{ count }}">{{ block.settings.title }}</label>
         <div class="tab-content">
             {{ block.settings.content }}
         </div>
       </div>
 
     {% endfor %}
-    {% assign count = count | plus: 1 %}
-    <div class="tab" data-aos="fade-up"   data-aos-duration="1500">
-        <input type="radio" id="rd{{ count }}" name="rd">
-        <label for="rd{{ count }}" class="tab-close">Schliessen &times;</label>
-      </div>
+
+
     </div>
 
 </div>
