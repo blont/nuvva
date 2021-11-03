@@ -21,7 +21,7 @@
           "settings": {
             "button_label_1": "Unsere Serien",
             "button_link_1": "#shopify-section-template--15315859538148__1635351417eb23c5e9",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
