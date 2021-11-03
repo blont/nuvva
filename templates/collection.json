@@ -34,21 +34,13 @@
         "163593723729661e2c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungsdichte<\/p>"
-          }
-        },
-        "163593723729661e2c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte<\/p>"
           }
         }
       },
       "block_order": [
         "163593723729661e2c-0",
-        "163593723729661e2c-1",
-        "163593723729661e2c-2"
+        "163593723729661e2c-1"
       ],
       "settings": {
         "height": "adapt",
