@@ -75,15 +75,52 @@
   outline: .2rem solid rgba(var(--color-foreground),.5) !important;
   box-shadow: 0 0 0 .1rem rgba(var(--color-button),var(--alpha-button-border)),0 0 0 .3rem rgb(var(--color-background)),0 0 .5rem .4rem rgba(var(--color-foreground),.3) !important;
 }
+.product-form__buttons button{border-radius: 3px;}
 
 .shopify-payment-button__button--unbranded {
+
+
   background-color: rgba(var(--color-button), var(--alpha-button-background));
-  box-shadow: 0 0 0 0.1rem rgba(var(--color-button), var(--alpha-button-border));
+ 
+  height: 40px;
+  overflow: hidden;
+
+/* box-shadow: 0 0 0 0.1rem rgba(var(--color-button), var(--alpha-button-border)); */
   color: rgb(var(--color-button-text));
   font-size: 1.4rem;
   line-height: calc(1 + 0.2 / var(--font-body-scale));
   letter-spacing: 0.07rem;
+  position: relative;
+  z-index:1;
+  transition: all .5s ease;
+  background-color: rgba(149,57,153,1);
 }
+.shopify-payment-button__button::after{
+
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0%;
+  bottom: 0;
+  display: block;
+  width:100%;
+  height: 140px;
+  z-index:-1;
+  background-image: -o-linear-gradient(left,#ffda23 5%,#fa5868 20.22%,#e444f3 68.29%,#953999 98.21%);
+  background-image: -webkit-gradient(linear,left top,right top,color-stop(5%,#ffda23),color-stop(20.22%,#fa5868),color-stop(68.29%,#e444f3),color-stop(98.21%,#953999));
+  background-image: linear-gradient(90deg,#ffda23 5%,#fa5868 20.22%,#e444f3 68.29%,#953999 98.21%);
+
+
+
+transition: all .5s ease;
+
+
+}
+.shopify-payment-button__button:hover::after {
+  right: -100%;
+  width:200%;
+}
+
 
 .shopify-payment-button__button--unbranded::selection {
   background-color: rgba(var(--color-button-text), 0.3);
@@ -92,7 +129,11 @@
 .shopify-payment-button__button--unbranded:hover,
 .shopify-payment-button__button--unbranded:hover:not([disabled]) {
   background-color: rgba(var(--color-button), var(--alpha-button-background));
-  box-shadow: 0 0 0 0.2rem rgba(var(--color-button), var(--alpha-button-border));
+  /* box-shadow: 0 0 0 0.2rem rgba(var(--color-button), var(--alpha-button-border)); */
+
+  background-color: rgba(149,57,153,1);
+
+
 }
 
 .shopify-payment-button__more-options {
@@ -184,7 +225,9 @@ fieldset.product-form__input .form__label {
 }
 
 .product-form__input input[type='radio']:checked + label {
-  background-color: rgb(var(--color-foreground));
+  --color-but-hi: var(--color-base-accent-1);
+  border-color: rgba(var(--color-base-accent-1), 0.1);
+  background-color: rgb(var(--color-but-hi));
   color: rgb(var(--color-background));
 }
 
