@@ -89,11 +89,37 @@
       "settings": {
         "title": "Hero Header"
       }
+    },
+    "1636039719bcfe7a1a": {
+      "type": "icon-info-layer",
+      "blocks": {
+        "19c2a87d-60b4-4b34-95aa-d198674d550c": {
+          "type": "Icon-Info",
+          "settings": {
+            "textarea": "Muskelaufbau und -heilung",
+            "image_icon": "shopify:\/\/shop_images\/icon-muskel-gut.png"
+          }
+        }
+      },
+      "block_order": [
+        "19c2a87d-60b4-4b34-95aa-d198674d550c"
+      ],
+      "settings": {
+        "preline-header": "Warum Rotlicht-Therapie?",
+        "header": "Was steckt hinter der Idee der Rotlicht-Therapie?",
+        "info": "Du interessierst dich für einen gesunden Life-Style und möchtest mehr erfahren über den Hintergrund der neuartigen Rotlicht-Therapie, dann besuche unser Magazin.",
+        "zwischenheader": "Unterstützende Wirkungen einer regelmäßigen Lichttherapie",
+        "button_label": "Zum Magazin",
+        "button_link": "shopify:\/\/blogs\/news",
+        "image_left": "shopify:\/\/shop_images\/icon-infolayer_1.png",
+        "image_right": "shopify:\/\/shop_images\/icon-infolayer_bg.png"
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
-    "1635351417eb23c5e9"
+    "1635351417eb23c5e9",
+    "1636039719bcfe7a1a"
   ]
 }
