@@ -99,10 +99,34 @@
             "textarea": "Muskelaufbau und -heilung",
             "image_icon": "shopify:\/\/shop_images\/icon-muskel-gut.png"
           }
+        },
+        "5364407d-5779-41e9-be2d-919159a6ea1b": {
+          "type": "Icon-Info",
+          "settings": {
+            "textarea": "Gesunde Haut",
+            "image_icon": "shopify:\/\/shop_images\/icon-gute-haut.png"
+          }
+        },
+        "a8b070ae-a0bc-4c9f-8cb3-7065ea06493c": {
+          "type": "Icon-Info",
+          "settings": {
+            "textarea": "Verbesserter Schlaf",
+            "image_icon": "shopify:\/\/shop_images\/icon-guter-schlaf.png"
+          }
+        },
+        "b5343360-8659-4a04-863e-f0b6ab80df36": {
+          "type": "Icon-Info",
+          "settings": {
+            "textarea": "Arthrose & Schmerzreduktion",
+            "image_icon": "shopify:\/\/shop_images\/icon-gelenkschmerzen.png"
+          }
         }
       },
       "block_order": [
-        "19c2a87d-60b4-4b34-95aa-d198674d550c"
+        "19c2a87d-60b4-4b34-95aa-d198674d550c",
+        "5364407d-5779-41e9-be2d-919159a6ea1b",
+        "a8b070ae-a0bc-4c9f-8cb3-7065ea06493c",
+        "b5343360-8659-4a04-863e-f0b6ab80df36"
       ],
       "settings": {
         "preline-header": "Warum Rotlicht-Therapie?",
