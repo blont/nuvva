@@ -1,0 +1,128 @@
+
+{{ 'section-icon-info-layer.css' | asset_url | stylesheet_tag }}
+<div class= "icon-info-layer-ctn"  data-aos="fade-in"  >
+
+    <div class= "icon-info-layer-left"  data-aos="fade-in" >
+        <img src="{{ section.settings.image_left | img_url: 'master' }}" />
+
+
+    
+    </div>
+    <div class= "icon-info-layer-right"  data-aos="fade-in" style="background-image:url({{ section.settings.image_right | img_url: 'master' }})"  >
+
+  <div class= "icon-info-layer__infolayer">
+    <h4 class= "icon-info-layer__pretitle"  data-aos="fade-in"  data-aos-delay="130" data-aos-duration="800">{{ section.settings.preheader }}</h4>
+
+    <div class= "icon-info-layer__title_decker">  
+<h2 class= "icon-info-layer__title"  data-aos="fade-up"  data-aos-delay="100" data-aos-duration="800">{{ section.settings.header }}</h2>
+</div>
+
+<div class= "icon-info-layer__info-ctn">  
+<p class= "icon-info-layer__info"  data-aos="fade-up"  data-aos-delay="120" data-aos-duration="800">{{ section.settings.info }}</p>
+</div>
+
+
+    <div data-aos="fade-up" data-aos-delay="150"  class="banner__buttons box-shadow-but" >
+
+        <a role="link"  href="{{ section.settings.button_link }}" class="button button--primary">{{ section.settings.button_label | escape }}</a>
+ 
+
+</div>
+
+
+
+<div class= "icon-info-layer__grid-ctn">
+    <h3 class= "icon-info-layer__grid-title"  data-aos="fade-up"  data-aos-delay="200" data-aos-duration="800">{{ section.settings.zwischenheader }}</h3>
+    <div class= "icon-info-layer__icon-grid-wrapper">
+
+{% for block in section.blocks %}
+    {% assign delay = delay | plus: 200 %}
+    <div class= "icon-info-layer__grid-item" data-aos="fade-up"   data-aos-delay="{{ delay }}">
+        <div>      
+<img src="{{ block.settings.image_icon | img_url: 'medium' }}" />
+
+</div>        <div>
+<p class= "icon-info-layer__icon-title">{{ block.settings.textarea }}</p>
+</div>
+</div>
+
+
+{% endfor %}
+</div>
+</div>
+</div>
+
+</div>
+{% schema %}{
+    "name":"Icon Info-layer",
+    "settings":[ {
+        "type":"text",
+        "id":"preline-header",
+        "label":"Preline-Header"
+         },
+         {
+             "type":"text",
+             "id":"header",
+             "label":"Header"
+              },
+
+              {
+                 "type":"textarea",
+                  "id":"info",
+                  "label":"Info"
+                   },
+                    {
+                    "type":"text",
+                    "id":"zwischenheader",
+                    "label":"Zwischenheader"
+                     },
+                          {
+                            "type": "text",
+                            "id": "button_label",                        
+                            "label": "buttontext"                           
+                          },
+                          {
+                            "type": "url",
+                            "id": "button_link",
+                            "label": "url"
+                          }  ,
+                          {
+                            "type": "image_picker",
+                             "id": "image_left",
+                            "label":"Bild links"       
+                              },    {
+                                "type": "image_picker",
+                                 "id": "image_right",
+                                "label":"Bild rechts"       
+                                  }                   
+                ],
+    "blocks": [
+        {
+        "type":"Icon-Info",
+        "limit":8,
+        "name":"icon-info",
+      "settings":[
+                {
+             "type": "textarea",
+             "id":"textarea",
+              "label":"Text"
+                 },
+
+                 {
+                "type": "image_picker",
+                 "id": "image_icon",
+                "label":"Icon"       
+                  }
+       ]
+        }
+    ],
+
+    "presets": [
+        {
+        "name":"Icon Info-layer"
+        }
+        ]
+
+}
+
+{% endschema %}
