@@ -1,0 +1,131 @@
+#_x36_60{
+
+    display: none;
+}
+#_x36_30{
+
+    display:none;
+}
+
+#_x38_50{
+
+    display: none;
+}
+#_x38_30{
+
+    display: none;
+}
+#_x38_10{
+
+    display: none;
+}
+.wave-ctn a{
+    color:white;
+    border-radius: 90px;
+    font-size:10px;
+    font-weight: 600;
+    padding:10px;
+    position: relative;
+    cursor: pointer;
+}
+.wave-ctn a::before{
+    content:"|";
+color:black;
+position: absolute;
+left:50%;
+top:-18px;
+translate: transformX(-50%);
+}
+#wave-info{
+margin-left: 8vw;
+margin-right: 8vw;
+margin-top: 2rem;
+margin-bottom: 3rem;
+display: grid;
+grid-template-columns: 50% 50%;
+}
+.wave-btns{
+    position: relative;
+  text-align: center;
+
+  margin-left: 12vw;
+  margin-right: 12vw;
+    margin-top: 2rem;
+
+padding-top: 178px;
+margin-top: 0px;
+}
+.wave-btns .line{
+    border-bottom: 2px solid black;
+    position: absolute;
+    height:2px;
+   width:700px;
+    margin-top: -8px;;
+}
+
+.wave-btns-ctn{
+   
+
+    margin-left: 8vw;
+    margin-right: 8vw;
+    height: 169px;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+#wave-info--left{
+
+
+}
+
+
+#but630{
+    background-color:#ffd156;
+}
+
+#but660{
+    background-color:#f9837f;
+    margin-right: 20px;
+}
+
+#but810{
+    background-color:#e82272;
+}
+
+#but830{
+    background-color:#ea22a0
+}
+
+#but850{
+    background-color:#b91c83;
+}
+
+
+
+.wave-active{
+    display: block!important;
+    
+    }
+.wave-ctn .input-hidden {
+    position: absolute;
+    left: -9999px;
+  }
+  
+  .wave-ctn input[type=radio]:checked + label>img {
+    border: 1px solid #fff;
+    box-shadow: 0 0 3px 3px #090;
+  }
+  
+  /* Stuff after this is only to make things more pretty */
+  .wave-ctn input[type=radio] + label>img {
+    border: 1px dashed #444;
+    width: 150px;
+    height: 150px;
+    transition: 500ms all;
+  }
+  
+  input[type=radio]:checked  #_x36_60{
+        display: block;
+    
+  }
+  

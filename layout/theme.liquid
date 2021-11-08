@@ -194,8 +194,38 @@
           console.log('in!', e.detail);
         });
 
-     
+
+
       }
+      console.log('geladen js');
+      function check(was) {
+ 
+        var elements = document.getElementsByClassName("wave-active");
+        while(elements.length > 0){
+            elements[0].parentNode.removeChild(elements[0]);
+        }
+        if(was === '660')
+          {
+           var element =  document.getElementById("_x36_60");   
+          
+         }else if(was === '630') {
+          var element =  document.getElementById("_x36_30");   
+         }
+        else if(was === '810') {
+          var element =  document.getElementById("_x38_10");   
+        }
+      else if(was === '830') {
+        var element =  document.getElementById("_x38_30");   
+      }
+    else if(was === '850') {
+      var element =  document.getElementById("_x38_50");   
+    }else{
+
+    }
+
+         element.classList.add("wave-active");
+            
+           }
     </script>
 
     {%- if settings.predictive_search_enabled -%}
