@@ -57,11 +57,48 @@
         "header": "",
         "linktext": ""
       }
+    },
+    "163636700971ab40c7": {
+      "type": "collection-list",
+      "blocks": {
+        "163636700971ab40c7-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vitapro"
+          }
+        },
+        "163636700971ab40c7-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "maxpro"
+          }
+        },
+        "163636700971ab40c7-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "163636700971ab40c7-0",
+        "163636700971ab40c7-1",
+        "163636700971ab40c7-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
     "main",
     "163636258006218fd6",
-    "16363669705403bdca"
+    "16363669705403bdca",
+    "163636700971ab40c7"
   ]
 }
