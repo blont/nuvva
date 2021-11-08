@@ -27,6 +27,7 @@
     padding:10px;
     position: relative;
     cursor: pointer;
+    z-index: 10;
 }
 .wave-ctn a::before{
     content:"|";
@@ -34,12 +35,12 @@ color:black;
 position: absolute;
 left:50%;
 top:-18px;
-translate: transformX(-50%);
+transform:translateX(-50%);
 }
 #wave-info{
 margin-left: 8vw;
 margin-right: 8vw;
-margin-top: 2rem;
+margin-top: 5rem;
 margin-bottom: 3rem;
 display: grid;
 grid-template-columns: 50% 50%;
@@ -58,14 +59,17 @@ margin-top: 0px;
 .wave-btns .line{
     border-bottom: 2px solid black;
     position: absolute;
+
+   transform:translateX(-50%);
+   
+    left:50%;
+
     height:2px;
    width:700px;
     margin-top: -8px;;
 }
 
 .wave-btns-ctn{
-   
-
     margin-left: 8vw;
     margin-right: 8vw;
     height: 169px;
@@ -73,8 +77,10 @@ margin-top: 0px;
     background-repeat: no-repeat;
 }
 
-#wave-info--left{
-
+#wave-info--right svg{
+    position: relative;
+ 
+    z-index: 1;
 
 }
 
