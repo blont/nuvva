@@ -12,7 +12,7 @@
         "163636258006218fd6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Shop",
+            "heading": "FAQ",
             "heading2": "",
             "heading_size": "medium"
           }
@@ -20,7 +20,7 @@
         "163636258006218fd6-1": {
           "type": "text",
           "settings": {
-            "text": "Rotlichttherapie Artikel shoppen"
+            "text": "Antworten auf häufige Fragen"
           }
         }
       },
@@ -40,65 +40,36 @@
         "show_text_below": true
       }
     },
-    "16363669705403bdca": {
-      "type": "collection-grid",
+    "16363692995b23504a": {
+      "type": "accordion",
       "blocks": {
-        "d945adb1-ecc0-4c42-86f2-6eab2f62be94": {
-          "type": "collection",
+        "0cb60ce1-de03-4bcb-89fb-2b703ec4177f": {
+          "type": "accordion",
           "settings": {
-            "collection": "frontpage"
+            "title": "Frage 1",
+            "content": "<p>ökjhköhnkuhn<\/p>"
+          }
+        },
+        "2292b161-e612-4630-9510-c105c47bedde": {
+          "type": "accordion",
+          "settings": {
+            "title": "Frage 2",
+            "content": "<p>jhbjhbvhjvb<\/p>"
           }
         }
       },
       "block_order": [
-        "d945adb1-ecc0-4c42-86f2-6eab2f62be94"
+        "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
+        "2292b161-e612-4630-9510-c105c47bedde"
       ],
       "settings": {
-        "header": "",
-        "linktext": ""
-      }
-    },
-    "163636700971ab40c7": {
-      "type": "collection-list",
-      "blocks": {
-        "163636700971ab40c7-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vitapro"
-          }
-        },
-        "163636700971ab40c7-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "maxpro"
-          }
-        },
-        "163636700971ab40c7-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "163636700971ab40c7-0",
-        "163636700971ab40c7-1",
-        "163636700971ab40c7-2"
-      ],
-      "settings": {
-        "title": "Collections",
-        "image_ratio": "square",
-        "color_scheme": "background-1",
-        "swipe_on_mobile": false,
-        "image_padding": false,
-        "show_view_all": false
+        "title": "Accordion Header"
       }
     }
   },
   "order": [
     "main",
     "163636258006218fd6",
-    "16363669705403bdca",
-    "163636700971ab40c7"
+    "16363692995b23504a"
   ]
 }
