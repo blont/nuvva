@@ -5,6 +5,10 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+.icon-info-layer__pretitle{margin-bottom: 0;}
+.icon-info-layer__title{
+    margin-top: .5rem;
+}
 
 .icon-info-layer-left img{
 
