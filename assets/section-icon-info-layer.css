@@ -28,7 +28,7 @@ overflow: hidden;
 }
 .icon-info-layer-right{
     background-position:left;
-    padding:25px;
+    padding:45px 50px 25px  25px;
     align-items: center;
     justify-content:center;
     display: flex;

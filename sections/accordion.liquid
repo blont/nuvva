@@ -20,9 +20,20 @@
             <div class="tab" data-aos="fade-up"  data-aos-duration="1100">
     
         <input type="checkbox" id="chck{{ count }}">
-        <label class="tab-label" for="chck{{ count }}">{{ block.settings.title }}</label>
+      
+        {% if block.settings.title %}
+
+          <label class="tab-label" for="chck{{ count }}">{{ block.settings.title }}</label>
+          {% endif %}
+      
+      
         <div class="tab-content">
-            {{ block.settings.content }}
+          {% if block.settings.content %}
+
+      <p>      {{ block.settings.content }}</p>
+            {% endif %}
+
+
         </div>
       </div>
 
@@ -65,7 +76,7 @@
             {
               "type": "richtext",
               "id": "content",
-              "default": "",
+        
               "label": "Accordion Content"
             }
           ]
