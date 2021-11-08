@@ -17,7 +17,8 @@
       
         {% for block in section.blocks %}
             {% assign count = count | plus: 1 %}
-            <div class="tab" data-aos="fade-up"  data-aos-duration="1100">
+            {% assign delay = delay | plus: 200 %}
+            <div class="tab" data-aos="fade-up" data-aos-delay="{{ delay }}"  data-aos-duration="1100">
     
         <input type="checkbox" id="chck{{ count }}">
       
