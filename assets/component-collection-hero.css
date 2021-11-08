@@ -7,6 +7,10 @@
 .collection-hero--with-image {
   background-color: rgba(var(--color-foreground), 0.04);
 }
+.collection-hero__image-container.media >img{
+  object-position: top center;
+
+}
 
 .collection-hero__inner {
   display: flex;
