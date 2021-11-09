@@ -205,14 +205,23 @@
           "settings": {
             "wave-id": "810",
             "heading": "Nah Infrarot-Licht bei 810nm",
-            "textarea": ""
+            "textarea": "Die Wellenlängen dringen weit in die Haut durch die Knochen bis ins tiefere Gewebe ein. Bei der Bestrahlung des Kopfes hilft diese Wellenlänge den Heilungsprozess der Zellen im Gehirn – gerade bei Patienten nach Schlaganfall oder Hirn-Schädel-Trauma. Erholung der Zellen und Haarwachstum werden beschleunigt."
+          }
+        },
+        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "830",
+            "heading": "Nah Infrarot-Licht bei 830nm",
+            "textarea": "Die Wellenlänge wird weniger vom Körper absorbiert und dringt durch tiefe Haut- und Gewebeschichten ein. Infektionen werden abgewehrt, Wundheilung verbessert. Gut für Knochen zur Wiederherstellung und Wachstum."
           }
         }
       },
       "block_order": [
         "7bf10c8b-25e4-45ee-bb0f-9702427463e8",
         "c865c16b-7452-49a6-90b9-6fddefa62044",
-        "5672c0f8-899b-4461-a62d-7c18113a5d21"
+        "5672c0f8-899b-4461-a62d-7c18113a5d21",
+        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8"
       ],
       "settings": {
         "title": "Wirkung von Wellenlängen auf die Haut",
