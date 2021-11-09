@@ -180,6 +180,13 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "163645210085c341b2": {
+      "type": "wavelength",
+      "settings": {
+        "title": "Wirkung von Wellenlängen auf die Haut",
+        "titleinfo": ""
+      }
     }
   },
   "order": [
@@ -187,6 +194,7 @@
     "featured_products",
     "1635351417eb23c5e9",
     "1636039719bcfe7a1a",
-    "1636099310f13726c4"
+    "1636099310f13726c4",
+    "163645210085c341b2"
   ]
 }
