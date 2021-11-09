@@ -65,26 +65,26 @@
     "1635351417eb23c5e9": {
       "type": "hero",
       "blocks": {
-        "a13cb640-17da-4814-aba8-28e2d142ff4b": {
-          "type": "collection",
-          "settings": {
-            "collection": "maxpro",
-            "image_bg": "shopify:\/\/shop_images\/4.jpg",
-            "image_hover": "shopify:\/\/shop_images\/3_2b33f188-09b0-41ca-839d-988263fca100.jpg"
-          }
-        },
         "13f5d081-21a6-47c6-af5f-9546151fff52": {
           "type": "collection",
           "settings": {
             "collection": "vitapro",
-            "image_bg": "shopify:\/\/shop_images\/5.jpg",
-            "image_hover": "shopify:\/\/shop_images\/6.jpg"
+            "image_bg": "shopify:\/\/shop_images\/vita_colleciton.png",
+            "image_hover": "shopify:\/\/shop_images\/vita_colleciton_hilit.png"
+          }
+        },
+        "a13cb640-17da-4814-aba8-28e2d142ff4b": {
+          "type": "collection",
+          "settings": {
+            "collection": "maxpro",
+            "image_bg": "shopify:\/\/shop_images\/vitaPro-collection-teaser_1.png",
+            "image_hover": "shopify:\/\/shop_images\/vitaPro-collection-teaser_hilit.png"
           }
         }
       },
       "block_order": [
-        "a13cb640-17da-4814-aba8-28e2d142ff4b",
-        "13f5d081-21a6-47c6-af5f-9546151fff52"
+        "13f5d081-21a6-47c6-af5f-9546151fff52",
+        "a13cb640-17da-4814-aba8-28e2d142ff4b"
       ],
       "settings": {
         "title": "Unsere VitaPro und Vita Kollektionen",
