@@ -204,27 +204,49 @@
         while(elements.length > 0){
           elements[0].classList.remove("wave-active");
         }
+        var elements = document.getElementsByClassName("wavebut-active");
+        while(elements.length > 0){
+          elements[0].classList.remove("wavebut-active");
+        }
+        var elements = document.getElementsByClassName("waveinfo-active");
+        while(elements.length > 0){
+          elements[0].classList.remove("waveinfo-active");
+         
+        }
+
         if(was === '660')
           {
            var element =  document.getElementById("_x36_60");   
+           var but =  document.getElementById("but660");   
+           var info =  document.getElementById("info-660");  
+
           
          }else if(was === '630') {
-          var element =  document.getElementById("_x36_30");   
+          var element =  document.getElementById("_x36_30"); 
+          var but =  document.getElementById("but630");    
+          var info =  document.getElementById("info-630");  
          }
         else if(was === '810') {
-          var element =  document.getElementById("_x38_10");   
+          var element =  document.getElementById("_x38_10");
+          var but =  document.getElementById("but810"); 
+          var info =  document.getElementById("info-810");      
         }
       else if(was === '830') {
-        var element =  document.getElementById("_x38_30");   
+        var element =  document.getElementById("_x38_30");  
+        var but =  document.getElementById("but830"); 
+        var info =  document.getElementById("info-830");    
       }
     else if(was === '850') {
-      var element =  document.getElementById("_x38_50");   
+      var element =  document.getElementById("_x38_50"); 
+      var but =  document.getElementById("but850");   
+      var info =  document.getElementById("info-850");   
     }else{
 
     }
-
-         element.classList.add("wave-active");
-            
+    but.classList.add("wavebut-active");
+       element.classList.add("wave-active");
+       info.classList.add("waveinfo-active");
+ 
            }
     </script>
 

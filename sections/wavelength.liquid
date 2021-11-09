@@ -8,11 +8,18 @@
      </span>
  </h1>
 {% endif %}
+{% if section.settings.titleinfo %}
+    <p class="titleinfo" data-aos="fade-up">
+     <span>
+    {{ section.settings.titleinfo }}
+     </span>
+    </p>
+{% endif %}
 
 <div class="wave-btns-ctn" data-aos="fade-in" style="background-image:url({{ 'wellenlaengen.jpg' | asset_url }})">
 <div class="wave-btns" data-aos="fade-in">
     <div class="line"></div>
- <a id="but630" onclick="check('630')">630nm</a>
+ <a id="but630" class="wavebut-active" onclick="check('630')">630nm</a>
  <a id="but660" onclick="check('660')">660nm</a>
  <a id="but810" onclick="check('810')">810nm</a>
  <a id="but830" onclick="check('830')">830nm</a>
@@ -24,6 +31,27 @@
 
 <div id="wave-info" data-aos="fade-in" >
     <div id="wave-info--left" data-aos="fade-in" >
+     
+        {% for block in section.blocks %}
+            {% assign num = num | plus: 1 %}
+        
+            {% if num == 1 %} 
+            <div id= "info-{{ block.settings.wave-id }}" class="infolayer waveinfo-active" data-aos="fade-up"   data-aos-delay="100">
+        {% else %}
+        <div id= "info-{{ block.settings.wave-id }}" class="infolayer" data-aos="fade-up"   data-aos-delay="100">
+        {% endif %}
+           
+   
+            <h3 class= "wave-info-title">{{ block.settings.heading }}</h3>
+            <p class= "wave-info-ctn">{{ block.settings.textarea }}</p>
+      
+        
+        </div>
+        
+        
+        {% endfor %}
+  
+  
     </div>
     <div id="wave-info--right" data-aos="fade-in" >
 
@@ -831,8 +859,34 @@
     "id": "title",
     "label": "Optional Header",
     "default": "Hero Header"
+  },  {
+    "type": "textarea",
+    "id": "titleinfo",
+    "label": "Optional Text"
   }
 ],
+"blocks": [
+    {
+    "type":"Textinfo",
+    "limit":5,
+    "name":"textinfo",
+  "settings":[
+    {
+        "type": "text",
+        "id":"wave-id",
+         "label":"Wellenlänge"
+            },   {
+        "type": "text",
+        "id":"heading",
+         "label":"Header"
+            },{
+         "type": "textarea",
+         "id":"textarea",
+          "label":"Text"
+             }
+            ]
+        }  
+    ],
 
 "presets": [
 {

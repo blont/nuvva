@@ -19,6 +19,18 @@
 
     display: none;
 }
+.wave-ctn{margin-left: 8vw;
+    margin-right: 8vw;
+margin-top: 2rem;
+
+}
+.wave-ctn h1, .wave-ctn .titleinfo{
+    text-align: center; 
+    margin-bottom: 10px;
+padding-bottom: 2px;
+padding-top: 0;
+margin-top: 0;
+}
 .wave-ctn a{
     color:white;
     border-radius: 90px;
@@ -28,6 +40,7 @@
     position: relative;
     cursor: pointer;
     z-index: 10;
+    border:2px solid white;
 }
 .wave-ctn a::before{
     content:"|";
@@ -36,10 +49,10 @@ position: absolute;
 left:50%;
 top:-18px;
 transform:translateX(-50%);
+
 }
 #wave-info{
-margin-left: 8vw;
-margin-right: 8vw;
+
 margin-top: 5rem;
 margin-bottom: 3rem;
 display: grid;
@@ -51,10 +64,10 @@ grid-template-columns: 50% 50%;
 
   margin-left: 12vw;
   margin-right: 12vw;
-    margin-top: 2rem;
+    margin-top: 5rem;
 
 padding-top: 178px;
-margin-top: 0px;
+
 }
 .wave-btns .line{
     border-bottom: 2px solid black;
@@ -77,13 +90,26 @@ margin-top: 0px;
     background-repeat: no-repeat;
 }
 
+.wavebut-active{
+    
+    border:2px solid #727171;
+
+    -webkit-box-shadow: 1px 3px 8px -3px rgba(0,0,0,0.91); 
+    box-shadow: 1px 3px 8px -3px rgba(0,0,0,0.91);
+}
+.waveinfo-active{
+display: block!important;
+
+}
+
 #wave-info--right svg{
     position: relative;
  
     z-index: 1;
 
 }
-
+#wave-info--left{padding:3rem 2rem;}
+#wave-info--left .infolayer{display: none;}
 
 #but630{
     background-color:#ffd156;
