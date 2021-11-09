@@ -215,13 +215,22 @@
             "heading": "Nah Infrarot-Licht bei 830nm",
             "textarea": "Die Wellenlänge wird weniger vom Körper absorbiert und dringt durch tiefe Haut- und Gewebeschichten ein. Infektionen werden abgewehrt, Wundheilung verbessert. Gut für Knochen zur Wiederherstellung und Wachstum."
           }
+        },
+        "f8306a4e-afb9-40b0-8f63-eca97f287364": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "850",
+            "heading": "Nah Infrarot-Licht bei 850nm",
+            "textarea": "Nah Infrarot-Licht liegt zwischen 700nm bis 1000nm und dringt tiefer in die Hautschichten ein als rotes Licht. Die Wirkungen auf Körperzellen sind daher weitgestreckt: Zur Linderung von Muskel- oder Gelenkschmerz bis zur Bestrahlung zur Genesung tiefer Wunden oder Knochenheilung kann der Einsatz bei Nahinfrarot erfolgen."
+          }
         }
       },
       "block_order": [
         "7bf10c8b-25e4-45ee-bb0f-9702427463e8",
         "c865c16b-7452-49a6-90b9-6fddefa62044",
         "5672c0f8-899b-4461-a62d-7c18113a5d21",
-        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8"
+        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8",
+        "f8306a4e-afb9-40b0-8f63-eca97f287364"
       ],
       "settings": {
         "title": "Wirkung von Wellenlängen auf die Haut",
