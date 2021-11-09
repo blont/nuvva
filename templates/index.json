@@ -183,9 +183,22 @@
     },
     "163645210085c341b2": {
       "type": "wavelength",
+      "blocks": {
+        "7bf10c8b-25e4-45ee-bb0f-9702427463e8": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "630",
+            "heading": "Rotlicht bei 630nm",
+            "textarea": "Die Wellenlänge von 360nm ist ideal bei Hautproblemen. Das Licht tritt in die Zellschicht ein 8nd stimuliert die Talgdrüsen, um so den jugendlichen Charakter deiner Haut zu schützen. Für glatte Haut und reduzierter Pigmentierung. Zudem werden feine Hautlinien und Falten geglättet. Ideal zur Anwendung bei Flechte, Haarverlust, Hautkrankheiten und Akne."
+          }
+        }
+      },
+      "block_order": [
+        "7bf10c8b-25e4-45ee-bb0f-9702427463e8"
+      ],
       "settings": {
         "title": "Wirkung von Wellenlängen auf die Haut",
-        "titleinfo": ""
+        "titleinfo": "Wie eine Nuuva Lichttherapie deine Gesundheit und dein Wohlbefinden unterstützen kann."
       }
     }
   },
