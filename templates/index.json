@@ -199,11 +199,20 @@
             "heading": "Rotlicht bei 660nm",
             "textarea": "Tiefer als bei 630nm dringen die Wellenlängen von 660nm in die Haut ein. Das gesamt Hautgewebe profitiert von der Bestrahlung dieser Wellenlänge. Heilung und Genesung werden vielfältig unterstützt."
           }
+        },
+        "5672c0f8-899b-4461-a62d-7c18113a5d21": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "810",
+            "heading": "Nah Infrarot-Licht bei 810nm",
+            "textarea": ""
+          }
         }
       },
       "block_order": [
         "7bf10c8b-25e4-45ee-bb0f-9702427463e8",
-        "c865c16b-7452-49a6-90b9-6fddefa62044"
+        "c865c16b-7452-49a6-90b9-6fddefa62044",
+        "5672c0f8-899b-4461-a62d-7c18113a5d21"
       ],
       "settings": {
         "title": "Wirkung von Wellenlängen auf die Haut",
