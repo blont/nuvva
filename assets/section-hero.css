@@ -1,63 +1,92 @@
 .header-container{
    margin-left:8vw;
    margin-right:8vw;
-    margin-top:2rem;
+    margin-top:1rem;
     margin-bottom:2rem;
     position: relative;
     overflow: hidden;
+
+
 }
 
 .hero-ctn{
-    position: relative;
+   
     overflow: hidden;
+    margin-top:7rem;
+    margin-bottom:3rem;
+    background-size: cover;
+    background-position: left bottom;
 
 }
 
-.hero-ctn img{position: absolute;
+.hero-ctn img{
+    position: absolute;
 z-index: -1;
-top:0;}
+top:0;
+left:0
+}
 .header-container h1{
     margin-top:6rem;
-    margin-bottom:6rem;
-    position: relative;
-    z-index: 2;
+    margin-bottom:0;
+
     
 }
 .hero-zwischenheader{
- margin-top: 4rem;
+ margin-top: 2rem;
     font-weight: 600;
 
-max-width: 80%;
-}
-.hero-infotext{
-    max-width: 80%;
+
 }
 
 
 .hero-collections{
-    position: relative;
-    z-index: 3;
-    margin: 80px 0 100px;
+  
+    margin: 10px 0 20px;
 }
 .hero-collections__card-ctn{
    display: flex;
-    flex-direction: column;
+   flex-direction: row;
     position: relative;
+    justify-items: center;
+    justify-content: space-evenly
 }
 @media screen and (min-width: 768px) {
     .hero-collections__card-ctn{
-        flex-direction: row;
+        width: 80%;
+      margin-left: auto;
+      margin-right: auto; 
     }
 }
 @media screen and (min-width: 1024px) {
+ 
+    .hero-ctn{
+   
+
+        background-position: center bottom;
+
+    }
+    .hero-zwischenheader{
+   
+       max-width: 80%;
+       }
+       .hero-infotext{
+           max-width: 80%;
+       }
+
     .hero-collections__card-ctn{
   margin:0  auto ;
-      width: 970px;
+      width: 84%;
     }
 }
 @media screen and (min-width: 1200px) {
     .hero-collections__card-ctn{
-        width: 1050px;
+      
+    }
+    .hero-ctn{
+   
+
+        background-position: right bottom;
+
     }
 }
 
@@ -65,33 +94,33 @@ max-width: 80%;
 .hero-collections__card{
 
      position: relative;
-    border:  3px solid black;
+  
     background-size: cover;
-    height:240px;
-    width:310px;
-    margin: 40px auto;
+    height:200px;
+    width:240px;
+
 
  }
 
 @media screen and (min-width: 768px) {
     .hero-collections__card
     {
-        height:200px;
-        width:240px;
+        height:367px;
+        width:340px;
     }
 }
 @media screen and (min-width: 1024px) {
     .hero-collections__card
     {
-        height:230px;
-        width:290px;
+        height:545px;
+        width:524px;
     }
 }
 @media screen and (min-width: 1200px) {
     .hero-collections__card
     {
-        height:270px;
-        width:330px;
+        height:590px;
+        width:550px;
     }
 }
 
@@ -100,18 +129,22 @@ text-align: center;
 }
 .hero-collections__card-title{
 font-size: 31px;
-    font-weight: 400;
+    font-weight: 600;
     text-align: center;
     position: absolute;
     top:50%;
     left:50%;
     transform: translate(-50%,-50%);
     margin: 0;
-    opacity: 1;
+    opacity: 0;
     transition: opacity 0.3s;
     color:white;
+    padding:7px 14px;
+    background-color: #4b4b4b;
 }
-.hero-collections__card:hover > .hero-collections__card-title,
+.hero-collections__card:hover > .hero-collections__card-title{
+    opacity: 1;
+}
 .hero-collections__card:hover > .hero-collections__card-bg{
     opacity: 0;
     transition: none;

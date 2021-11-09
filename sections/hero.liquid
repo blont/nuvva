@@ -1,5 +1,5 @@
 {{ 'section-hero.css' | asset_url | stylesheet_tag }}
-<div class="hero-ctn" data-aos="fade-in" >
+<div class="hero-ctn" data-aos="fade-in" style ="background-image:url({{ 'bg-collections.jpg' | asset_url }})">
 
 <div class="header-container" data-aos="fade-in" >
   {% if section.settings.title %}
@@ -40,7 +40,7 @@
         {% endif %}
 
 </div>
-<img src="{{ 'bg_abstract-bg-large.svg' | asset_url }}" />
+
 <div class="hero-collections">
 <div class="hero-collections__card-ctn" >
 
@@ -49,8 +49,9 @@
  <a class="hero-collections__card" href="collections/{{ block.settings.collection }}" alt="nuuva collection" data-aos="fade-up"   data-aos-delay="{{ delay }}">
 
 
- <div class="hero-collections__card--bg" style ="background-image:url({{ block.settings.image_bg | img_url: 'Medium' }})"></div>
-   <div class="hero-collections__card--hover" style ="background-image:url({{ block.settings.image_hover | img_url: 'Medium' }})"></div>
+ <div class="hero-collections__card--bg" style ="background-image:url({{ block.settings.image_bg | img_url: 'master' }})"></div>
+   
+ <div class="hero-collections__card--hover" style ="background-image:url({{ block.settings.image_hover | img_url: 'master' }})"></div>
      <h3 class="hero-collections__card-title">{{ block.settings.collection.title }}</h3>
  </a>
 {% endfor %}
