@@ -90,6 +90,62 @@
         "title": "Hero Header"
       }
     },
+    "163645210085c341b2": {
+      "type": "wavelength",
+      "blocks": {
+        "7bf10c8b-25e4-45ee-bb0f-9702427463e8": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "630",
+            "heading": "Rotlicht bei 630nm",
+            "textarea": "Die Wellenlänge von 360nm ist ideal bei Hautproblemen. Das Licht tritt in die Zellschicht ein 8nd stimuliert die Talgdrüsen, um so den jugendlichen Charakter deiner Haut zu schützen. Für glatte Haut und reduzierter Pigmentierung. Zudem werden feine Hautlinien und Falten geglättet. Ideal zur Anwendung bei Flechte, Haarverlust, Hautkrankheiten und Akne."
+          }
+        },
+        "c865c16b-7452-49a6-90b9-6fddefa62044": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "660",
+            "heading": "Rotlicht bei 660nm",
+            "textarea": "Tiefer als bei 630nm dringen die Wellenlängen von 660nm in die Haut ein. Das gesamt Hautgewebe profitiert von der Bestrahlung dieser Wellenlänge. Heilung und Genesung werden vielfältig unterstützt."
+          }
+        },
+        "5672c0f8-899b-4461-a62d-7c18113a5d21": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "810",
+            "heading": "Nah Infrarot-Licht bei 810nm",
+            "textarea": "Die Wellenlängen dringen weit in die Haut durch die Knochen bis ins tiefere Gewebe ein. Bei der Bestrahlung des Kopfes hilft diese Wellenlänge den Heilungsprozess der Zellen im Gehirn – gerade bei Patienten nach Schlaganfall oder Hirn-Schädel-Trauma. Erholung der Zellen und Haarwachstum werden beschleunigt."
+          }
+        },
+        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "830",
+            "heading": "Nah Infrarot-Licht bei 830nm",
+            "textarea": "Die Wellenlänge wird weniger vom Körper absorbiert und dringt durch tiefe Haut- und Gewebeschichten ein. Infektionen werden abgewehrt, Wundheilung verbessert. Gut für Knochen zur Wiederherstellung und Wachstum."
+          }
+        },
+        "f8306a4e-afb9-40b0-8f63-eca97f287364": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "850",
+            "heading": "Nah Infrarot-Licht bei 850nm",
+            "textarea": "Nah Infrarot-Licht liegt zwischen 700nm bis 1000nm und dringt tiefer in die Hautschichten ein als rotes Licht. Die Wirkungen auf Körperzellen sind daher weitgestreckt: Zur Linderung von Muskel- oder Gelenkschmerz bis zur Bestrahlung zur Genesung tiefer Wunden oder Knochenheilung kann der Einsatz bei Nahinfrarot erfolgen."
+          }
+        }
+      },
+      "block_order": [
+        "7bf10c8b-25e4-45ee-bb0f-9702427463e8",
+        "c865c16b-7452-49a6-90b9-6fddefa62044",
+        "5672c0f8-899b-4461-a62d-7c18113a5d21",
+        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8",
+        "f8306a4e-afb9-40b0-8f63-eca97f287364"
+      ],
+      "settings": {
+        "title": "Wirkung von Wellenlängen auf die Haut",
+        "titleinfo": "Wie eine Nuuva Lichttherapie deine Gesundheit und dein Wohlbefinden unterstützen kann."
+      }
+    },
     "1636039719bcfe7a1a": {
       "type": "icon-info-layer",
       "blocks": {
@@ -180,70 +236,14 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "163645210085c341b2": {
-      "type": "wavelength",
-      "blocks": {
-        "7bf10c8b-25e4-45ee-bb0f-9702427463e8": {
-          "type": "Textinfo",
-          "settings": {
-            "wave-id": "630",
-            "heading": "Rotlicht bei 630nm",
-            "textarea": "Die Wellenlänge von 360nm ist ideal bei Hautproblemen. Das Licht tritt in die Zellschicht ein 8nd stimuliert die Talgdrüsen, um so den jugendlichen Charakter deiner Haut zu schützen. Für glatte Haut und reduzierter Pigmentierung. Zudem werden feine Hautlinien und Falten geglättet. Ideal zur Anwendung bei Flechte, Haarverlust, Hautkrankheiten und Akne."
-          }
-        },
-        "c865c16b-7452-49a6-90b9-6fddefa62044": {
-          "type": "Textinfo",
-          "settings": {
-            "wave-id": "660",
-            "heading": "Rotlicht bei 660nm",
-            "textarea": "Tiefer als bei 630nm dringen die Wellenlängen von 660nm in die Haut ein. Das gesamt Hautgewebe profitiert von der Bestrahlung dieser Wellenlänge. Heilung und Genesung werden vielfältig unterstützt."
-          }
-        },
-        "5672c0f8-899b-4461-a62d-7c18113a5d21": {
-          "type": "Textinfo",
-          "settings": {
-            "wave-id": "810",
-            "heading": "Nah Infrarot-Licht bei 810nm",
-            "textarea": "Die Wellenlängen dringen weit in die Haut durch die Knochen bis ins tiefere Gewebe ein. Bei der Bestrahlung des Kopfes hilft diese Wellenlänge den Heilungsprozess der Zellen im Gehirn – gerade bei Patienten nach Schlaganfall oder Hirn-Schädel-Trauma. Erholung der Zellen und Haarwachstum werden beschleunigt."
-          }
-        },
-        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8": {
-          "type": "Textinfo",
-          "settings": {
-            "wave-id": "830",
-            "heading": "Nah Infrarot-Licht bei 830nm",
-            "textarea": "Die Wellenlänge wird weniger vom Körper absorbiert und dringt durch tiefe Haut- und Gewebeschichten ein. Infektionen werden abgewehrt, Wundheilung verbessert. Gut für Knochen zur Wiederherstellung und Wachstum."
-          }
-        },
-        "f8306a4e-afb9-40b0-8f63-eca97f287364": {
-          "type": "Textinfo",
-          "settings": {
-            "wave-id": "850",
-            "heading": "Nah Infrarot-Licht bei 850nm",
-            "textarea": "Nah Infrarot-Licht liegt zwischen 700nm bis 1000nm und dringt tiefer in die Hautschichten ein als rotes Licht. Die Wirkungen auf Körperzellen sind daher weitgestreckt: Zur Linderung von Muskel- oder Gelenkschmerz bis zur Bestrahlung zur Genesung tiefer Wunden oder Knochenheilung kann der Einsatz bei Nahinfrarot erfolgen."
-          }
-        }
-      },
-      "block_order": [
-        "7bf10c8b-25e4-45ee-bb0f-9702427463e8",
-        "c865c16b-7452-49a6-90b9-6fddefa62044",
-        "5672c0f8-899b-4461-a62d-7c18113a5d21",
-        "6d93fc8b-6244-4eca-9242-e4c1fe7171a8",
-        "f8306a4e-afb9-40b0-8f63-eca97f287364"
-      ],
-      "settings": {
-        "title": "Wirkung von Wellenlängen auf die Haut",
-        "titleinfo": "Wie eine Nuuva Lichttherapie deine Gesundheit und dein Wohlbefinden unterstützen kann."
-      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
     "1635351417eb23c5e9",
+    "163645210085c341b2",
     "1636039719bcfe7a1a",
-    "1636099310f13726c4",
-    "163645210085c341b2"
+    "1636099310f13726c4"
   ]
 }
