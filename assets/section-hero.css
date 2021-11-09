@@ -1,20 +1,39 @@
 .header-container{
+   margin-left:8vw;
+   margin-right:8vw;
     margin-top:2rem;
     margin-bottom:2rem;
     position: relative;
     overflow: hidden;
 }
 
-.header-container img{position: absolute;
-z-index: 0;
+.hero-ctn{
+    position: relative;
+    overflow: hidden;
+
+}
+
+.hero-ctn img{position: absolute;
+z-index: -1;
 top:0;}
 .header-container h1{
     margin-top:6rem;
     margin-bottom:6rem;
     position: relative;
     z-index: 2;
-    text-align: center;
+    
 }
+.hero-zwischenheader{
+ margin-top: 4rem;
+    font-weight: 600;
+
+max-width: 80%;
+}
+.hero-infotext{
+    max-width: 80%;
+}
+
+
 .hero-collections{
     position: relative;
     z-index: 3;

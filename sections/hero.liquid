@@ -1,4 +1,5 @@
 {{ 'section-hero.css' | asset_url | stylesheet_tag }}
+<div class="hero-ctn" data-aos="fade-in" >
 
 <div class="header-container" data-aos="fade-in" >
   {% if section.settings.title %}
@@ -8,9 +9,38 @@
      </span>
  </h1>
     {% endif %}
- <img src="{{ 'bg_abstract-bg-large.svg' | asset_url }}" />
+
+    {% if section.settings.infotext %}
+      <p data-aos="fade-up" class="hero-infotext">
+ 
+      {{ section.settings.infotext }}
+
+      </p>
+      {% endif %}
+      {% if section.settings.zwischenheader %}
+        <p data-aos="fade-up" class="hero-zwischenheader">
+         <span >
+        {{ section.settings.zwischenheader }}
+         </span>
+       
+        </p>
 
 
+        {% endif %}
+
+      {% if section.settings.cta %}
+        <p data-aos="fade-up" class="hero-cta">
+  
+         <span >
+          {{ section.settings.cta }}
+           </span>
+        </p>
+
+        
+        {% endif %}
+
+</div>
+<img src="{{ 'bg_abstract-bg-large.svg' | asset_url }}" />
 <div class="hero-collections">
 <div class="hero-collections__card-ctn" >
 
@@ -26,7 +56,10 @@
 {% endfor %}
 </div>
 </div>
+
+
 </div>
+
 
 
 
@@ -39,6 +72,21 @@
     "id": "title",
     "label": "Optional Header",
     "default": "Hero Header"
+  },  
+  {
+    "type": "textarea",
+    "id": "infotext",
+    "label": "Text" 
+  }, 
+   {
+    "type": "textarea",
+    "id": "zwischenheader",
+    "label": "Text" 
+  },  
+  {
+    "type": "textarea",
+    "id": "cta",
+    "label": "Text" 
   }
 ],
 "blocks": [
