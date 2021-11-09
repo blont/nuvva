@@ -191,10 +191,19 @@
             "heading": "Rotlicht bei 630nm",
             "textarea": "Die Wellenlänge von 360nm ist ideal bei Hautproblemen. Das Licht tritt in die Zellschicht ein 8nd stimuliert die Talgdrüsen, um so den jugendlichen Charakter deiner Haut zu schützen. Für glatte Haut und reduzierter Pigmentierung. Zudem werden feine Hautlinien und Falten geglättet. Ideal zur Anwendung bei Flechte, Haarverlust, Hautkrankheiten und Akne."
           }
+        },
+        "c865c16b-7452-49a6-90b9-6fddefa62044": {
+          "type": "Textinfo",
+          "settings": {
+            "wave-id": "660",
+            "heading": "Rotlicht bei 660nm",
+            "textarea": "Tiefer als bei 630nm dringen die Wellenlängen von 660nm in die Haut ein. Das gesamt Hautgewebe profitiert von der Bestrahlung dieser Wellenlänge. Heilung und Genesung werden vielfältig unterstützt."
+          }
         }
       },
       "block_order": [
-        "7bf10c8b-25e4-45ee-bb0f-9702427463e8"
+        "7bf10c8b-25e4-45ee-bb0f-9702427463e8",
+        "c865c16b-7452-49a6-90b9-6fddefa62044"
       ],
       "settings": {
         "title": "Wirkung von Wellenlängen auf die Haut",
