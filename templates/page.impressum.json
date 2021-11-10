@@ -16,17 +16,10 @@
             "heading2": "",
             "heading_size": "medium"
           }
-        },
-        "163636258006218fd6-1": {
-          "type": "text",
-          "settings": {
-            "text": "Antworten auf häufige Fragen"
-          }
         }
       },
       "block_order": [
-        "163636258006218fd6-0",
-        "163636258006218fd6-1"
+        "163636258006218fd6-0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/kat-bg.jpg",
@@ -39,10 +32,17 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "163653504524aa8591": {
+      "type": "page",
+      "settings": {
+        "page": "impressum"
+      }
     }
   },
   "order": [
     "main",
-    "163636258006218fd6"
+    "163636258006218fd6",
+    "163653504524aa8591"
   ]
 }
