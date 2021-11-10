@@ -1,0 +1,75 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "163636258006218fd6": {
+      "type": "image-banner",
+      "blocks": {
+        "163636258006218fd6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ",
+            "heading2": "",
+            "heading_size": "medium"
+          }
+        },
+        "163636258006218fd6-1": {
+          "type": "text",
+          "settings": {
+            "text": "Antworten auf häufige Fragen"
+          }
+        }
+      },
+      "block_order": [
+        "163636258006218fd6-0",
+        "163636258006218fd6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/kat-bg.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16363692995b23504a": {
+      "type": "accordion",
+      "blocks": {
+        "0cb60ce1-de03-4bcb-89fb-2b703ec4177f": {
+          "type": "accordion",
+          "settings": {
+            "title": "Frage 1",
+            "content": "<p>ökjhköhnkuhn<\/p>"
+          }
+        },
+        "2292b161-e612-4630-9510-c105c47bedde": {
+          "type": "accordion",
+          "settings": {
+            "title": "Frage 2",
+            "content": "<p>jhbjhbvhjvb<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
+        "2292b161-e612-4630-9510-c105c47bedde"
+      ],
+      "settings": {
+        "title": "Wir geben Antwort"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "163636258006218fd6",
+    "16363692995b23504a"
+  ]
+}
