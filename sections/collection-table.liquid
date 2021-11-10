@@ -18,13 +18,16 @@
            Produktbild
             </li>   
             <li>
+             Name
+                </li>   
+            <li>
             Leistung in W
             </li>   
             <li>
                 LEDs
 
             </li>   
-            <li>
+            <li class="responsive-2line">
            Energieverbrauch [W]
             </li>   
             <li>
@@ -37,7 +40,7 @@
 
 
             </li> 
-            <li>
+            <li class="responsive-2line">
                 Strahlungsintensität
 
 
@@ -58,7 +61,7 @@
                 Garantie [Jahre]
             </li> 
 
-            <li>
+            <li class="responsive-2line">
                 Lebensdauer [Std]
 
             </li> 
@@ -69,31 +72,31 @@
                 EMF Strahlung
 
             </li> 
-            <li>
+            <li class="collection-tables-2lines">
                 Geeignet für
             </li> 
            
 
-            <li>
+            <li class="collection-tables-2lines">
                Strahlungsintensität 15 cm Abstand
             </li>      
-            <li>
+            <li class="collection-tables-2lines">
                 Maximale Behandlungsfläche bei 45cm Abstand
     
             </li>      
 
-            <li>
+            <li class="collection-tables-2lines">
                 Strahlungsintensität 45 cm Abstand
 
             </li>      
 
-            <li>
+            <li class="collection-tables-extras">
                 Extra
 
             </li>      
 
             <li>
-              
+Preis              
             </li>      
 
         </ul>
@@ -114,7 +117,7 @@
             </a>               
             </li>
            <li>
-                name:   {{ product.title}}                   
+          {{ product.title}}                   
             </li>
             <li>
                 {{ product.metafields.my_fields.led_leistung.value }}
@@ -123,9 +126,14 @@
             <li>
                 {{ product.metafields.my_fields.leds.value }}        
     </li>
-    <li>   
+    <li class="responsive-2line">   
         {{ product.metafields.my_fields.energieverbrauch }}
           
+</li>
+<li>
+        
+    {{ product.metafields.my_fields.wellenlaengen}}
+      
 </li>
 <li>
         
@@ -133,7 +141,7 @@
       
 </li>
 
-<li>
+<li class="responsive-2line">
         
     {{ product.metafields.my_fields.strahlungsintensitaet}}
       
@@ -158,7 +166,7 @@
     {{ product.metafields.my_fields.garantie}}
       
 </li>
-<li>
+<li class="responsive-2line">
         
     {{ product.metafields.my_fields.lebensdauer_std_}}
       
@@ -168,33 +176,33 @@
     {{ product.metafields.my_fields.emf_strahlung}}
       
 </li>
-<li>
+<li class="collection-tables-2lines">
         
     {{ product.metafields.my_fields.geeignet}}
       
 </li>
-<li>
+<li class="collection-tables-2lines">
         
     {{ product.metafields.my_fields.strahlung15}}
       
 </li>
 
 
-<li>
+<li class="collection-tables-2lines">
         
     {{ product.metafields.my_fields.flaeche_45}}
 
       
 </li>
 
-<li>
+<li class="collection-tables-2lines">
         
     {{ product.metafields.my_fields.strahlung45}}
 
       
 </li>
 
-<li>
+<li class="collection-tables-extras">
         
     {{ product.metafields.my_fields.extra}}
 

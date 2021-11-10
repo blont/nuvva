@@ -6,17 +6,24 @@ border-right: 1px solid #c7c4c4;
 width: auto;
 list-style-type: none; /* Remove bullets */
 }
+
 .compare-table-info{
     background-color:#f2f2f2 ;
     text-align:left;
-    padding-left: 30px;
+    padding-left: 5px;
  display: table;
+font-weight: 600;
+width:150px;
+}
+.compare-table-info li{
+border-bottom: 1px solid #ffffff!important;
 
 }
 .compare-product-ctn{
-
+/* 
+hier die höhe des Containers - Abstand für weiteren Content drunter. */
 position: relative;
-height: 600px;
+height: 1650px;
 }
 
 
@@ -39,28 +46,22 @@ height: 600px;
     box-sizing: border-box;
   }
 
-  .bildhalter{
-      width: 240px;
-      height:240px;
-padding-top: 50%;
-
-
-
-
-  }
   .horizontal-scroll-wrapper {
     position: relative;
     display: block;
     top: 0;
     left: 0;
-    width: 500px;
+    width: 1550px;
     max-height: 90vw;
     margin: 0 5vw;
     padding-top: 1px;
 
     overflow-y: auto;
     overflow-x: hidden;
-    transform: rotate(-90deg) translateY(-500px);
+    /* 
+hier die höhe des Containers - Abstand für weiteren Content drunter. */
+    transform: rotate(-90deg) translateY(-1550px);
+    
     transform-origin: right top;
   }
   .horizontal-scroll-wrapper > div {
@@ -72,26 +73,52 @@ padding-top: 50%;
    
   }
   
-  .squares {
-    padding: 250px 0 0 0;
-  }
-  .squares > div {
-    width: 250px;
-    height: 250px;
-    margin: 10px 0;
-  }
-  
+
+.collection-tables-extras{
+height:170px;
+border-bottom: unset;
+
+}
+.responsive-2line{
+    height:60px;   
+}
+.collection-tables-2lines{
+    height:120px;
+
+    }
 .rectangles{
     top:100px;
     padding:300px 0 0 0;
   }
+  .compare-list li{
+  
+font-size: 14px;
+max-width: 300px;
+word-wrap: break-word;
+overflow-wrap: break-word;
+
+-webkit-hyphens: auto;
+ -moz-hyphens: auto;
+      hyphens: auto;
+      border-bottom: 1px solid #f2f2f2;
+      padding-top:8px;
+      padding-bottom: 8px;
+
+
+     
+}
+.compare-list li:not(:first-child) {
+    padding-left:10px;
+
+    }
   .rectangles > div{
-    width:300px;
+    width:305px;
     height:300px;
     margin:0px ;
     padding:5px;
-  
-    transform:rotate(90deg) translateY(-200px);
+    max-width: 305px;
+  /* translate und width sollte die gesamrthöhe haen, der einzug Y setzt die tabelle nach oben. */
+    transform:rotate(90deg) translateY(-1251px);
     transform-origin: right top;
   }
   .sticky{
@@ -102,3 +129,59 @@ z-index: 1;
 
 
   }
+  
+  .bildhalter{
+    height:173px;
+    width: 140px;
+padding-top: 50%!important;
+
+
+}
+.compare-list img{ 
+    width: 150px; height: auto;
+}
+@media (min-width:768px) {
+    .compare-list img{ 
+        width: 240px; height: auto;
+    }
+    .bildhalter{
+   
+
+        width: 240px;
+        height:264px;
+    }
+    .compare-table-info{
+        width:auto;
+        padding-left:30px;
+    }
+    .compare-list li{font-size: 15px;}
+    .collection-tables-2lines{
+        height:60px;
+
+        }
+        .responsive-2line{
+            height:initial;   
+        }
+
+        .compare-product-ctn{
+
+            height: 1450px;
+            }
+            
+
+            
+        .horizontal-scroll-wrapper {
+       
+         width: 1350px;
+        
+            /* 
+        hier die höhe des Containers - Abstand für weiteren Content drunter. */
+            transform: rotate(-90deg) translateY(-1350px);
+
+          }
+          .rectangles > div{
+         
+            transform:rotate(90deg) translateY(-1051px);
+         
+          }
+}
