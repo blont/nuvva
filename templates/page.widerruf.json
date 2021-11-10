@@ -32,10 +32,17 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "1636535573c6e9d86b": {
+      "type": "page",
+      "settings": {
+        "page": "widerruf"
+      }
     }
   },
   "order": [
     "main",
-    "163636258006218fd6"
+    "163636258006218fd6",
+    "1636535573c6e9d86b"
   ]
 }
