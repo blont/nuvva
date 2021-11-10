@@ -54,14 +54,39 @@
 
             </li> 
             <li>
-           
+                Lebensdauer [Std]
+
             </li> 
             <li>
-           
+                EMF Strahlung
+
             </li> 
             <li>
-           
+                Geeignet für
             </li> 
+           
+
+            <li>
+               Strahlungsintensität 15 cm Abstand
+            </li>      
+            <li>
+                Maximale Behandlungsfläche bei 45cm Abstand
+    
+            </li>      
+
+            <li>
+                Strahlungsintensität 45 cm Abstand
+
+            </li>      
+
+            <li>
+                Extra
+
+            </li>      
+
+            <li>
+              
+            </li>      
 
         </ul>
     </div> 
@@ -120,11 +145,45 @@
     {{ product.metafields.my_fields.gewicht}}
       
 </li>
+<li>
+        
+    {{ product.metafields.my_fields.lebensdauer_std_}}
+      
+</li>
+<li>
+        
+    {{ product.metafields.my_fields.emf_strahlung}}
+      
+</li>
+<li>
+        
+    {{ product.metafields.my_fields.geeignet}}
+      
+</li>
+<li>
+        
+    {{ product.metafields.my_fields.strahlung15}}
+      
+</li>
 
 
 <li>
         
-    {{ product.metafields.my_fields.value}}
+    {{ product.metafields.my_fields.flaeche_45}}
+
+      
+</li>
+
+<li>
+        
+    {{ product.metafields.my_fields.strahlung45}}
+
+      
+</li>
+
+<li>
+        
+    {{ product.metafields.my_fields.extra}}
 
       
 </li>
@@ -132,12 +191,7 @@
    {{ product.price | money  }}<br>
                       
     </li>
-    <li>
-    <br>
 
-    
-
-            </li>
   
 
 
