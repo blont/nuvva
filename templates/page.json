@@ -12,21 +12,14 @@
         "163636258006218fd6-0": {
           "type": "heading",
           "settings": {
-            "heading": "FAQ",
+            "heading": "Titel",
             "heading2": "",
             "heading_size": "medium"
-          }
-        },
-        "163636258006218fd6-1": {
-          "type": "text",
-          "settings": {
-            "text": "Antworten auf häufige Fragen"
           }
         }
       },
       "block_order": [
-        "163636258006218fd6-0",
-        "163636258006218fd6-1"
+        "163636258006218fd6-0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/kat-bg.jpg",
@@ -40,36 +33,16 @@
         "show_text_below": true
       }
     },
-    "16363692995b23504a": {
-      "type": "accordion",
-      "blocks": {
-        "0cb60ce1-de03-4bcb-89fb-2b703ec4177f": {
-          "type": "accordion",
-          "settings": {
-            "title": "Frage 1",
-            "content": "<p>ökjhköhnkuhn<\/p>"
-          }
-        },
-        "2292b161-e612-4630-9510-c105c47bedde": {
-          "type": "accordion",
-          "settings": {
-            "title": "Frage 2",
-            "content": "<p>jhbjhbvhjvb<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
-        "2292b161-e612-4630-9510-c105c47bedde"
-      ],
+    "1636535633fec7b3c6": {
+      "type": "page",
       "settings": {
-        "title": "Wir geben Antwort"
+        "page": "liefer-und-versandkosten"
       }
     }
   },
   "order": [
     "main",
     "163636258006218fd6",
-    "16363692995b23504a"
+    "1636535633fec7b3c6"
   ]
 }
