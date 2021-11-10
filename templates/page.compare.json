@@ -32,10 +32,36 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "163656817394beba22": {
+      "type": "collection-table",
+      "blocks": {
+        "163656817394beba22-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "maxpro"
+          }
+        },
+        "5191db28-355f-4851-80de-5f3c57a05b0b": {
+          "type": "collection",
+          "settings": {
+            "collection": "vitapro"
+          }
+        }
+      },
+      "block_order": [
+        "163656817394beba22-0",
+        "5191db28-355f-4851-80de-5f3c57a05b0b"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
     }
   },
   "order": [
     "main",
-    "163636258006218fd6"
+    "163636258006218fd6",
+    "163656817394beba22"
   ]
 }
