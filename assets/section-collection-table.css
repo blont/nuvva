@@ -1,3 +1,10 @@
+:root {
+  --a: 1750px;
+  --b: -1050px;
+}
+
+
+
 .compare-list{
 margin-left: 0px;
 padding-left: 6px;
@@ -6,6 +13,11 @@ border-right: 1px solid #c7c4c4;
 width: auto;
 list-style-type: none; /* Remove bullets */
 }
+.compare-product-item:nth-child(2) .compare-list {
+  border-left: 1px solid #c7c4c4;
+
+  }
+ 
 
 .compare-table-info{
     background-color:#f2f2f2 ;
@@ -23,7 +35,7 @@ border-bottom: 1px solid #ffffff!important;
 /* 
 hier die höhe des Containers - Abstand für weiteren Content drunter. */
 position: relative;
-height: 1650px;
+height:1950px;
 }
 
 
@@ -51,7 +63,7 @@ height: 1650px;
     display: block;
     top: 0;
     left: 0;
-    width: 1550px;
+    width:1750px;
     max-height: 90vw;
     margin: 0 5vw;
     padding-top: 1px;
@@ -60,7 +72,7 @@ height: 1650px;
     overflow-x: hidden;
     /* 
 hier die höhe des Containers - Abstand für weiteren Content drunter. */
-    transform: rotate(-90deg) translateY(-1550px);
+    transform: rotate(-90deg) translateY(-1750px);
     
     transform-origin: right top;
   }
@@ -75,7 +87,7 @@ hier die höhe des Containers - Abstand für weiteren Content drunter. */
   
 
 .collection-tables-extras{
-height:170px;
+height:256px;
 border-bottom: unset;
 
 }
@@ -104,7 +116,7 @@ overflow-wrap: break-word;
       padding-top:8px;
       padding-bottom: 8px;
 
-
+min-height:43px;
      
 }
 .compare-list li:not(:first-child) {
@@ -118,7 +130,7 @@ overflow-wrap: break-word;
     padding:5px;
     max-width: 305px;
   /* translate und width sollte die gesamrthöhe haen, der einzug Y setzt die tabelle nach oben. */
-    transform:rotate(90deg) translateY(-1251px);
+    transform:rotate(90deg) translateY(-1450px);
     transform-origin: right top;
   }
   .sticky{
@@ -126,8 +138,6 @@ overflow-wrap: break-word;
     left: 0;
     top:0;
 z-index: 1;
-
-
   }
   
   .bildhalter{
@@ -138,7 +148,8 @@ padding-top: 50%!important;
 
 }
 .compare-list img{ 
-    width: 150px; height: auto;
+    width: 150px;
+     height: auto;
 }
 @media (min-width:768px) {
     .compare-list img{ 
@@ -165,23 +176,24 @@ padding-top: 50%!important;
 
         .compare-product-ctn{
 
-            height: 1450px;
+            height:  1650px;
             }
             
 
             
         .horizontal-scroll-wrapper {
        
-         width: 1350px;
+         width: 1550px;
         
             /* 
         hier die höhe des Containers - Abstand für weiteren Content drunter. */
-            transform: rotate(-90deg) translateY(-1350px);
+            transform: rotate(-90deg) translateY(-1550px);
 
           }
           .rectangles > div{
-         
-            transform:rotate(90deg) translateY(-1051px);
+                   /* 
+        hier 300px weniger als die gesamthöhe füpr Abstand nach unten*/
+            transform:rotate(90deg) translateY(-1260px);
          
           }
 }
