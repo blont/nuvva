@@ -2287,6 +2287,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 details-disclosure > details {
     position: relative;
 }
+.icon-info-layer__title_decker{overflow: hidden;}
 
 .product-flag {
     position: absolute;

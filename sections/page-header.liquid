@@ -78,19 +78,14 @@
       >
     </div>
   {%- endif -%}
-  <div class="banner__content banner__content--{{ section.settings.desktop_text_box_position }} page-width">
-    <div class="banner__box no-bg">
+  <div class="banner__content banner__content--{{ section.settings.desktop_text_box_position }} page-width center-flex">
+    <div class="banner__box">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'heading' -%}
             <h2 class="banner__heading {% if block.settings.heading_size == 'medium' %}h1{% else %}h0{% endif %}" {{ block.shopify_attributes }}>
               <span data-aos="fade-up" data-aos-delay="50" >{{ block.settings.heading | escape }}</span>
-             
-              {%- if block.settings.heading2 != blank -%}
-                <br>
-                <span data-aos="fade-up-left" data-aos-delay="60">  {{ block.settings.heading2 | escape }}</span>
-              {%- endif -%}  
-         
+            
             </h2>
          
           {%- when 'text' -%}
@@ -114,7 +109,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.image-banner.name",
+  "name": "Page Header",
   "tag": "section",
   "class": "spaced-section spaced-section--full-width",
   "settings": [
@@ -250,12 +245,7 @@
           "default": "Image banner",
           "label": "t:sections.image-banner.blocks.heading.settings.heading.label"
         },
-        {
-          "type": "text",
-          "id": "heading2",
-          "default": "-",
-          "label": "heading2 Zeile 2"
-        },
+      
         {
           "type": "select",
           "id": "heading_size",
@@ -333,7 +323,7 @@
   ],
   "presets": [
     {
-      "name": "t:sections.image-banner.presets.name",
+      "name": "Page Header",
       "blocks": [
         {
           "type": "heading"

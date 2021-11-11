@@ -3,6 +3,13 @@
   position: relative;
   flex-direction: column;
 }
+.center-flex
+{
+  text-align: center;
+  justify-content: center;
+}
+.center-flex .banner__heading{text-align: center;}
+
 
 @media screen and (max-width: 749px) {
   .banner--small.banner--mobile-bottom:not(.banner--adapt) > .banner__media,
