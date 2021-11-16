@@ -1,5 +1,31 @@
 {
   "sections": {
+    "16370703689d91139e": {
+      "type": "page-header",
+      "blocks": {
+        "163707036720c091f8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Häufige Fragen",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "163707036720c091f8-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -34,6 +60,7 @@
     }
   },
   "order": [
+    "16370703689d91139e",
     "main",
     "16363692995b23504a"
   ]
