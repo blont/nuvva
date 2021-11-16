@@ -28,20 +28,12 @@
     },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
-      }
-    },
-    "1636535633fec7b3c6": {
-      "type": "page",
-      "settings": {
-        "page": "liefer-und-versandkosten"
       }
     }
   },
   "order": [
     "163707008324c6dc08",
-    "main",
-    "1636535633fec7b3c6"
+    "main"
   ]
 }
