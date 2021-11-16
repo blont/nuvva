@@ -1,17 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "1636535633fec7b3c6": {
-      "type": "page",
-      "settings": {
-        "page": "liefer-und-versandkosten"
-      }
-    },
     "163707008324c6dc08": {
       "type": "page-header",
       "blocks": {
@@ -37,11 +25,23 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1636535633fec7b3c6": {
+      "type": "page",
+      "settings": {
+        "page": "liefer-und-versandkosten"
+      }
     }
   },
   "order": [
+    "163707008324c6dc08",
     "main",
-    "1636535633fec7b3c6",
-    "163707008324c6dc08"
+    "1636535633fec7b3c6"
   ]
 }
