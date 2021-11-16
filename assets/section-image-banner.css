@@ -3,6 +3,17 @@
   position: relative;
   flex-direction: column;
 }
+.bg-light
+{
+  background-color: rgba(255,255,255,0.6);
+
+  background: rgb(255,179,66);
+/* background: radial-gradient(circle, rgba(252,135,81,.61) 20%, rgba(255,179,66,.61) 80%); */
+background: radial-gradient(circle, rgba(252,182,81,.31) 20%, rgba(246,160,38,.30) 80%);
+background: rgb(219,211,199);
+background: radial-gradient(circle, rgba(235,226,214,.5) 32%, rgba(245,237,231,0.61) 100%);
+
+}
 .center-flex
 {
   text-align: center;
@@ -117,8 +128,9 @@
 
 @media screen and (min-width: 750px) {
   .banner__heading,.banner__text{
-    color:white;
+    color:#79716a;
   }
+.banner__text span{ color:#e53939;}
 
 
   .banner__media {

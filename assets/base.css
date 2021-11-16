@@ -2324,8 +2324,14 @@ details-disclosure > details {
 
 }
 .button{
-    border-radius: 6px;
+    background-image: -o-linear-gradient(left,#FEA646 20.22%,#FB2274 78.29%,#D12274 98.21%);
+    background-image: -webkit-gradient(linear,left top,right top,,color-stop(20.22%,#FEA646),color-stop(78.29%,#FB2274),color-stop(98.21%,#D12274));
+    background-image: linear-gradient(90deg,#FEA646 20.22%,#FB2274 78.29%,#D12274 98.21%);
+    transition: all .5s ease;
+
+
 }
+
 
 .btn--link .button__el, .btn--secondary .button__el {
     padding-right: 20px;
@@ -2347,13 +2353,27 @@ details-disclosure > details {
     border: 10px solid;
     border-image-slice: 1;
     border-width: 3px;
-
+cursor: pointer;
     margin-top: 10px;
 }
   
   .border-gradient-purple {
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
     border-image-source: linear-gradient(-45deg, rgba(247, 34, 116, 0.8) 0%, rgba(252, 140, 105, 0.8) 50%, rgb(191, 31, 107,0.7) 100%);
   }
+
+
+  .border-gradient-purple:hover {
+   -webkit-box-shadow: 2px 1px 2px 2px rgba(0,0,0,0.15); 
+  box-shadow: 2px 1px 2px 2px rgba(0,0,0,0.15);
+    border-image-source: linear-gradient(-45deg, rgba(247, 34, 116, 0.8) 0%, rgba(252, 140, 105, 0.8) 80%, rgb(191, 31, 107,0.7) 160%);
+  }
+
+
   .grad-btn{
 width: auto;
 padding:8px 22px;
@@ -2362,6 +2382,11 @@ padding:8px 22px;
 background: white;
 color:#bf1f6b;
 font-weight: 600;
+font-size:14px;
+cursor: pointer;
+text-decoration: none;
+position: relative;
+z-index: 12;
 
   }
 
