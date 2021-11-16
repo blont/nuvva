@@ -6,24 +6,29 @@
       "settings": {
       }
     },
-    "163636258006218fd6": {
-      "type": "image-banner",
+    "1636535633fec7b3c6": {
+      "type": "page",
+      "settings": {
+        "page": "liefer-und-versandkosten"
+      }
+    },
+    "163707008324c6dc08": {
+      "type": "page-header",
       "blocks": {
-        "163636258006218fd6-0": {
+        "163707008357d50c97-0": {
           "type": "heading",
           "settings": {
-            "heading": "Titel",
-            "heading2": "",
+            "heading": "Lieferung",
             "heading_size": "medium"
           }
         }
       },
       "block_order": [
-        "163636258006218fd6-0"
+        "163707008357d50c97-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/kat-bg.jpg",
-        "image_height": "small",
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -32,17 +37,11 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "1636535633fec7b3c6": {
-      "type": "page",
-      "settings": {
-        "page": "liefer-und-versandkosten"
-      }
     }
   },
   "order": [
     "main",
-    "163636258006218fd6",
-    "1636535633fec7b3c6"
+    "1636535633fec7b3c6",
+    "163707008324c6dc08"
   ]
 }
