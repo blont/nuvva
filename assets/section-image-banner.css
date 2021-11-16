@@ -3,17 +3,23 @@
   position: relative;
   flex-direction: column;
 }
-.bg-light
-{
-  background-color: rgba(255,255,255,0.6);
 
-  background: rgb(255,179,66);
-/* background: radial-gradient(circle, rgba(252,135,81,.61) 20%, rgba(255,179,66,.61) 80%); */
-background: radial-gradient(circle, rgba(252,182,81,.31) 20%, rgba(246,160,38,.30) 80%);
-background: rgb(219,211,199);
-background: radial-gradient(circle, rgba(235,226,214,.5) 32%, rgba(245,237,231,0.61) 100%);
-
+@media screen and (min-width: 750px) {
+  .bg-light
+  {
+    background-color: rgba(255,255,255,0.6);
+  
+    background: rgb(255,179,66);
+  /* background: radial-gradient(circle, rgba(252,135,81,.61) 20%, rgba(255,179,66,.61) 80%); */
+  background: radial-gradient(circle, rgba(252,182,81,.31) 20%, rgba(246,160,38,.30) 80%);
+  background: rgb(219,211,199);
+  background: radial-gradient(circle, rgba(235,226,214,.5) 32%, rgba(245,237,231,0.61) 100%);
+  
+  }
 }
+
+
+
 .center-flex
 {
   text-align: center;
@@ -85,11 +91,12 @@ background: radial-gradient(circle, rgba(235,226,214,.5) 32%, rgba(245,237,231,0
 }
 
 .banner__media {
-  height: 100%;
+  height: 450px;
+
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
+  width: 100vw;
 
 
 }
@@ -137,6 +144,18 @@ background: radial-gradient(circle, rgba(235,226,214,.5) 32%, rgba(245,237,231,0
     height: 100%;
   }
 }
+@media screen and (min-width: 1024px) {
+  .banner__heading,.banner__text{
+    color:#79716a;
+  }
+.banner__text span{ color:#e53939;}
+
+
+  .banner__media {
+    height: 100%;
+  }
+}
+
 
 .banner--adapt {
   height: auto;
@@ -342,12 +361,15 @@ margin-top: -2rem;
     width: auto;
     max-width: 71rem;
     min-width: 45rem;
+    margin-left: 4vw;
   }
 
   .banner__box > .banner__buttons:only-child .button {
     margin-top: 0;
   }
 }
+
+
 
 @media screen and (min-width: 1400px) {
   .banner__box {
@@ -362,4 +384,33 @@ margin-top: -2rem;
 
 .banner__heading {
   margin-bottom: 0;
+}
+
+.banner-pages {
+  max-height: 250px!important;
+  overflow: hidden;
+}
+
+.banner-pages .banner__media{
+  max-height:250px!important;
+  overflow: hidden;
+}
+.banner-pages .banner__heading{
+margin-top: 2.25rem;
+color:white;
+}
+@media screen and (min-width: 748px) {
+  .banner-pages .banner__heading{
+
+    margin-top: 0;
+    }
+  .banner-pages {
+    max-height: 350px!important;
+    overflow: hidden;
+  }
+  
+  .banner-pages .banner__media{
+    max-height:350px!important;
+    overflow: hidden;
+  }
 }
