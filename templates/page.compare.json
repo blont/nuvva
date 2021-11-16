@@ -6,24 +6,23 @@
       "settings": {
       }
     },
-    "163636258006218fd6": {
-      "type": "image-banner",
+    "16370698900a5040fa": {
+      "type": "page-header",
       "blocks": {
-        "163636258006218fd6-0": {
+        "1637069890a5fa0c80-0": {
           "type": "heading",
           "settings": {
             "heading": "Produkte vergleichen",
-            "heading2": "",
             "heading_size": "medium"
           }
         }
       },
       "block_order": [
-        "163636258006218fd6-0"
+        "1637069890a5fa0c80-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/kat-bg.jpg",
-        "image_height": "small",
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -61,7 +60,7 @@
   },
   "order": [
     "main",
-    "163636258006218fd6",
+    "16370698900a5040fa",
     "163656817394beba22"
   ]
 }
