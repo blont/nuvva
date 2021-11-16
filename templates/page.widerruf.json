@@ -9,31 +9,13 @@
             "heading": "Widerruf",
             "heading_size": "medium"
           }
-        },
-        "1637070424dcfbe4ef-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1637070424dcfbe4ef-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "1637070424dcfbe4ef-0",
-        "1637070424dcfbe4ef-1",
-        "1637070424dcfbe4ef-2"
+        "1637070424dcfbe4ef-0"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -48,17 +30,10 @@
       "type": "main-page",
       "settings": {
       }
-    },
-    "1636535573c6e9d86b": {
-      "type": "page",
-      "settings": {
-        "page": "widerruf"
-      }
     }
   },
   "order": [
     "1637070424fa45ba3d",
-    "main",
-    "1636535573c6e9d86b"
+    "main"
   ]
 }
