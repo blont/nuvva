@@ -2435,6 +2435,13 @@ z-index: 12;
 
   }
 
+  .grad-btn-fullwidth{
+    width: 100%;
+    padding:8px 22px;
+  text-align: center;
+    
+      }
+
 .css-button-sliding-to-left--red {
     min-width: 130px;
     height: 40px;
@@ -2659,3 +2666,15 @@ text-align: center;
     }
 }
 
+
+@media screen and (min-width: 990px) {
+    .product__media-list{
+        text-align: right;
+    }
+  .product__media-item.grid__item {
+    max-width: 70%;
+    width: 100%;
+    margin-left:auto;
+    margin-right: 5vw;
+}
+}
