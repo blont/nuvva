@@ -186,6 +186,9 @@ html.no-js .no-js-inline {
 html.no-js .no-js-hidden {
     display: none !important;
 }
+html {
+    scroll-behavior: smooth;
+  }
 
 .page-width {
     max-width: var(--page-width);
@@ -396,6 +399,7 @@ h5,
 h1,
 .h1 {
     font-size: calc(var(--font-heading-scale) * 3rem);
+    color:#5c4f44;
 }
 
 @media only screen and (min-width: 750px) {
@@ -415,6 +419,29 @@ h2,
 .h2 {
     font-size: calc(var(--font-heading-scale) * 2rem);
 }
+.h1:after{
+
+width:110px;
+height:3px;
+background-image: -o-linear-gradient(right,#FEA646 0%,#FB2274 58.29%,#D12274 98.21%);
+background-image: -webkit-gradient(linear,right top,left top,color-stop(0%,#FEA646),color-stop(58.29%,#FB2274),color-stop(98.21%,#D12274));
+background-image: linear-gradient(-90deg,#FEA646 0%,#FB2274 58.29%,#D12274 98.21%);
+z-index: 2;
+content: " ";
+margin-top: 20px;
+margin-bottom: 10px;
+display: block;
+opacity: 0;
+animation-name: fadein;
+animation-duration: 850ms;
+animation-delay: 1250ms;
+animation-fill-mode: forwards;
+}
+@keyframes fadein {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
 
 @media only screen and (min-width: 750px) {
     h2,
@@ -1199,8 +1226,9 @@ deferred-media {
     text-decoration: none;
     border: 0.1rem solid transparent;
     border-radius: 0;
-    background-color: rgba(var(--color-button), var(--alpha-button-background));
+/*     background-color: rgba(var(--color-button), var(--alpha-button-background));
     box-shadow: 0 0 0 0.1rem rgba(var(--color-button), var(--alpha-button-border));
+    */
     color: rgb(var(--color-button-text));
     min-width: 12rem;
     min-height: 4.5rem;
@@ -1208,6 +1236,7 @@ deferred-media {
     -webkit-appearance: none;
     appearance: none;
 }
+
 
 .button:focus-visible {
     box-shadow: 0 0 0 0.1rem rgba(var(--color-button), var(--alpha-button-border)),
@@ -1238,6 +1267,7 @@ deferred-media {
     font-size: 1.5rem;
     letter-spacing: 0.1rem;
     line-height: calc(1 + 0.2 / var(--font-body-scale));
+    font-weight: 600;
 }
 
 .button--tertiary {
@@ -1256,7 +1286,8 @@ deferred-media {
 .button:not([disabled]):hover,
 .shopify-challenge__button:hover,
 .customer button:hover {
-    box-shadow: 0 0 0 0.2rem rgba(var(--color-button), var(--alpha-button-border));
+    /* box-shadow: 0 0 0 0.2rem rgba(var(--color-button), var(--alpha-button-border)); */
+
 }
 
 /* Button - other */
@@ -2336,6 +2367,14 @@ details-disclosure > details {
     transition: all .3s ease;
 border: unset!important;
 
+}
+
+
+.button:hover {
+    background-image: -o-linear-gradient(left,#FEA646 0%,#FB2274 90.29%,#D12274 100%);
+    background-image: -webkit-gradient(linear,left top,right top,color-stop(0%,#FEA646),color-stop(90.29%,#FB2274),color-stop(100%,#D12274));
+    background-image: linear-gradient(90deg,#FEA646 0%,#FB2274 90.29%,#D12274 100%);
+ 
 }
 
 

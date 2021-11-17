@@ -194,7 +194,7 @@
 
 
       }
-      console.log('geladen js');
+     
       function check(was) {
  
         var elements = document.getElementsByClassName("wave-active");
@@ -245,6 +245,32 @@
        info.classList.add("waveinfo-active");
  
            }
+
+           const links =  document.querySelectorAll("a[href='#our-collection']");
+console.log(links)
+          
+{% comment %} 
+             for (const link of links) {
+  link.addEventListener("click", clickHandler);
+}
+ {% endcomment %}
+
+
+
+
+
+
+function clickHandler(e) {
+  e.preventDefault();
+  const href = this.getAttribute("href");
+  const offsetTop = document.querySelector(href).offsetTop;
+
+  scroll({
+    top: offsetTop,
+    behavior: "smooth"
+  });
+}
+
     </script>
 
     {%- if settings.predictive_search_enabled -%}
