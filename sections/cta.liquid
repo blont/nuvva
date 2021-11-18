@@ -1,0 +1,109 @@
+{{ 'component-section-cta.css' | asset_url | stylesheet_tag }}
+<div id="cta" class="cta-ctn" data-aos="fade-in" style ="background-image:url( {{ section.settings.image_bg | img_url: '1980x' }})">
+
+<div class="cta_infolayer" data-aos="fade-in" >
+    {% if section.settings.zwischenheader %}
+        <h4 data-aos="fade-up" class="cta-zwischenheader" data-aos="fade-in" data-aos-delay="130" data-aos-duration="800">
+
+        {{ section.settings.zwischenheader }}  
+        </h4>
+
+
+        {% endif %}
+
+
+
+    {% if section.settings.title %}
+        <div class="icon-info-layer__title_decker">  
+    <h3 data-aos="fade-up" data-aos-delay="100" data-aos-duration="800" class="h2 cta-info-layer__title">
+     <span>
+    {{ section.settings.title }}
+     </span>
+ </h3>
+</div>
+    {% endif %}
+
+    {% if section.settings.infotext %}
+     <div class="cta-infotext--ctn" data-aos="zoom-in" data-aos-delay="900" data-aos-duration="800">
+        <p  class="cta-infotext">
+ 
+      {{ section.settings.infotext }}
+
+      </p>
+    </div>
+      {% endif %}
+
+
+      {% if section.settings.cta %}
+        <p data-aos="fade-up" class="hero-cta">
+  
+         <span >
+          {{ section.settings.cta }}
+           </span>
+        </p>
+
+        
+        {% endif %}
+
+        <div id="section-cta" data-aos="zoom-in" data-aos-delay="1200" data-aos-duration="800">
+          <h3> {{ section.settings.text-box }} </h3>
+          <a href="{{ section.settings.link }}" class="button">{{ section.settings.linktext }}</a>
+        </div>
+  
+</div>
+
+
+</div>
+
+
+
+
+
+{% schema %}{
+"name":"CTA",
+"settings": [
+    {
+        "type": "textarea",
+        "id": "zwischenheader",
+        "label": "Top Header" 
+      }, 
+    {
+    "type": "text",
+    "id": "title",
+    "label": "Optional Header",
+    "default": "Hero Header"
+  },  
+  {
+    "type": "textarea",
+    "id": "infotext",
+    "label": "Text" 
+  }, 
+ 
+  
+   {
+    "type":"image_picker",
+    "id":"image_bg",
+    "label":"Image Background"
+   },
+   {
+    "id": "link",
+    "type": "url",
+    "label": "Button link"
+  },
+  {
+    "id": "linktext",
+    "type": "text",
+    "label": "Button text",
+    "default": "Click Here"
+  }
+],
+
+"presets": [
+{
+"name":"CTA"
+}
+]
+}
+{% endschema %}
+
+
