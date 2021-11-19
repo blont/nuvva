@@ -75,12 +75,12 @@
     "1637311016a949a604": {
       "type": "cta",
       "settings": {
-        "zwischenheader": "",
-        "title": "Hero Header",
-        "infotext": "",
+        "zwischenheader": "Nuuva Vielfalt entdecken",
+        "title": "VitaPro vergleichen",
+        "infotext": "Finde dein passendes Nuuva-Produkt.",
         "image_bg": "shopify:\/\/shop_images\/interior-has-armchair-empty-white-wall_9e6b7c80-65eb-46a6-b3b6-e1de38aee2e2.jpg",
-        "link": "",
-        "linktext": "Click Here"
+        "link": "shopify:\/\/collections\/maxpro",
+        "linktext": "Zur Übersicht"
       }
     }
   },
