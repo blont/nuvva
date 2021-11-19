@@ -72,55 +72,20 @@
         "show_rating": false
       }
     },
-    "1636015869d79067ee": {
-      "type": "image-banner",
-      "blocks": {
-        "1636015869d79067ee-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading2": "-",
-            "heading_size": "medium"
-          }
-        },
-        "1636015869d79067ee-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1636015869d79067ee-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1636015869d79067ee-0",
-        "1636015869d79067ee-1",
-        "1636015869d79067ee-2"
-      ],
+    "1637313390dcbb76a0": {
+      "type": "cta",
       "settings": {
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "zwischenheader": "",
+        "title": "Hero Header",
+        "infotext": "",
+        "link": "",
+        "linktext": "Click Here"
       }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "1636015869d79067ee"
+    "1637313390dcbb76a0"
   ]
 }
