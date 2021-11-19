@@ -35,12 +35,6 @@
     "163656817394beba22": {
       "type": "collection-table",
       "blocks": {
-        "163656817394beba22-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "maxpro"
-          }
-        },
         "5191db28-355f-4851-80de-5f3c57a05b0b": {
           "type": "collection",
           "settings": {
@@ -49,7 +43,6 @@
         }
       },
       "block_order": [
-        "163656817394beba22-0",
         "5191db28-355f-4851-80de-5f3c57a05b0b"
       ],
       "settings": {
