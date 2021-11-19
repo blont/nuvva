@@ -26,7 +26,9 @@
         "d5b6b62d-0297-447d-9df0-89193d7e7fa9": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "maxpro",
+            "image_bg": "shopify:\/\/shop_images\/vitaPro-collection-teaser_1.png",
+            "image_hover": "shopify:\/\/shop_images\/vitaPro-collection-teaser_hilit.png"
           }
         }
       },
@@ -35,8 +37,8 @@
         "d5b6b62d-0297-447d-9df0-89193d7e7fa9"
       ],
       "settings": {
-        "title": "Hero Header",
-        "infotext": "",
+        "title": "Unsere Kollektionen",
+        "infotext": "Die Rotlichtstrahler der VitaPro und Vita Serien.",
         "zwischenheader": "",
         "cta": ""
       }
