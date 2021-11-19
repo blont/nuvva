@@ -6,43 +6,45 @@
       "settings": {
       }
     },
-    "163636258006218fd6": {
-      "type": "image-banner",
-      "blocks": {
-        "163636258006218fd6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Titel",
-            "heading2": "",
-            "heading_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "163636258006218fd6-0"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/kat-bg.jpg",
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1636535633fec7b3c6": {
       "type": "page",
       "settings": {
         "page": "liefer-und-versandkosten"
       }
+    },
+    "16373146957e6f9a7b": {
+      "type": "hero",
+      "blocks": {
+        "11b0460b-c06b-45e9-aa06-e3cfd2fa5016": {
+          "type": "collection",
+          "settings": {
+            "collection": "vitapro",
+            "image_bg": "shopify:\/\/shop_images\/vita_colleciton.png",
+            "image_hover": "shopify:\/\/shop_images\/vita_colleciton_hilit.png"
+          }
+        },
+        "d5b6b62d-0297-447d-9df0-89193d7e7fa9": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "11b0460b-c06b-45e9-aa06-e3cfd2fa5016",
+        "d5b6b62d-0297-447d-9df0-89193d7e7fa9"
+      ],
+      "settings": {
+        "title": "Hero Header",
+        "infotext": "",
+        "zwischenheader": "",
+        "cta": ""
+      }
     }
   },
   "order": [
     "main",
-    "163636258006218fd6",
-    "1636535633fec7b3c6"
+    "1636535633fec7b3c6",
+    "16373146957e6f9a7b"
   ]
 }
