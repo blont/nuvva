@@ -36,51 +36,10 @@
         "zwischenheader": "",
         "cta": ""
       }
-    },
-    "1637314922102714aa": {
-      "type": "collage",
-      "blocks": {
-        "1637314922613b7c6e-1": {
-          "type": "product",
-          "settings": {
-            "product": "vitapro-300",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "1637314922613b7c6e-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "vitapro",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
-        "4f7615b2-7955-43c3-a3e3-b5340807cd86": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/vita_colleciton.png",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "1637314922613b7c6e-1",
-        "1637314922613b7c6e-2",
-        "4f7615b2-7955-43c3-a3e3-b5340807cd86"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
     }
   },
   "order": [
     "main",
-    "16373146957e6f9a7b",
-    "1637314922102714aa"
+    "16373146957e6f9a7b"
   ]
 }
