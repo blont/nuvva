@@ -1,0 +1,45 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16373146957e6f9a7b": {
+      "type": "hero",
+      "blocks": {
+        "11b0460b-c06b-45e9-aa06-e3cfd2fa5016": {
+          "type": "collection",
+          "settings": {
+            "collection": "vitapro",
+            "image_bg": "shopify:\/\/shop_images\/vita_colleciton.png",
+            "image_hover": "shopify:\/\/shop_images\/vita_colleciton_hilit.png"
+          }
+        },
+        "d5b6b62d-0297-447d-9df0-89193d7e7fa9": {
+          "type": "collection",
+          "settings": {
+            "collection": "maxpro",
+            "image_bg": "shopify:\/\/shop_images\/vitaPro-collection-teaser_1.png",
+            "image_hover": "shopify:\/\/shop_images\/vitaPro-collection-teaser_hilit.png"
+          }
+        }
+      },
+      "block_order": [
+        "11b0460b-c06b-45e9-aa06-e3cfd2fa5016",
+        "d5b6b62d-0297-447d-9df0-89193d7e7fa9"
+      ],
+      "settings": {
+        "title": "Unsere Kollektionen",
+        "infotext": "Die Rotlichtstrahler der VitaPro und Vita Serien.",
+        "zwischenheader": "",
+        "cta": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16373146957e6f9a7b"
+  ]
+}
