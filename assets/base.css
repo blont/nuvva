@@ -2660,6 +2660,12 @@ text-align: center;
     background-attachment: fixed;
 }
 
+.info-ctn{
+margin-left: 8vw;
+margin-right: 8vw;
+margin-top: 4rem;
+
+}
 @media screen and (forced-colors: active) {
     .icon {
         color: CanvasText;
