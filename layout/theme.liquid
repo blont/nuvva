@@ -172,7 +172,11 @@
     </script>
 
     
-    <script src="{{ 'aos.js' | asset_url }}" defer="defer"></script>
+
+    <script src="{{ 'jquery-3.6.0.min.js' | asset_url }}" defer="defer"></script>
+        <script src="{{ 'aos.js' | asset_url }}" defer="defer"></script>
+
+    <script src="{{ 'slick.min.js' | asset_url }}" defer="defer"></script>
     <script>
     
       if (!window.Cypress) {
@@ -183,6 +187,8 @@
           mirror: true
           
         });
+      initSlick();
+
         console.log('timeout aos!');
         }, 1000);
 
@@ -254,6 +260,36 @@ console.log(links)
   link.addEventListener("click", clickHandler);
 }
  {% endcomment %}
+
+ function  initSlick(){
+
+
+if($('.product__media-list').length){
+
+
+
+  
+ $('.product__media-list').slick({
+ 
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  arrows: false,
+  fade: true,
+  asNavFor: '.slider-nav'
+});
+$('.slider-nav').slick({
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  asNavFor: '.product__media-list',
+  dots: true,
+  centerMode: true,
+  focusOnSelect: true
+});
+ }
+}
+
+
+
 
 
 

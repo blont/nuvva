@@ -6,6 +6,8 @@
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
 {{ 'component-rating.css' | asset_url | stylesheet_tag }}
 {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
+{{ 'slick.css' | asset_url | stylesheet_tag }}
+{{ 'slick-theme.css' | asset_url | stylesheet_tag }}
 
 <link rel="stylesheet" href="{{ 'component-deferred-media.css' | asset_url }}" media="print" onload="this.media='all'">
 
@@ -19,8 +21,11 @@
 {%- endif -%}
 
 <section class="page-width">
+
+
+
   <div class="product grid grid--1-col {% if product.media.size > 0 %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
-    <div class="grid__item product__media-wrapper">
+  <div class="grid__item product__media-wrapper">
       <slider-component class="slider-mobile-gutter">
         <a class="skip-to-content-link button visually-hidden" href="#ProductInfo-{{ section.id }}">
           {{ "accessibility.skip_to_product_info" | t }}
@@ -66,7 +71,32 @@
           {{ 'products.product.xr_button' | t }}
         </button>
       {%- endif -%}
+ 
+ 
+  
+      <ul class="slider-nav" role="list">
+        {%- assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' -%}
+        {%- if product.selected_or_first_available_variant.featured_media != null -%}
+          {%- assign media = product.selected_or_first_available_variant.featured_media -%}
+          <li class="product__media-item grid__item slider__slide{% if section.settings.hide_variants and variant_images contains media.src %} product__media-item--variant{% endif %}">
+            {% render 'product-thumbnailslick', media: media, position: 'featured', loop: section.settings.enable_video_looping %}
+          </li>
+        {%- endif -%}
+        {%- for media in product.media -%}
+          {%- unless media.id == product.selected_or_first_available_variant.featured_media.id -%}
+            <li class="product__media-item grid__item slider__slide{% if section.settings.hide_variants and variant_images contains media.src %} product__media-item--variant{% endif %}">
+              {% render 'product-thumbnailslick', media: media, position: forloop.index, loop: section.settings.enable_video_looping %}
+            </li>
+          {%- endunless -%}
+        {%- endfor -%}
+      </ul>
     </div>
+
+ 
+
+
+
+
     <div class="product__info-wrapper grid__item">
       <div id="ProductInfo-{{ section.id }}" class="product__info-container{% if section.settings.enable_sticky_info %} product__info-container--sticky{% endif %}">
         {%- assign product_form_id = 'product-form-' | append: section.id -%}
@@ -363,7 +393,13 @@
         {%- endfor -%}
       </div>
     </div>
+ 
+
+ 
+ 
   </div>
+
+
 
   <product-modal id="ProductModal-{{ section.id }}" class="product-media-modal media-modal">
     <div class="product-media-modal__dialog" role="dialog" aria-label="{{ 'products.modal.label' | t }}" aria-modal="true" tabindex="-1">
@@ -406,6 +442,8 @@
       </div>
     </modal-dialog>
   {%- endfor -%}
+
+
 </section>
 
 {% javascript %}
@@ -445,6 +483,7 @@
   customElements.define('product-modal', ProductModal);
 {% endjavascript %}
 
+
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     function isIE() {
@@ -465,6 +504,12 @@
     document.querySelector('#Variants-{{ section.id }}').addEventListener('change', function(event) {
       hiddenInput.value = event.currentTarget.value;
     });
+
+
+  
+
+
+
   });
 </script>
 

@@ -95,7 +95,7 @@
   transition: all .5s ease;
   background-color: rgba(149,57,153,1);
 }
-
+/* 
 .shopify-payment-button__button::after{
 
   content: "";
@@ -118,7 +118,7 @@ transition: all .5s ease;
 .shopify-payment-button__button:hover::after {
   right: -100%;
   width:200%;
-}
+} */
 
 
 .shopify-payment-button__button--unbranded::selection {

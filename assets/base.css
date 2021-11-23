@@ -2552,6 +2552,9 @@ text-align: center;
     -o-transition: .2s ease opacity;
     transition: opacity .2s ease;
 }
+
+.slick-thumb{cursor: pointer;}
+
 .btn--link svg, .btn--secondary svg {
     margin-left: 126px;
     
@@ -2670,13 +2673,23 @@ text-align: center;
 
 
 @media screen and (min-width: 990px) {
+
     .product__media-list{
         text-align: right;
     }
-  .product__media-item.grid__item {
-    max-width: 70%;
-    width: 100%;
+  .product__media-item.grid__item  {
+    max-width: 25%;
+    width: auto;
+
+    width:40%;
+
+}
+.slick-slider{
+    max-width: 60%;
     margin-left:auto;
-    margin-right: 5vw;
+    margin-right: auto;
 }
+
 }
+
+.slider-nav .slick-current div{ border:1px solid #a5a5a5;}
