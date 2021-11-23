@@ -37,40 +37,6 @@
         "cta": ""
       }
     },
-    "16376724530d36caf1": {
-      "type": "image-with-text",
-      "blocks": {
-        "1637672453bff48f7a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "VitaMAX und VitaMAX+ Serien"
-          }
-        },
-        "1637672453bff48f7a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Die Nuuva VitaMAX und VitaMAX+ Serien sind eine der<br\/>fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem<br\/>Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen<br\/>und technologischen Erkenntnisse eingeflossen. Die VitaMAX und VitaMAX+ Serien<br\/>kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste<br\/>Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen<br\/>gewährleistet. <\/p><p> <\/p><p>Beide Modellreihen bieten eine volldigitale Steuerung mit<br\/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage-\/Standoptionen<br\/>im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer<br\/>größeren Anwendungsfläche zu verbinden. Individuelle Größen können<br\/>berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank<br\/>der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr<br\/>komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus<br\/>gemeinsam zu bedienen und zu steuern.<\/p>"
-          }
-        },
-        "1637672453bff48f7a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1637672453bff48f7a-0",
-        "1637672453bff48f7a-1",
-        "1637672453bff48f7a-2"
-      ],
-      "settings": {
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
     "1637673092c78fbfdc": {
       "type": "multicolumn",
       "blocks": {
@@ -99,7 +65,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
@@ -108,7 +74,6 @@
   "order": [
     "main",
     "16373146957e6f9a7b",
-    "16376724530d36caf1",
     "1637673092c78fbfdc"
   ]
 }
