@@ -187,11 +187,12 @@
           mirror: true
           
         });
-      initSlick();
 
-        console.log('timeout aos!');
+   initSlick();
+
         }, 1000);
 
+       
        
         document.addEventListener('aos:in', function(e) {
           console.log('in!', e.detail);
@@ -253,7 +254,7 @@
            }
 
            const links =  document.querySelectorAll("a[href='#our-collection']");
-console.log(links)
+
           
 {% comment %} 
              for (const link of links) {
@@ -266,7 +267,7 @@ console.log(links)
 
 if($('.product__media-list').length){
 
-
+$('.slick-thumb').css({ opacity: 1 });
 
   
  $('.product__media-list').slick({
