@@ -102,40 +102,6 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
-    },
-    "16376757421da6d969": {
-      "type": "image-with-text",
-      "blocks": {
-        "1637675742174e0cb4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Nuuva Qualität"
-          }
-        },
-        "1637675742174e0cb4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bei der Qualität gehen wir keine Kompromisse ein. In all<br\/>unseren Leuchten verarbeiten wir hochwertige und langlebige Bauteile. Eine<br\/>geringe Wärmebildung erhöht die Lebensdauer der LED-Lampen beträchtlich. In<br\/>unseren Leuchten verwenden wir daher MeanWell LED-Netzteile und ein<br\/>hochwertiges Kühlsystem, um die Wärmebildung zu reduzieren. Damit wir dennoch die<br\/>hohe Bestrahlungsstärke gewährleisten können verwenden wir 5W Dual-Chip LEDs.<br\/>Diese haben eine höhere Strahlungsintensität mit einer deutlich erhöhten<br\/>Lebensdauer bei verringerter Wärmeabgabe gegenüber einer herkömmlichen Single-Chip<br\/>LED-Lichtquelle.<\/p><p>Wir sind so von der Qualität und Langlebigkeit unserer<br\/>Leuchten überzeugt, dass wir dir eine Garantie von 3 Jahren auf unsere Vita<br\/>Leuchten und von sogar 5 Jahren auf unsere VitaMAX und VitaMAX+ Serien anbieten<br\/>können. Die Nuuva LED-Leuchten werden dir lange und zuverlässig Gesundheit und<br\/>Wohlbefinden schenken, auch weit über den Garantiezeitraum hinaus.<\/p>"
-          }
-        },
-        "1637675742174e0cb4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1637675742174e0cb4-0",
-        "1637675742174e0cb4-1",
-        "1637675742174e0cb4-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
     }
   },
   "order": [
@@ -143,7 +109,6 @@
     "product-grid",
     "163593723729661e2c",
     "16359412341220a733",
-    "163593724891150a59",
-    "16376757421da6d969"
+    "163593724891150a59"
   ]
 }
