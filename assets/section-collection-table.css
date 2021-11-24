@@ -197,6 +197,9 @@ padding-top: 50%!important;
          
           }
 }
+.collection-grid__title_decker{
+  overflow: hidden;
+}
 .nuuva-table{
   margin-left: auto;
   margin-right: auto;
