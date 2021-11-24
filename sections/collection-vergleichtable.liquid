@@ -1,12 +1,18 @@
 
 {{ 'section-collection-table.css' | asset_url | stylesheet_tag }}
-<div class= "collection-table-ctn"  data-aos="fade-in"  >
-  
+<div class= "collection-table-ctn centered-header"  data-aos="fade-in"  >
+
+    {%- if section.settings.header-%}
+ 
+
+
   <div class= "collection-grid__header">
     <div class= "collection-grid__title_decker">  
 <h2 class= "collection-grid__title"  data-aos="fade-up"  data-aos-delay="1000" data-aos-duration="800">{{ section.settings.header }}</h2>
   </div>
 </div>
+{%- endif -%}
+
 
 <table class="nuuva-table" width="80%" >
     <tbody  >

@@ -2396,6 +2396,10 @@ border: unset!important;
           hyphens: auto;
   }
   
+.centered-header{
+    text-align: center;
+}
+
   .border-gradient {
     border: 10px solid;
     border-image-slice: 1;
@@ -2498,6 +2502,8 @@ text-align: center;
     height: 100%;
 
     
+
+
   }
 
   /* Chrome, Safari, Opera */
