@@ -202,7 +202,6 @@ padding-top: 50%!important;
 }
 .nuuva-table{
 
-td:first-child { text-align: left; }
   margin-left: auto;
   margin-right: auto;
   border: 1px solid rgb(235, 235, 235);
@@ -219,7 +218,8 @@ margin-bottom:5rem;
   padding:5px 10px;
   
 }
-.nuuva-table td:first-child { text-align: left; }
+.nuuva-table td:first-child { text-align: left; 
+width:25%;}
 .table-header{
   font-weight: 700;
 
