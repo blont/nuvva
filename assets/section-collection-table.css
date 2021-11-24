@@ -200,9 +200,17 @@ padding-top: 50%!important;
 .nuuva-table{
   margin-left: auto;
   margin-right: auto;
+  border: 1px solid rgb(216, 216, 216);
+  border-collapse: collapse;
 
+
+}
+.nuuva-table th, .nuuva-table td {
+  border: 1px solid rgb(216, 216, 216);
+  border-collapse: collapse;
+  padding:6x;
 }
 .table-header{
   font-weight: 700;
-  
+
 }
