@@ -6,8 +6,7 @@
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
 {{ 'component-rating.css' | asset_url | stylesheet_tag }}
 {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
-{{ 'slick.css' | asset_url | stylesheet_tag }}
-{{ 'slick-theme.css' | asset_url | stylesheet_tag }}
+
 
 <link rel="stylesheet" href="{{ 'component-deferred-media.css' | asset_url }}" media="print" onload="this.media='all'">
 
@@ -443,22 +442,26 @@
     </modal-dialog>
   {%- endfor -%}
 
-
 </section>
-<section  >
-  <div class="info-ctn">
-   
-    <div class="icon-info-layer__title_decker">  
-    <h3 class="h2 image-with-text__heading " data-aos="fade-up" data-aos-delay="220" data-aos-duration="800">{{ product.metafields.my_fields.product_decription_header.value }} </h3 
-    >
 
+{%- if product.metafields.my_fields.productdecription_long.value != null -%}
+  <section  >
+    <div class="info-ctn">
+     
+      <div class="icon-info-layer__title_decker">  
+      <h3 class="h2 image-with-text__heading " data-aos="fade-up" data-aos-delay="220" data-aos-duration="800">{{ product.metafields.my_fields.product_decription_header.value }} </h3 
+      >
+  
+    </div>
+    <div class="info--text"  data-aos="fade-up">
+  <p>
+      {{ product.metafields.my_fields.productdecription_long.value }}</p>
+    </div>
   </div>
-  <div class="info--text"  data-aos="fade-up">
-<p>
-    {{ product.metafields.my_fields.productdecription_long.value }}</p>
-  </div>
-</div>
-</section>
+  </section>
+  {%- endif -%}
+
+
 
 
 {% javascript %}
