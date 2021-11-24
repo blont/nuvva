@@ -1,8 +1,8 @@
 {{ 'component-collection-hero.css' | asset_url | stylesheet_tag }}
 
 <div class="collection-hero{% if section.settings.show_collection_image and collection.image %} collection-hero--with-image{% endif %}">
-  <div class="collection-hero__inner page-width">
-    <div class="collection-hero__text-wrapper grid--1-col-tablet">
+  <div class="collection-hero__inner page-width grid grid--gapless grid--1-col grid--1-col-tablet">
+    <div class="collection-hero__text-wrapper grid__item">
       <h1 class="collection-hero__title">
         <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}: </span>
         {{- collection.title | escape -}}
@@ -14,7 +14,7 @@
     </div>
 
     {%- if section.settings.show_collection_image and collection.image -%}
-      <div class="collection-hero__image-container media">
+      <div class="collection-hero__image-container media grid__item">
         <img
           srcset="{%- if collection.image.width >= 165 -%}{{ collection.image | img_url: '165x' }} 165w,{%- endif -%}
             {%- if collection.image.width >= 360 -%}{{ collection.image | img_url: '360x' }} 360w,{%- endif -%}
