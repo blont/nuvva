@@ -13,12 +13,9 @@
 }
 
 .collection-hero__inner {
-  display: grid;
-  
+ display: flex;
+ flex-direction: row;
   margin-bottom: 2rem;
-  grid-template-columns: 1fr 1fr;
-
-
 }
 
 .collection-hero--with-image .collection-hero__inner {
@@ -105,4 +102,15 @@
     margin-left: 3rem;
     min-height: 40rem;
   }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .collection-hero__inner {
+
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+}
 }
