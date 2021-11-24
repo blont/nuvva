@@ -69,11 +69,30 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "1637751976a914fb95": {
+      "type": "collection-vergleichtable",
+      "blocks": {
+        "1637751976aa0b1535-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1637751976aa0b1535-0"
+      ],
+      "settings": {
+        "header": "Serien im Vergleich",
+        "linktext": ""
+      }
     }
   },
   "order": [
     "main",
     "16373146957e6f9a7b",
-    "1637673092c78fbfdc"
+    "1637673092c78fbfdc",
+    "1637751976a914fb95"
   ]
 }
