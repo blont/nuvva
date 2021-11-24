@@ -13,9 +13,12 @@
 }
 
 .collection-hero__inner {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  
   margin-bottom: 2rem;
+  grid-template-columns: 1fr 1fr;
+
+
 }
 
 .collection-hero--with-image .collection-hero__inner {
@@ -25,9 +28,8 @@
 
 @media screen and (min-width: 750px) {
   .collection-hero.collection-hero--with-image {
-  padding:0;
-    /* padding: calc(4rem + var(--page-width-margin)) 0
-      calc(4rem + var(--page-width-margin)); */
+ padding: calc(4rem + var(--page-width-margin)) 0
+      calc(4rem + var(--page-width-margin)); 
   }
 
   .collection-hero--with-image .collection-hero__inner {

@@ -1,7 +1,7 @@
 {{ 'component-collection-hero.css' | asset_url | stylesheet_tag }}
 
 <div class="collection-hero{% if section.settings.show_collection_image and collection.image %} collection-hero--with-image{% endif %}">
-  <div class="collection-hero__inner page-width grid grid--gapless grid--2-col grid--1-col-tablet">
+  <div class="collection-hero__inner page-width grid grid--1-col grid--1-col-tablet">
     <div class="collection-hero__text-wrapper grid__item">
       <h1 class="collection-hero__title">
         <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}: </span>
