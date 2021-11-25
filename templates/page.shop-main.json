@@ -87,12 +87,39 @@
         "header": "Serien im Vergleich",
         "linktext": ""
       }
+    },
+    "1637851471d25d908a": {
+      "type": "text-2spalten",
+      "blocks": {
+        "16378514718da3b922-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nuuva Qualität"
+          }
+        },
+        "16378514718da3b922-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei der Qualität gehen wir keine Kompromisse ein. In all unseren Leuchten verarbeiten wir hochwertige und langlebige Bauteile. Eine geringe Wärmebildung erhöht die Lebensdauer der LED-Lampen beträchtlich. In unseren Leuchten verwenden wir daher MeanWell LED-Netzteile und ein hochwertiges Kühlsystem, um die Wärmebildung zu reduzieren. Damit wir dennoch die hohe Bestrahlungsstärke gewährleisten können verwenden wir 5W Dual-Chip LEDs. Diese haben eine höhere Strahlungsintensität mit einer deutlich erhöhten Lebensdauer bei verringerter Wärmeabgabe gegenüber einer herkömmlichen Single-Chip LED-Lichtquelle.<br\/><br\/>Wir sind so von der Qualität und Langlebigkeit unserer Leuchten überzeugt, dass wir dir eine Garantie von 3 Jahren auf unsere Vita Leuchten und von sogar 5 Jahren auf unsere VitaMAX und VitaMAX+ Serien anbieten können. Die Nuuva LED-Leuchten werden dir lange und zuverlässig Gesundheit und Wohlbefinden schenken, auch weit über den Garantiezeitraum hinaus.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16378514718da3b922-0",
+        "16378514718da3b922-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
     "16373146957e6f9a7b",
     "1637673092c78fbfdc",
-    "1637751976a914fb95"
+    "1637751976a914fb95",
+    "1637851471d25d908a"
   ]
 }
