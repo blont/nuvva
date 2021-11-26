@@ -13,7 +13,7 @@
     "type_body_font": "assistant_n4",
     "body_scale": 110,
     "predictive_search_enabled": false,
-    "favicon": "shopify:\/\/shop_images\/fav.png",
+    "favicon": "shopify:\/\/shop_images\/signet-fav.png",
     "currency_code_enabled": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/log-nuuva_big.png",
     "checkout_sidebar_background_color": "#f2efef",
@@ -45,25 +45,25 @@
               "menu": "footer"
             }
           },
-          "footer-1": {
-            "type": "text",
-            "settings": {
-              "heading": "Kontakt",
-              "subtext": "<p>Adresse...<\/p>"
-            }
-          },
           "925a9b9f-4239-485d-b274-fa994005fb03": {
             "type": "link_list",
             "settings": {
               "heading": "Unsere Produkte",
               "menu": "footer-2"
             }
+          },
+          "footer-1": {
+            "type": "text",
+            "settings": {
+              "heading": "Kontakt",
+              "subtext": "<p>Adresse...<\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1",
-          "925a9b9f-4239-485d-b274-fa994005fb03"
+          "925a9b9f-4239-485d-b274-fa994005fb03",
+          "footer-1"
         ],
         "settings": {
           "color_scheme": "background-1",
