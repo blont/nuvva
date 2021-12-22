@@ -56,7 +56,7 @@
             "textarea": "Mit einer Bestrahlung von roten und Nah-Infraroten Wellen&shy;längen werden Haut- und Muskelzellen vital erfrischt.",
             "image": "shopify:\/\/shop_images\/mnuuva-rotlichtherpaie-gut-fuer-haut.png",
             "button_label": "",
-            "button_link": ""
+            "button_link": "https:\/\/nuuva.de\/pages\/so-gehts\/#was-ist-rotlichtherapie"
           }
         },
         "cb78a031-0578-4d7f-b633-0e73d9637ce5": {
@@ -97,47 +97,6 @@
         "fdbf9063-d0da-4ba2-b877-603f3d8dfea9"
       ],
       "settings": {
-      }
-    },
-    "163731284876ffc23b": {
-      "type": "multicolumn",
-      "blocks": {
-        "1637312848cb348354-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers anregt.<br\/><\/p><p>Erfahre <span style=\"text-decoration:underline\">hier<\/span> mehr über die Forschung, wie die Rotlichttherapie<br\/>funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohlbefinden zu verbessern.<\/p>"
-          }
-        },
-        "1637312848cb348354-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hat die Rotlichttherapie Nebenwirkungen?",
-            "text": "<p>Bei der Rotlichttherapie werden keine Medikamente oder chirurgische Eingriffe eingesetzt, sondern Licht, das auch in der Sonne vorkommt. Rotlichtgeräte verwenden bestimmte Wellenlängen, die sich in Forschungen als besonders positiv für den Körper erwiesen haben und erzeugen so ein größeres Maß an \"bioaktivem“ Licht. Die Gefahr eines Sonnenbrandes besteht nicht, da keine UV-Strahlung abgegeben wird.<\/p>"
-          }
-        },
-        "1637312848cb348354-2": {
-          "type": "column",
-          "settings": {
-            "title": "Wissenschaftlich getestet",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1637312848cb348354-0",
-        "1637312848cb348354-1",
-        "1637312848cb348354-2"
-      ],
-      "settings": {
-        "title": "Nuuva - für deine Gesundheit",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "1635351417eb23c5e9": {
@@ -358,7 +317,6 @@
   "order": [
     "image_banner",
     "164017126366b0f9cb",
-    "163731284876ffc23b",
     "1635351417eb23c5e9",
     "163645210085c341b2",
     "1636039719bcfe7a1a",
