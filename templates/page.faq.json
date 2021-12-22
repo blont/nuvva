@@ -104,6 +104,13 @@
             "title": "Machen LEDs einen Unterschied?",
             "content": "<p>Unbedingt! LEDs sind eine effektive Technologie zur gezielten Erzeugung von Wellenlängen mit definierten Abstrahlwinkeln. Sie erlauben außerdem eine hohe Lichtintensität bei minimaler Wärmeentwicklung. Sie sind die sicherste und effizienteste Quelle für die Lichttherapie.<\/p>"
           }
+        },
+        "792d586e-9355-4d10-8f29-6143294a2639": {
+          "type": "accordion",
+          "settings": {
+            "title": "Was heißt NIR?",
+            "content": "<p>NIR steht für Nahinfrarot. NIR ist Teil des Sonnenlichts mit Wellenlängen von 780 bis 3000nm. Es ist für den Menschen nicht sichtbar. In der NIR-Lichttherapie werden in der Regel Wellen des Spektrums zwischen 780 und 1070nm eingesetzt. Bei Nuuva verwenden wir NIR-Strahlungen zwischen 810nm bis 850nm und Rotlicht von 630nm + 660nm (sichtbar).<\/p>"
+          }
         }
       },
       "block_order": [
@@ -116,7 +123,8 @@
         "8aa35437-bfe1-4dbd-85b5-5b1e5fd4ca6e",
         "a15d1885-451a-40a1-935e-e20d7e29b560",
         "9f3940e8-b459-46e3-9e8d-c48188c5e485",
-        "e7fe0c79-4955-4ce4-9c99-f2a54e40a299"
+        "e7fe0c79-4955-4ce4-9c99-f2a54e40a299",
+        "792d586e-9355-4d10-8f29-6143294a2639"
       ],
       "settings": {
         "title": "Wir geben Antwort"
