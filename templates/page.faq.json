@@ -48,11 +48,19 @@
             "title": "Wie benutze ich die Rotlichttherapie Leuchten?",
             "content": "<p>Du stellst die Leuchte auf einen Tisch oder Boden bzw. hängst sie mittels der mittgelieferten Aufhängungen and Tür oder Wand und schaltet sie ein - je nach Modell mit Schalter oder Bedienungsfeld und stellst<br\/>dich in einer Entfernung von 15cm bis 45cm für 5-10 min davor. Abstand und Dauer entnimmst du der Bedienungsanleitung. Die Bestrahlung soll direkt auf die Haut erfolgen. <\/p>"
           }
+        },
+        "987c52c9-359e-4d51-8044-aee467512e16": {
+          "type": "accordion",
+          "settings": {
+            "title": "Welches Modell ist das Richtige für mich?",
+            "content": "<p>Für eine Übersicht der verschiedenen Modellreihen, siehe <span style=\"text-decoration:underline\">hier<\/span>.<br\/>Du kannst uns auch jederzeit eine E-Mail schicken oder anrufen um dich beraten<br\/>zulassen.<\/p>"
+          }
         }
       },
       "block_order": [
         "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
-        "2292b161-e612-4630-9510-c105c47bedde"
+        "2292b161-e612-4630-9510-c105c47bedde",
+        "987c52c9-359e-4d51-8044-aee467512e16"
       ],
       "settings": {
         "title": "Wir geben Antwort"
