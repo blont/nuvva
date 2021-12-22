@@ -55,12 +55,20 @@
             "title": "Welches Modell ist das Richtige für mich?",
             "content": "<p>Für eine Übersicht der verschiedenen Modellreihen, siehe <span style=\"text-decoration:underline\">hier<\/span>.<br\/>Du kannst uns auch jederzeit eine E-Mail schicken oder anrufen um dich beraten<br\/>zulassen.<\/p>"
           }
+        },
+        "b94de707-e0a9-47c6-b9bf-4e324f5f1391": {
+          "type": "accordion",
+          "settings": {
+            "title": "Wie kann es sein, dass die Rotlichttherapie angeblich „alles heilen“ kann, ist es „too good to be true“?",
+            "content": "<p>Die Rot- und Nahinfrarotlichttherapie ist tatsächlich eine der interessantesten Entdeckungen im Gesundheitsbereich der letzten Jahrzehnte. In tausenden von Studien haben Wissenschaftler die Wirksamkeit der Rotlichttherapie zur Behandlung verschiedenster Körperteile ohne Nebenwirkungen nachgewiesen. Da die Einwirkung zellularem Level stattfindet, ist eine Wirkung tatsächlich für die vielfältigsten Bereiche des Körpers zu beobachten.<\/p>"
+          }
         }
       },
       "block_order": [
         "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
         "2292b161-e612-4630-9510-c105c47bedde",
-        "987c52c9-359e-4d51-8044-aee467512e16"
+        "987c52c9-359e-4d51-8044-aee467512e16",
+        "b94de707-e0a9-47c6-b9bf-4e324f5f1391"
       ],
       "settings": {
         "title": "Wir geben Antwort"
