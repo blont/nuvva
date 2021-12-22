@@ -36,10 +36,45 @@
         "zwischenheader": "",
         "cta": ""
       }
+    },
+    "1640180212a38cba54": {
+      "type": "image-with-text",
+      "blocks": {
+        "1640180212d97d61f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1640180212d97d61f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers anregt.<br\/><\/p><p>Erfahre <span style=\"text-decoration:underline\">hier<\/span> mehr über die Forschung, wie die Rotlichttherapie<br\/>funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohlbefinden zu verbessern.<\/p>"
+          }
+        },
+        "1640180212d97d61f6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1640180212d97d61f6-0",
+        "1640180212d97d61f6-1",
+        "1640180212d97d61f6-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
-    "16373146957e6f9a7b"
+    "16373146957e6f9a7b",
+    "1640180212a38cba54"
   ]
 }
