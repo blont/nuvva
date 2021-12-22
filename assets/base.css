@@ -713,9 +713,36 @@ details > * {
     color: rgb(var(--color-link));
     text-decoration-thickness: 0.2rem;
 }
-
+.banner__buttons.text-right{
+    text-align: right;
+}
 .icon-arrow {
     width: 1.5rem;
+  margin-left: 8px;
+  transform: translate( 0,2px );
+  display: inline;
+  transition: all 300ms;
+}
+.but-icon-arrow {
+  
+  transition: all 300ms;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    display: inline-flex;
+    padding: 3px 12px;
+    flex-wrap: nowrap;
+    text-transform: uppercase;
+    color:#D12274;
+    border:1px solid rgba(247, 34, 116, 0);
+}
+.but-icon-arrow:hover .icon-arrow{
+    transform: translate(-3px, 2px);
+
+}
+.but-icon-arrow:hover {
+    border:1px solid rgba(247, 34, 116, 0.8);
+
 }
 
 h3 .icon-arrow,

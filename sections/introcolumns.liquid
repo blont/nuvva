@@ -20,9 +20,10 @@
             <h2 class= "h3 intro--title">{{ block.settings.header }}</h2>
             <p class= "intro--content">{{ block.settings.textarea }}</p>
             {% if block.settings.button_link %} 
-              <div  class="banner__buttons box-shadow-but" >
-                <a role="link"  href="{{ block.settings.button_link }}" class="button button--secondary-outline">{{ block.settings.button_label | escape }}
-              </a>         
+              <div  class="banner__buttons text-right" >
+                <a role="link"  href="{{ block.settings.button_link }}" class="but-icon-arrow ">{{ block.settings.button_label | escape }} <img src="{{ 'next.png' | asset_img_url }}" class="icon-arrow animate-arrow" alt="nuuva bild"  loading="lazy" width="18" height="18"/>
+            
+            </a>         
         </div>
     {% endif %}
     </div>  
