@@ -76,6 +76,13 @@
             "title": "Kann ich mich an den Lampen verbrennen?",
             "content": "<p>Nein, die LEDs erzeugen kaum Wärmeenergie und es ist auch<br\/>kein UV-Anteil enthalten.<\/p>"
           }
+        },
+        "8aa35437-bfe1-4dbd-85b5-5b1e5fd4ca6e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Kann ich einen Sonnenbrand bekommen, sollte ich Sonnencreme verwenden?",
+            "content": "<p>Nein, bei der Rot- und NIR-Lichttherapie ist kein UV-Licht<br\/>enthalten. <\/p>"
+          }
         }
       },
       "block_order": [
@@ -84,7 +91,8 @@
         "987c52c9-359e-4d51-8044-aee467512e16",
         "b94de707-e0a9-47c6-b9bf-4e324f5f1391",
         "2103ace5-9f3f-4694-a6d8-d016c398f39c",
-        "eb017b99-7287-44b3-a84f-d0e056581ec0"
+        "eb017b99-7287-44b3-a84f-d0e056581ec0",
+        "8aa35437-bfe1-4dbd-85b5-5b1e5fd4ca6e"
       ],
       "settings": {
         "title": "Wir geben Antwort"
