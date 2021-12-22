@@ -62,13 +62,21 @@
             "title": "Wie kann es sein, dass die Rotlichttherapie angeblich „alles heilen“ kann, ist es „too good to be true“?",
             "content": "<p>Die Rot- und Nahinfrarotlichttherapie ist tatsächlich eine der interessantesten Entdeckungen im Gesundheitsbereich der letzten Jahrzehnte. In tausenden von Studien haben Wissenschaftler die Wirksamkeit der Rotlichttherapie zur Behandlung verschiedenster Körperteile ohne Nebenwirkungen nachgewiesen. Da die Einwirkung zellularem Level stattfindet, ist eine Wirkung tatsächlich für die vielfältigsten Bereiche des Körpers zu beobachten.<\/p><p>„NIR light therapy is an effective method for treatment of various tissues such as eyes and brains without side effects. (…) This therapy has potential to be a “miracle medicine” to cure many diseases in near future.” <\/p>"
           }
+        },
+        "2103ace5-9f3f-4694-a6d8-d016c398f39c": {
+          "type": "accordion",
+          "settings": {
+            "title": "Wie lange dauert es, bis ich Resultate erziele?",
+            "content": "<p>Der menschliche Körper ist komplex! Es ist schwer vorherzusagen, wie dein Körper auf nuuva-Licht reagiert und wie schnell du Ergebnisse sehen wirst. Es variiert je nach Person, deiner Gesundheit und Fitness, wie konsistent du mit den Behandlungen bist und welche Gerätegröße du verwendest. Der Körper entscheidet selbst, welche Reparaturen zuerst ausgeführt werden und wir erleben manchmal zunächst Verbesserungen in Bereichen, an die wir gar nicht gedacht haben.<\/p>"
+          }
         }
       },
       "block_order": [
         "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
         "2292b161-e612-4630-9510-c105c47bedde",
         "987c52c9-359e-4d51-8044-aee467512e16",
-        "b94de707-e0a9-47c6-b9bf-4e324f5f1391"
+        "b94de707-e0a9-47c6-b9bf-4e324f5f1391",
+        "2103ace5-9f3f-4694-a6d8-d016c398f39c"
       ],
       "settings": {
         "title": "Wir geben Antwort"
