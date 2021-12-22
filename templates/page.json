@@ -47,11 +47,18 @@
           "settings": {
             "text": "<p>Bei der Rotlichttherapie werden keine Medikamente oder chirurgische Eingriffe eingesetzt, sondern Licht, das auch in der Sonne vorkommt. <\/p><p>Rotlichtgeräte verwenden bestimmte Wellenlängen, die sich in Forschungen als besonders positiv für den Körper erwiesen haben und erzeugen so ein größeres Maß an \"bioaktivem“ Licht. Die Gefahr eines Sonnenbrandes besteht nicht, da keine UV-Strahlung abgegeben wird.<\/p>"
           }
+        },
+        "2c0d329e-43fb-42ca-9dc2-c1d8a50e0138": {
+          "type": "text-area",
+          "settings": {
+            "anchor": ""
+          }
         }
       },
       "block_order": [
         "16401805930594bb75-0",
-        "16401805930594bb75-1"
+        "16401805930594bb75-1",
+        "2c0d329e-43fb-42ca-9dc2-c1d8a50e0138"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/redlight-therapie-sicher-wie-sonnenlicht2_1.jpg",
