@@ -63,6 +63,40 @@
         "layout": "image_first"
       }
     },
+    "16401805939eba5b05": {
+      "type": "image-with-text",
+      "blocks": {
+        "16401805930594bb75-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ist die Rotlichttherapie sicher?"
+          }
+        },
+        "16401805930594bb75-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bei der Rotlichttherapie werden keine Medikamente oder<br\/>chirurgische Eingriffe eingesetzt, sondern Licht, das auch in der Sonne<br\/>vorkommt. Rotlichtgeräte verwenden bestimmte Wellenlängen, die sich in<br\/>Forschungen als besonders positiv für den Körper erwiesen haben und erzeugen so<br\/>ein größeres Maß an \"bioaktivem“ Licht. Die Gefahr eines Sonnenbrandes<br\/>besteht nicht, da keine UV-Strahlung abgegeben wird.<\/p>"
+          }
+        },
+        "16401805930594bb75-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16401805930594bb75-0",
+        "16401805930594bb75-1",
+        "16401805930594bb75-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
     "1640180289af14a199": {
       "type": "image-with-text",
       "blocks": {
@@ -102,6 +136,7 @@
     "main",
     "16373146957e6f9a7b",
     "1640180212a38cba54",
+    "16401805939eba5b05",
     "1640180289af14a199"
   ]
 }
