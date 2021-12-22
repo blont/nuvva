@@ -38,21 +38,133 @@
         "0cb60ce1-de03-4bcb-89fb-2b703ec4177f": {
           "type": "accordion",
           "settings": {
-            "title": "Frage 1",
-            "content": "<p>ökjhköhnkuhn<\/p>"
+            "title": "Ich habe noch eine Rotlichtlampe von früher, ist das das gleiche?",
+            "content": "<p>Nein, hierbei handelt es sich um Halogen-Rotlicht-Strahler, die verwendet werden, um eine Erwärmung im Gewebe zu erzeugen.<\/p>"
           }
         },
         "2292b161-e612-4630-9510-c105c47bedde": {
           "type": "accordion",
           "settings": {
-            "title": "Frage 2",
-            "content": "<p>jhbjhbvhjvb<\/p>"
+            "title": "Wie benutze ich die Rotlichttherapie Leuchten?",
+            "content": "<p>Du stellst die Leuchte auf einen Tisch oder Boden bzw. hängst sie mittels der mittgelieferten Aufhängungen and Tür oder Wand und schaltet sie ein - je nach Modell mit Schalter oder Bedienungsfeld und stellst<br\/>dich in einer Entfernung von 15cm bis 45cm für 5-10 min davor. Abstand und Dauer entnimmst du der Bedienungsanleitung. Die Bestrahlung soll direkt auf die Haut erfolgen. <\/p>"
+          }
+        },
+        "987c52c9-359e-4d51-8044-aee467512e16": {
+          "type": "accordion",
+          "settings": {
+            "title": "Welches Modell ist das Richtige für mich?",
+            "content": "<p>Für eine Übersicht der verschiedenen Modellreihen, siehe <span style=\"text-decoration:underline\">hier<\/span>.<br\/>Du kannst uns auch jederzeit eine E-Mail schicken oder anrufen um dich beraten<br\/>zulassen.<\/p>"
+          }
+        },
+        "b94de707-e0a9-47c6-b9bf-4e324f5f1391": {
+          "type": "accordion",
+          "settings": {
+            "title": "Wie kann es sein, dass die Rotlichttherapie angeblich „alles heilen“ kann, ist es „too good to be true“?",
+            "content": "<p>Die Rot- und Nahinfrarotlichttherapie ist tatsächlich eine der interessantesten Entdeckungen im Gesundheitsbereich der letzten Jahrzehnte. In tausenden von Studien haben Wissenschaftler die Wirksamkeit der Rotlichttherapie zur Behandlung verschiedenster Körperteile ohne Nebenwirkungen nachgewiesen. Da die Einwirkung zellularem Level stattfindet, ist eine Wirkung tatsächlich für die vielfältigsten Bereiche des Körpers zu beobachten.<\/p><p>„NIR light therapy is an effective method for treatment of various tissues such as eyes and brains without side effects. (…) This therapy has potential to be a “miracle medicine” to cure many diseases in near future.” <\/p>"
+          }
+        },
+        "2103ace5-9f3f-4694-a6d8-d016c398f39c": {
+          "type": "accordion",
+          "settings": {
+            "title": "Wie lange dauert es, bis ich Resultate erziele?",
+            "content": "<p>Der menschliche Körper ist komplex! Es ist schwer vorherzusagen, wie dein Körper auf nuuva-Licht reagiert und wie schnell du Ergebnisse sehen wirst. Es variiert je nach Person, deiner Gesundheit und Fitness, wie konsistent du mit den Behandlungen bist und welche Gerätegröße du verwendest. Der Körper entscheidet selbst, welche Reparaturen zuerst ausgeführt werden und wir erleben manchmal zunächst Verbesserungen in Bereichen, an die wir gar nicht gedacht haben.<\/p>"
+          }
+        },
+        "eb017b99-7287-44b3-a84f-d0e056581ec0": {
+          "type": "accordion",
+          "settings": {
+            "title": "Kann ich mich an den Lampen verbrennen?",
+            "content": "<p>Nein, die LEDs erzeugen kaum Wärmeenergie und es ist auch<br\/>kein UV-Anteil enthalten.<\/p>"
+          }
+        },
+        "8aa35437-bfe1-4dbd-85b5-5b1e5fd4ca6e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Kann ich einen Sonnenbrand bekommen, sollte ich Sonnencreme verwenden?",
+            "content": "<p>Nein, bei der Rot- und NIR-Lichttherapie ist kein UV-Licht enthalten. <\/p>"
+          }
+        },
+        "a15d1885-451a-40a1-935e-e20d7e29b560": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ist das Licht gefährlich für meine Augen?",
+            "content": "<p>Im Allgemeinen deuten die Forschungsergebnisse darauf hin, dass eine moderate Bestrahlung mit rotem und nahinfrarotem Licht positive Auswirkung auf die Augengesundheit hat. Es gibt Hinweise, dass man die Dosis für die Augen niedriger als für den Rest des Körpers halten sollte. Unsere unsere Leuchten sind sehr hell und manche Menschen empfinden das helle Licht als anstrengend für die Augen. Wir empfehlen daher einige Vorsichtsmaßnahmen zu ergreifen: Schließe deine Augen während der Bestrahlung oder decke deine Augen ab, eine Schutzbrille wird mitgeliefert. Wenn du bestimmte Augenprobleme hast, konsultieren deinen Arzt.  <\/p>"
+          }
+        },
+        "9f3940e8-b459-46e3-9e8d-c48188c5e485": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ist es gefährlich zu viel oder zu lange zu bestrahlen?",
+            "content": "<p>Nein, aber es gibt ein optimales Bestrahlungsfenster, bei der du die besten Ergebnisse erzielst. Mehr ist hier definitiv nicht besser. Die Sicherheit von Rot- und NIR-Licht wurde in tausenden Studien nachgewiesen. Mit dem Kauf der Leuchte erhältst du eine ausführliche Beschreibung mit der Bedienungsanleitung.<\/p>"
+          }
+        },
+        "e7fe0c79-4955-4ce4-9c99-f2a54e40a299": {
+          "type": "accordion",
+          "settings": {
+            "title": "Machen LEDs einen Unterschied?",
+            "content": "<p>Unbedingt! LEDs sind eine effektive Technologie zur gezielten Erzeugung von Wellenlängen mit definierten Abstrahlwinkeln. Sie erlauben außerdem eine hohe Lichtintensität bei minimaler Wärmeentwicklung. Sie sind die sicherste und effizienteste Quelle für die Lichttherapie.<\/p>"
+          }
+        },
+        "792d586e-9355-4d10-8f29-6143294a2639": {
+          "type": "accordion",
+          "settings": {
+            "title": "Was heißt NIR?",
+            "content": "<p>NIR steht für Nahinfrarot. NIR ist Teil des Sonnenlichts mit Wellenlängen von 780 bis 3000nm. Es ist für den Menschen nicht sichtbar. In der NIR-Lichttherapie werden in der Regel Wellen des Spektrums zwischen 780 und 1070nm eingesetzt. Bei Nuuva verwenden wir NIR-Strahlungen zwischen 810nm bis 850nm und Rotlicht von 630nm + 660nm (sichtbar).<\/p>"
+          }
+        },
+        "7ff6d1f8-bd91-464a-9744-519c889b4eb1": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ein Teil meiner LEDs funktioniert nicht.",
+            "content": "<p>Nahinfrarotlicht ist für das menschliche Auge nicht sichtbar. Die NIR-LEDs funktionieren einwandfrei.<\/p>"
+          }
+        },
+        "a9d99143-8396-4754-9b35-90b1f5e436bd": {
+          "type": "accordion",
+          "settings": {
+            "title": "Welche Garantie bietet Ihr für die Rot- und NIR-Leuchten",
+            "content": "<p>Die Qualität und Lebenszeit unsere Leuchten ist uns sehr wichtig. Wir bieten dir daher eine 5-jährige Garantie auf die NuuvaPRO und PRO+ Leuchten und eine 3-jährige Garantie auf unsere NuuvaBIO Modelle. Für weitere Informationen siehe unsere Allgemeinen Geschäftsbedingungen.<\/p>"
+          }
+        },
+        "39f3b165-d57c-428e-80a4-958b1da8ec72": {
+          "type": "accordion",
+          "settings": {
+            "title": "Was sind die Rückgabebedingungen?",
+            "content": "<p>Wir sind so sicher, dass du deine Nuuva Leuchte lieben wirst,<br\/>dass wir dir innerhalb der ersten 60 Tage eine vollständige Rückerstattung<br\/>anbieten. Nuuva erheben keine Bearbeitungsgebühr, aber wir bitten dich den<br\/>Versand zu bezahlen. Bitte beachte die Details in unseren <span style=\"text-decoration:underline\">Versandbedingungen<\/span>.<\/p>"
+          }
+        },
+        "4caff52d-efaf-435d-96da-4519e2cbe20a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Nebenwirkungen und vorsorgliche Warnungen",
+            "content": "<p>Nebenwirkungen der Rotlichttherapie können gerade zu Beginn Kopfschmerzen und Erschöpfung sein, denn der Körper braucht viel Energie für die Heilungs- und Aufbauprozesse, die die Rotlichttherapie in Gang setzt. Daher ist es wichtig die Therapie langsam zu beginnen. Auch bei empfindlicher Haut empfiehlt es sich die Lichttherapie zunächst mit geringer Bestrahlungsintensität und kurzer -dauer zu beginnen und die Haut an die Lichtbehandlung zu gewöhnen. Es kann ansonsten zu trockenen Stellen kommen, die jedoch schnell verschwinden, wenn Intensität und Zeit reduziert werden. <br\/>Rotlicht beeinflusst den zirkadianen Rhythmus nicht annähernd so stark wie z.B. blaues oder grünes Licht. Es kann aber aufgrund der Intensität des Lichts die Melatonin-Ausschüttung unterdrücken und den Schlaf stören, wenn es zu kurz vor dem Schlafengehen verwendet wird. Die Rotlichttherapie sollte daher besser nicht in der letzten Stunde vor der Schlafenszeit angewendet werden.<br\/>Ein Problem im Zusammenhang mit der Rotlichttherapie können hohe Werte elektromagnetischer Felder sein, daher ist es sehr wichtig ein Qualitätsprodukt mit geringen EMF-Werten zu verwenden.<br\/>Bitte auf jeden Fall den Anweisungen im Bedienungshandbuch folgen.<br\/><\/p>"
+          }
+        },
+        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ich bin schwanger, kann ich die nuuva Leuchte verwenden?",
+            "content": "<p>Da es keine klinischen Studien zu Rotlichttherapie-Behandlungen bei schwangeren oder stillenden Frauen gibt, verwende das Gerät nicht, wenn du schwanger bist oder stillst, bevor du nicht mit deinem Arzt gesprochen hast.<\/p>"
           }
         }
       },
       "block_order": [
         "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
-        "2292b161-e612-4630-9510-c105c47bedde"
+        "2292b161-e612-4630-9510-c105c47bedde",
+        "987c52c9-359e-4d51-8044-aee467512e16",
+        "b94de707-e0a9-47c6-b9bf-4e324f5f1391",
+        "2103ace5-9f3f-4694-a6d8-d016c398f39c",
+        "eb017b99-7287-44b3-a84f-d0e056581ec0",
+        "8aa35437-bfe1-4dbd-85b5-5b1e5fd4ca6e",
+        "a15d1885-451a-40a1-935e-e20d7e29b560",
+        "9f3940e8-b459-46e3-9e8d-c48188c5e485",
+        "e7fe0c79-4955-4ce4-9c99-f2a54e40a299",
+        "792d586e-9355-4d10-8f29-6143294a2639",
+        "7ff6d1f8-bd91-464a-9744-519c889b4eb1",
+        "a9d99143-8396-4754-9b35-90b1f5e436bd",
+        "39f3b165-d57c-428e-80a4-958b1da8ec72",
+        "4caff52d-efaf-435d-96da-4519e2cbe20a",
+        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58"
       ],
       "settings": {
         "title": "Wir geben Antwort"
