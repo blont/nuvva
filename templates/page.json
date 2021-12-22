@@ -20,11 +20,18 @@
           "settings": {
             "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers anregt.<br\/><\/p><p>Erfahre <span style=\"text-decoration:underline\">hier<\/span> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohl&shy;befinden zu verbessern.<\/p>"
           }
+        },
+        "e8975db5-9490-471e-a950-d21d540f9054": {
+          "type": "text-area",
+          "settings": {
+            "anchor": ""
+          }
         }
       },
       "block_order": [
         "1640180212d97d61f6-0",
-        "1640180212d97d61f6-1"
+        "1640180212d97d61f6-1",
+        "e8975db5-9490-471e-a950-d21d540f9054"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Was-ist-Rotlichttherapie-2_1.jpg",
@@ -81,11 +88,18 @@
           "settings": {
             "text": "<p>Es gibt mittlerweile tausende von wissenschaftlichen Studien, die die positiven Wirkungen und Vorteile der Rotlichttherapie belegen.<br\/>In der wissenschaftlichen Literatur wird diese Behandlung auch als Photobiomodulation (PBM) oder Low-Level- Licht- (Laser-) Therapie (LLLT) bezeichnet. <\/p><p>Hier findest du einen Link zu einer <a href=\"https:\/\/docs.google.com\/spreadsheets\/d\/1ZKl5Me4XwPj4YgJCBes3VSCJjiVO4XI0tIR0rbMBj08\/edit?fbclid=IwAR1e4pb4eMwSdZu83GI1u_gMeebVJ0GJfFGBbrNpY_LYt9t3ZEIIHhTckAY#gid=0\">Zusammenstellung von mehr als 4000 wissenschaftlichen Studien<\/a> zur Rot und NIR-Lichttherapie von <a>Vladimir Heiskanen<\/a>. Er hat die<br\/>Forschungsergebnisse zur Photobio­modulation in einer Tabelle zusammengestellt. Hier findest du einen Link zu seinem <a href=\"http:\/\/valtsus.blogspot.com\/\">Blog<\/a>.<\/p>"
           }
+        },
+        "455678e1-eb45-4123-b55f-edfbad98b3c2": {
+          "type": "text-area",
+          "settings": {
+            "anchor": ""
+          }
         }
       },
       "block_order": [
         "16401802894513de03-0",
-        "16401802894513de03-1"
+        "16401802894513de03-1",
+        "455678e1-eb45-4123-b55f-edfbad98b3c2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/redlighttherpie-wissenschafltich_1.jpg",
