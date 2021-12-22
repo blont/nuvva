@@ -75,21 +75,13 @@
         "16401805930594bb75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bei der Rotlichttherapie werden keine Medikamente oder<br\/>chirurgische Eingriffe eingesetzt, sondern Licht, das auch in der Sonne<br\/>vorkommt. Rotlichtgeräte verwenden bestimmte Wellenlängen, die sich in<br\/>Forschungen als besonders positiv für den Körper erwiesen haben und erzeugen so<br\/>ein größeres Maß an \"bioaktivem“ Licht. Die Gefahr eines Sonnenbrandes<br\/>besteht nicht, da keine UV-Strahlung abgegeben wird.<\/p>"
-          }
-        },
-        "16401805930594bb75-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Bei der Rotlichttherapie werden keine Medikamente oder chirurgische Eingriffe eingesetzt, sondern Licht, das auch in der Sonne vorkommt. <\/p><p>Rotlichtgeräte verwenden bestimmte Wellenlängen, die sich in Forschungen als besonders positiv für den Körper erwiesen haben und erzeugen so ein größeres Maß an \"bioaktivem“ Licht. Die Gefahr eines Sonnenbrandes besteht nicht, da keine UV-Strahlung abgegeben wird.<\/p>"
           }
         }
       },
       "block_order": [
         "16401805930594bb75-0",
-        "16401805930594bb75-1",
-        "16401805930594bb75-2"
+        "16401805930594bb75-1"
       ],
       "settings": {
         "height": "adapt",
@@ -111,19 +103,11 @@
           "settings": {
             "text": "<p>Es gibt mittlerweile tausende von wissenschaftlichen<br\/>Studien, die die positiven Wirkungen und Vorteile der Rotlichttherapie belegen.<br\/>In der wissenschaftlichen Literatur wird diese Behandlung auch als Photobiomodulation (PBM) oder Low-Level- Licht- (Laser-) Therapie (LLLT) bezeichnet. <\/p><p>Hier findest du einen Link zu einer <a href=\"https:\/\/docs.google.com\/spreadsheets\/d\/1ZKl5Me4XwPj4YgJCBes3VSCJjiVO4XI0tIR0rbMBj08\/edit?fbclid=IwAR1e4pb4eMwSdZu83GI1u_gMeebVJ0GJfFGBbrNpY_LYt9t3ZEIIHhTckAY#gid=0\">Zusammenstellung von mehr als 4000 wissenschaftlichen Studien<\/a> zur Rot und NIR-Lichttherapie von <a>Vladimir Heiskanen<\/a>. Er hat die<br\/>Forschungsergebnisse zur Photobio­modulation in einer Tabelle zusammengestellt. Hier findest du einen Link zu seinem <a href=\"http:\/\/valtsus.blogspot.com\/\">Blog<\/a>.<\/p>"
           }
-        },
-        "16401802894513de03-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "16401802894513de03-0",
-        "16401802894513de03-1",
-        "16401802894513de03-2"
+        "16401802894513de03-1"
       ],
       "settings": {
         "height": "adapt",
