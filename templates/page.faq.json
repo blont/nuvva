@@ -90,6 +90,13 @@
             "title": "Ist das Licht gefährlich für meine Augen?",
             "content": "<p>Im Allgemeinen deuten die Forschungsergebnisse darauf hin, dass eine moderate Bestrahlung mit rotem und nahinfrarotem Licht positive Auswirkung auf die Augengesundheit hat. Es gibt Hinweise, dass man die Dosis für die Augen niedriger als für den Rest des Körpers halten sollte. Unsere unsere Leuchten sind sehr hell und manche Menschen empfinden das helle Licht als anstrengend für die Augen. Wir empfehlen daher einige Vorsichtsmaßnahmen zu ergreifen: Schließe deine Augen während der Bestrahlung oder decke deine Augen ab, eine Schutzbrille wird mitgeliefert. Wenn du bestimmte Augenprobleme hast, konsultieren deinen Arzt.  <\/p>"
           }
+        },
+        "9f3940e8-b459-46e3-9e8d-c48188c5e485": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ist es gefährlich zu viel oder zu lange zu bestrahlen?",
+            "content": "<p>Nein, aber es gibt ein optimales Bestrahlungsfenster, bei der du die besten Ergebnisse erzielst. Mehr ist hier definitiv nicht besser. Die Sicherheit von Rot- und NIR-Licht wurde in tausenden Studien nachgewiesen. Mit dem Kauf der Leuchte erhältst du eine ausführliche Beschreibung mit der Bedienungsanleitung.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -100,7 +107,8 @@
         "2103ace5-9f3f-4694-a6d8-d016c398f39c",
         "eb017b99-7287-44b3-a84f-d0e056581ec0",
         "8aa35437-bfe1-4dbd-85b5-5b1e5fd4ca6e",
-        "a15d1885-451a-40a1-935e-e20d7e29b560"
+        "a15d1885-451a-40a1-935e-e20d7e29b560",
+        "9f3940e8-b459-46e3-9e8d-c48188c5e485"
       ],
       "settings": {
         "title": "Wir geben Antwort"
