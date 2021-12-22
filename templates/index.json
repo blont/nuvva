@@ -46,6 +46,25 @@
         "show_text_below": true
       }
     },
+    "164017126366b0f9cb": {
+      "type": "introcolumns",
+      "blocks": {
+        "241bfb11-aef5-4a5c-9f82-9d3d0925c998": {
+          "type": "Info-block",
+          "settings": {
+            "header": "Was ist die Rotlichttherapie?",
+            "textarea": "Mit einer Bestrahlung von roten und Nah-Infraroten Wellenlängen wird deine Zellen vital erfrischt.",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "241bfb11-aef5-4a5c-9f82-9d3d0925c998"
+      ],
+      "settings": {
+      }
+    },
     "163731284876ffc23b": {
       "type": "multicolumn",
       "blocks": {
@@ -304,6 +323,7 @@
   },
   "order": [
     "image_banner",
+    "164017126366b0f9cb",
     "163731284876ffc23b",
     "1635351417eb23c5e9",
     "163645210085c341b2",
