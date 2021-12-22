@@ -97,6 +97,13 @@
             "title": "Ist es gefährlich zu viel oder zu lange zu bestrahlen?",
             "content": "<p>Nein, aber es gibt ein optimales Bestrahlungsfenster, bei der du die besten Ergebnisse erzielst. Mehr ist hier definitiv nicht besser. Die Sicherheit von Rot- und NIR-Licht wurde in tausenden Studien nachgewiesen. Mit dem Kauf der Leuchte erhältst du eine ausführliche Beschreibung mit der Bedienungsanleitung.<\/p>"
           }
+        },
+        "e7fe0c79-4955-4ce4-9c99-f2a54e40a299": {
+          "type": "accordion",
+          "settings": {
+            "title": "Machen LEDs einen Unterschied?",
+            "content": "<p>Unbedingt! LEDs sind eine effektive Technologie zur gezielten Erzeugung von Wellenlängen mit definierten Abstrahlwinkeln. Sie erlauben außerdem eine hohe Lichtintensität bei minimaler Wärmeentwicklung. Sie sind die sicherste und effizienteste Quelle für die Lichttherapie.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -108,7 +115,8 @@
         "eb017b99-7287-44b3-a84f-d0e056581ec0",
         "8aa35437-bfe1-4dbd-85b5-5b1e5fd4ca6e",
         "a15d1885-451a-40a1-935e-e20d7e29b560",
-        "9f3940e8-b459-46e3-9e8d-c48188c5e485"
+        "9f3940e8-b459-46e3-9e8d-c48188c5e485",
+        "e7fe0c79-4955-4ce4-9c99-f2a54e40a299"
       ],
       "settings": {
         "title": "Wir geben Antwort"
