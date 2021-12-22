@@ -54,6 +54,7 @@
           "settings": {
             "header": "Was ist die Rotlichttherapie?",
             "textarea": "Mit einer Bestrahlung von roten und Nah-Infraroten Wellenlängen werden deine Zellen vital erfrischt.",
+            "image": "shopify:\/\/shop_images\/mnuuva-rotlichtherpaie-gut-fuer-haut.png",
             "button_label": "",
             "button_link": ""
           }
@@ -63,6 +64,7 @@
           "settings": {
             "header": "Wissenschaftlich getestet",
             "textarea": "Eine Vielzahl von Studien belegen die vielfältigen Wirkung der Rotlicht&shy;behandlung zur Förderung deiner Gesundheit.",
+            "image": "shopify:\/\/shop_images\/nuuva-wissenschafltich-erprobt.png",
             "button_label": "",
             "button_link": ""
           }
@@ -72,6 +74,7 @@
           "settings": {
             "header": "Ist die Rotlichttherapie sicher?",
             "textarea": "Dein Körper wird mit gesunden Strahlen positiv stimuliert - ganz ohne schädliche UV Strahlen.",
+            "image": "shopify:\/\/shop_images\/nuuva-rotlicht-therpaie-sicher.png",
             "button_label": "",
             "button_link": ""
           }
@@ -81,6 +84,7 @@
           "settings": {
             "header": "Zertifizierte Sicherheit",
             "textarea": "FDA-gelistete Geräte der Klasse II, CE und RoHS konform, Flimmerfrei, 0 EMF",
+            "image": "shopify:\/\/shop_images\/fda.png",
             "button_label": "",
             "button_link": ""
           }
