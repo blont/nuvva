@@ -58,6 +58,15 @@
             "button_link": ""
           }
         },
+        "cb78a031-0578-4d7f-b633-0e73d9637ce5": {
+          "type": "Info-block",
+          "settings": {
+            "header": "Wissenschaftlich getestet",
+            "textarea": "Eine Vielzahl von Studien belegen die vielfältigen Wirkung der Rotlicht&shy;behandlung zur Förderung deiner Gesundheit.",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
         "68f5a530-891d-419d-82d3-346e96849f64": {
           "type": "Info-block",
           "settings": {
@@ -75,22 +84,13 @@
             "button_label": "",
             "button_link": ""
           }
-        },
-        "cb78a031-0578-4d7f-b633-0e73d9637ce5": {
-          "type": "Info-block",
-          "settings": {
-            "header": "Wissenschaftlich getestet",
-            "textarea": "Eine Vielzahl von Studien belegen die vielfältigen Wirkung der Rotlicht&shy;behandlung zur Förderung deiner Gesundheit.",
-            "button_label": "",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "241bfb11-aef5-4a5c-9f82-9d3d0925c998",
+        "cb78a031-0578-4d7f-b633-0e73d9637ce5",
         "68f5a530-891d-419d-82d3-346e96849f64",
-        "fdbf9063-d0da-4ba2-b877-603f3d8dfea9",
-        "cb78a031-0578-4d7f-b633-0e73d9637ce5"
+        "fdbf9063-d0da-4ba2-b877-603f3d8dfea9"
       ],
       "settings": {
       }
