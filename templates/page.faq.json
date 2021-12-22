@@ -111,6 +111,41 @@
             "title": "Was heißt NIR?",
             "content": "<p>NIR steht für Nahinfrarot. NIR ist Teil des Sonnenlichts mit Wellenlängen von 780 bis 3000nm. Es ist für den Menschen nicht sichtbar. In der NIR-Lichttherapie werden in der Regel Wellen des Spektrums zwischen 780 und 1070nm eingesetzt. Bei Nuuva verwenden wir NIR-Strahlungen zwischen 810nm bis 850nm und Rotlicht von 630nm + 660nm (sichtbar).<\/p>"
           }
+        },
+        "7ff6d1f8-bd91-464a-9744-519c889b4eb1": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ein Teil meiner LEDs funktioniert nicht.",
+            "content": "<p>Nahinfrarotlicht ist für das menschliche Auge nicht sichtbar. Die NIR-LEDs funktionieren einwandfrei.<\/p>"
+          }
+        },
+        "a9d99143-8396-4754-9b35-90b1f5e436bd": {
+          "type": "accordion",
+          "settings": {
+            "title": "Welche Garantie bietet Ihr für die Rot- und NIR-Leuchten",
+            "content": "<p>Die Qualität und Lebenszeit unsere Leuchten ist uns sehr wichtig. Wir bieten dir daher eine 5-jährige Garantie auf die NuuvaPRO und PRO+ Leuchten und eine 3-jährige Garantie auf unsere NuuvaBIO Modelle. Für weitere Informationen siehe unsere Allgemeinen Geschäftsbedingungen.<\/p>"
+          }
+        },
+        "39f3b165-d57c-428e-80a4-958b1da8ec72": {
+          "type": "accordion",
+          "settings": {
+            "title": "Was sind die Rückgabebedingungen?",
+            "content": "<p>Wir sind so sicher, dass du deine Nuuva Leuchte lieben wirst,<br\/>dass wir dir innerhalb der ersten 60 Tage eine vollständige Rückerstattung<br\/>anbieten. Nuuva erheben keine Bearbeitungsgebühr, aber wir bitten dich den<br\/>Versand zu bezahlen. Bitte beachte die Details in unseren <span style=\"text-decoration:underline\">Versandbedingungen<\/span>.<\/p>"
+          }
+        },
+        "4caff52d-efaf-435d-96da-4519e2cbe20a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Nebenwirkungen und vorsorgliche Warnungen",
+            "content": "<p>Nebenwirkungen der Rotlichttherapie können gerade zu Beginn Kopfschmerzen und Erschöpfung sein, denn der Körper braucht viel Energie für die Heilungs- und Aufbauprozesse, die die Rotlichttherapie in Gang setzt. Daher ist es wichtig die Therapie langsam zu beginnen. Auch bei empfindlicher Haut empfiehlt es sich die Lichttherapie zunächst mit geringer Bestrahlungsintensität und kurzer -dauer zu beginnen und die Haut an die Lichtbehandlung zu gewöhnen. Es kann ansonsten zu trockenen Stellen kommen, die jedoch schnell verschwinden, wenn Intensität und Zeit reduziert werden. <br\/>Rotlicht beeinflusst den zirkadianen Rhythmus nicht annähernd so stark wie z.B. blaues oder grünes Licht. Es kann aber aufgrund der Intensität des Lichts die Melatonin-Ausschüttung unterdrücken und den Schlaf stören, wenn es zu kurz vor dem Schlafengehen verwendet wird. Die Rotlichttherapie sollte daher besser nicht in der letzten Stunde vor der Schlafenszeit angewendet werden.<br\/>Ein Problem im Zusammenhang mit der Rotlichttherapie können hohe Werte elektromagnetischer Felder sein, daher ist es sehr wichtig ein Qualitätsprodukt mit geringen EMF-Werten zu verwenden.<br\/>Bitte auf jeden Fall den Anweisungen im Bedienungshandbuch folgen.<br\/><\/p>"
+          }
+        },
+        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ich bin schwanger, kann ich die nuuva Leuchte verwenden?",
+            "content": "<p>Da es keine klinischen Studien zu Rotlichttherapie-Behandlungen bei schwangeren oder stillenden Frauen gibt, verwende das Gerät nicht, wenn du schwanger bist oder stillst, bevor du nicht mit deinem Arzt gesprochen hast.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -124,7 +159,12 @@
         "a15d1885-451a-40a1-935e-e20d7e29b560",
         "9f3940e8-b459-46e3-9e8d-c48188c5e485",
         "e7fe0c79-4955-4ce4-9c99-f2a54e40a299",
-        "792d586e-9355-4d10-8f29-6143294a2639"
+        "792d586e-9355-4d10-8f29-6143294a2639",
+        "7ff6d1f8-bd91-464a-9744-519c889b4eb1",
+        "a9d99143-8396-4754-9b35-90b1f5e436bd",
+        "39f3b165-d57c-428e-80a4-958b1da8ec72",
+        "4caff52d-efaf-435d-96da-4519e2cbe20a",
+        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58"
       ],
       "settings": {
         "title": "Wir geben Antwort"
