@@ -122,7 +122,8 @@ Preis
         <li>
             <a class= "collection-grid__grid-item" href="{{ product.url }}">  
        
-                <img src="{{ product.featured_image | img_url: 'medium' }}"/>
+                <img src="{{ product.featured_image | img_url: 'medium' }}" loading="lazy" width=""
+                    height=""/>
             </a>               
             </li>
            <li>

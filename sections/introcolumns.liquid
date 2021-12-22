@@ -1,0 +1,83 @@
+{{ 'section-introcolumns.css' | asset_url | stylesheet_tag }}
+<div id="introcolumns" >
+ 
+    <div class=" page-width">
+    <div class="slick-ctn-slider" data-aos="fade-up" data-aos-delay="150" >
+
+{% for block in section.blocks %}
+    <div class="item">
+     
+        <div class="intro--grid__item">
+            <div class= "intro--img-hldr" >
+                {% if block.settings.image %}  
+                  <img src="{{ block.settings.image | img_url: 'master' }}" alt="nuuva bild"  loading="lazy" width="75" height="75"/>
+                  {% endif %}
+              </div>
+            
+           
+ 
+            <div class="intro--grid__ctnpart">    
+            <h2 class= "h3 intro--title">{{ block.settings.header }}</h2>
+            <p class= "intro--content">{{ block.settings.textarea }}</p>
+            {% if block.settings.button_link %} 
+              <div  class="banner__buttons box-shadow-but" >
+                <a role="link"  href="{{ block.settings.button_link }}" class="button button--secondary-outline">{{ block.settings.button_label | escape }}
+              </a>         
+        </div>
+    {% endif %}
+    </div>  
+    </div> 
+ 
+        </div>
+    {% endfor %}
+</div> 
+      </div>
+    </div>
+
+      
+{% schema %}{
+    "name":"Intro columns",
+    "blocks": [
+        {
+        "type":"Info-block",
+        "limit":8,
+        "name":"info",
+      "settings":[
+        {
+            "type": "text",
+            "id": "header",                        
+            "label": "Header"                           
+          },
+               {
+             "type": "textarea",
+             "id":"textarea",
+              "label":"Text"
+                 },
+
+                 {
+                "type": "image_picker",
+                 "id": "image",
+                "label":"Bild"       
+                  },  {
+                    "type": "text",
+                    "id": "button_label",                        
+                    "label": "Buttontext"                           
+                  },
+                  {
+                    "type": "url",
+                    "id": "button_link",
+                    "label": "url"
+                  } 
+       ]
+        }
+    ],
+
+    "presets": [
+        {
+        "name":"Intro columns"
+        }
+        ]
+
+}
+
+{% endschema %}

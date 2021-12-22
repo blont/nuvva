@@ -1,3 +1,4 @@
+{% comment %} theme-check-disable {% endcomment %}
 {{ 'section-wavelength.css' | asset_url | stylesheet_tag }}
 
 <div class="wave-ctn" data-aos="fade-in" >
@@ -833,7 +834,7 @@
 </div> 
 </div>
 
-
+{% comment %}theme-check-enable{% endcomment %}
 {% schema %}{
 "name":"Wavelength",
 "settings": [

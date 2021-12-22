@@ -1,0 +1,43 @@
+#introcolumns{
+
+    background-color: #f4f4f4;
+    padding: .5em;
+    display: block;
+margin: 0 auto;
+}
+
+
+.intro--title{
+  
+    font-size: 26px;
+  padding-left: 8px;
+    color: #5c4f44;
+}
+.intro--grid__item{
+  
+    margin-top: 5rem;   
+    padding-right: 30px;;
+    display: inline-flex;
+
+padding-bottom: 30px;
+}
+.intro--img-hldr{
+width:20%;
+display:inline-flex;
+max-width: 75px;
+min-width: 60px;
+
+}
+.intro--grid__ctnpart{
+    padding-left: 20px;
+display:inline;
+width:100%;
+}
+
+
+@media screen and (min-width: 950px) {
+    #introcolumns .slick-slide{
+width: 50vw;
+    
+    }
+}
