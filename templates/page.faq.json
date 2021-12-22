@@ -69,6 +69,13 @@
             "title": "Wie lange dauert es, bis ich Resultate erziele?",
             "content": "<p>Der menschliche Körper ist komplex! Es ist schwer vorherzusagen, wie dein Körper auf nuuva-Licht reagiert und wie schnell du Ergebnisse sehen wirst. Es variiert je nach Person, deiner Gesundheit und Fitness, wie konsistent du mit den Behandlungen bist und welche Gerätegröße du verwendest. Der Körper entscheidet selbst, welche Reparaturen zuerst ausgeführt werden und wir erleben manchmal zunächst Verbesserungen in Bereichen, an die wir gar nicht gedacht haben.<\/p>"
           }
+        },
+        "eb017b99-7287-44b3-a84f-d0e056581ec0": {
+          "type": "accordion",
+          "settings": {
+            "title": "Kann ich mich an den Lampen verbrennen?",
+            "content": "<p>Nein, die LEDs erzeugen kaum Wärmeenergie und es ist auch<br\/>kein UV-Anteil enthalten.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -76,7 +83,8 @@
         "2292b161-e612-4630-9510-c105c47bedde",
         "987c52c9-359e-4d51-8044-aee467512e16",
         "b94de707-e0a9-47c6-b9bf-4e324f5f1391",
-        "2103ace5-9f3f-4694-a6d8-d016c398f39c"
+        "2103ace5-9f3f-4694-a6d8-d016c398f39c",
+        "eb017b99-7287-44b3-a84f-d0e056581ec0"
       ],
       "settings": {
         "title": "Wir geben Antwort"
