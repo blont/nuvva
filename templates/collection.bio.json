@@ -54,19 +54,11 @@
           "settings": {
             "text": "<p>Die BIO Lampen sind unser bewährtes Originaldesign, das maximale Intensität in einem einfach zu bedienenden, wirtschaftlichen Paket <br\/>bietet. Diese hochwertigen LED-Paneele bieten eine hohe  Bestrahlungsstärke zu einem günstigen Preis.<\/p><p>Alle BIO Leuchten sind mit einem einfachen Ein- und Ausschalter ausgestattet und eignen sich hervorragend als Einstieg in die  LED-Lichttherapie. Alle BIO Lampen sind in der Kombination aus 50% Rotlicht 660nm und 50% NIR-Licht 850nm Wellenlängen erhältlich, die <br\/>getrennt zuschaltbar sind. So kannst du die Konfiguration wählen, die für deine Therapieziele am besten geeignet ist.<\/p><p>Mit der BIO Serie kannst du die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für eine größere Anwendungs&shy;fläche nutzen und dein ideales Lichttherapie-Setup aufbauen. <br\/>Bei BIO müssen alle Geräte separat geschaltet werden.<\/p>"
           }
-        },
-        "164024878483efc699-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "164024878483efc699-0",
-        "164024878483efc699-1",
-        "164024878483efc699-2"
+        "164024878483efc699-1"
       ],
       "settings": {
         "anchor": "",
