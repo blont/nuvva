@@ -44,14 +44,14 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Sowohl unsere Vita als auch unsere VitaMAX \/ VitaMAX+<br\/>Leuchten sind sehr leistungsstark. Alle Serien bieten dir einen hohen therapeutischen Nutzen.<\/p><p> <\/p><p>Die VitaMax sind unsere Lichttherapie Geräte für gehobene Ansprüche. Im Vergleich zu unseren Nuuva <strong>Vita<\/strong> Leuchten bietet die <strong>VitaMAX <\/strong>Reihe<strong> <\/strong>eine höhere Lichtleistung, digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain mit anderen <strong>VitaMAX<\/strong> Leuchten. Durch die höhere Lichtleistung liefern die <strong>VitaMAX<\/strong> Leuchten bessere Ergebnisse für die Tiefenbehandlung im Nahinfrarot Bereich als die Vita-Leuchten.<br\/><br\/>Unsere VitaMAX+ ist unsere neueste und fortschrittlichste Lichttherapie-Leuchte für die Kunden, die eine höhere Leistung und ein erweitertes Spektrum für einen noch besseren Nutzen wünschen. <br\/><\/p>"
+            "text": "<p>Sowohl unsere NuuvaBIO als auch unsere NuuvaPRO \/ NuuvaPRO+ Leuchten sind sehr leistungsstark. Alle Serien bieten dir einen hohen therapeutischen Nutzen.<br\/><br\/>Die NuuvaPRO sind unsere Lichttherapie Geräte für gehobene Ansprüche. Im Vergleich zu unseren NuuvaBIO Leuchten bietet die NuuvaPRO Reihe eine höhere Lichtleistung, digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain mit anderen NuuvaPRO Leuchten. Durch die höhere Lichtleistung liefern die NuuvaPRO Leuchten bessere Ergebnisse für die Tiefenbehandlung im Nahinfrarot Bereich als die BIO-Leuchten. <br\/><\/p>"
           }
         },
         "163767309200b26065-1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Die VitaMAX+ kombiniert fünf leistungsstarke Lichtwellenlängen und verfügt über das exklusive Nuuva Multi+ Spektrum. Es bietet eine perfekte Mischung aus 50% tiefrotem Licht mit 630, 660nm Wellenlängen und 50% NIR Licht 830, 850, 860nm Wellenlängen. Natürlich bietet auch die VitaMax+ die digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain mit anderen VitaMAX Leuchten. Durch die höhere Lichtleistung und das verbesserte Spektrum liefern die VitaMAX+ Leuchten noch eindrucksvollere Ergebnisse als die Vita und VitaMAX Leuchten.<br\/><br\/>Alle Serien bieten die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für eine größere Anwendungsfläche. Allerdings ist die Verwendung mit den VitaMAX \/ VitaMAX+ Serien komfortabler aufgrund der Daisy Chain, bei der die Leuchten in Reihe geschaltet und von einem Gerät aus gemeinsam bedient und gesteuert werden können.<br\/><br\/><\/p>"
+            "text": "<p>Unsere NuuvaPRO+ ist unsere neueste und fortschrittlichste Lichttherapie-Leuchte für die Kunden, die eine höhere Leistung und ein erweitertes Spektrum für einen noch besseren Nutzen wünschen. Die NuuvaPRO+ kombiniert fünf leistungsstarke Lichtwellenlängen und verfügt über das exklusive Nuuva Multi+ Spektrum. Es bietet eine perfekte Mischung aus 50% tiefrotem Licht mit 630, 660nm Wellenlängen und 50% NIR Licht 830, 850, 860nm Wellenlängen. Natürlich bietet auch die NuuvaPRO+ die digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain mit anderen NuuvaPRO Leuchten. Durch die höhere Lichtleistung und das verbesserte Spektrum liefern die NuuvaPRO+ Leuchten noch eindrucksvollere Ergebnisse als die BIO und NuuvaPRO Leuchten.<br\/><br\/>Alle Serien bieten die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für eine größere Anwendungsfläche. Allerdings ist die Verwendung mit den NuuvaPRO \/ NuuvaPRO+ Serien komfortabler aufgrund der Daisy Chain, bei der die Leuchten in Reihe geschaltet und von einem Gerät aus gemeinsam bedient und gesteuert werden können.<br\/><br\/><\/p>"
           }
         }
       },
@@ -60,7 +60,7 @@
         "163767309200b26065-1"
       ],
       "settings": {
-        "title": "Was ist der Unterschied zwischen den Nuuva Vita, VitaMAX und VitaMAX+ Serien?",
+        "title": "Was ist der Unterschied zwischen den NuuvaBIO, NuuvaPRO und NuuvaPRO+ Serien?",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
