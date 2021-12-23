@@ -46,7 +46,7 @@
 
 {% for block in section.blocks %}
   {% assign delay = delay | plus: 300 %}
- <a class="hero-collections__card" href="{{ block.settings.collection }}" alt="nuuva collection" data-aos="fade-up"   data-aos-delay="{{ delay }}">
+ <a class="hero-collections__card" href="/collections/{{ block.settings.collection }}" alt="nuuva collection" data-aos="fade-up"   data-aos-delay="{{ delay }}">
 
 
  <div class="hero-collections__card--bg" style ="background-image:url({{ block.settings.image_bg | img_url: 'master' }})"></div>
