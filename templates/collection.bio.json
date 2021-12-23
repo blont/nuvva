@@ -2,9 +2,77 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true
+      }
+    },
+    "164024877605c3941f": {
+      "type": "page-header",
+      "blocks": {
+        "1640248776917933b7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NuuvaBIO",
+            "heading_size": "large"
+          }
+        },
+        "1640248776917933b7-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1640248776917933b7-0",
+        "1640248776917933b7-1"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "164024878417be199c": {
+      "type": "image-with-text",
+      "blocks": {
+        "164024878483efc699-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "BIO Leuchten"
+          }
+        },
+        "164024878483efc699-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die BIO Lampen sind unser bewährtes Originaldesign, das maximale Intensität in einem einfach zu bedienenden, wirtschaftlichen Paket <br\/>bietet. Diese hochwertigen LED-Paneele bieten eine hohe  Bestrahlungsstärke zu einem günstigen Preis.<\/p><p>Alle BIO Leuchten sind mit einem einfachen Ein- und Ausschalter ausgestattet und eignen sich hervorragend als Einstieg in die  LED-Lichttherapie. Alle BIO Lampen sind in der Kombination aus 50% Rotlicht 660nm und 50% NIR-Licht 850nm Wellenlängen erhältlich, die <br\/>getrennt zuschaltbar sind. So kannst du die Konfiguration wählen, die für deine Therapieziele am besten geeignet ist.<\/p><p>Mit der BIO Serie kannst du die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für eine größere Anwendungs&shy;fläche nutzen und dein ideales Lichttherapie-Setup aufbauen. <br\/>Bei BIO müssen alle Geräte separat geschaltet werden.<\/p>"
+          }
+        },
+        "164024878483efc699-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164024878483efc699-0",
+        "164024878483efc699-1",
+        "164024878483efc699-2"
+      ],
+      "settings": {
+        "anchor": "",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "product-grid": {
@@ -44,6 +112,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -71,6 +140,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -98,6 +168,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ventilatoren-erklaert.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -106,6 +177,8 @@
   },
   "order": [
     "banner",
+    "164024877605c3941f",
+    "164024878417be199c",
     "product-grid",
     "163593723729661e2c",
     "16359412341220a733",
