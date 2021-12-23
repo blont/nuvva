@@ -1,0 +1,114 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": true,
+        "enable_sorting": false,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "163593723729661e2c": {
+      "type": "image-with-text",
+      "blocks": {
+        "163593723729661e2c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Double Chip LED"
+          }
+        },
+        "163593723729661e2c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163593723729661e2c-0",
+        "163593723729661e2c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16359412341220a733": {
+      "type": "image-with-text",
+      "blocks": {
+        "16359412341220a733-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3 Modelle in einem"
+          }
+        },
+        "16359412341220a733-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alle Modelle der PRO-Serie sind mit Deep Red, Nah Infrarot (NIR) und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten bieten dir die passende Behandlung für deine Haut.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16359412341220a733-0",
+        "16359412341220a733-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163593724891150a59": {
+      "type": "image-with-text",
+      "blocks": {
+        "163593724891150a59-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Optimale Kühlung"
+          }
+        },
+        "163593724891150a59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163593724891150a59-0",
+        "163593724891150a59-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ventilatoren-erklaert.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "163593723729661e2c",
+    "16359412341220a733",
+    "163593724891150a59"
+  ]
+}
