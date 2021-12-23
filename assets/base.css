@@ -200,6 +200,13 @@ html {
     padding: 0;
     margin: 0 auto;
 }
+.info--text a:visited {
+    color: gray;
+  }
+  .info--text a {
+    color: var(--ci1-col);
+  }
+
 
 @media screen and (min-width: 750px) {
     .page-width {
@@ -2725,10 +2732,7 @@ background: linear-gradient(-45deg, rgba(247, 34, 116, 0.8) 0%, rgba(252, 140, 1
     color: rgb(var(--color-foreground));
     word-break: break-word;
 }
-.slick-dots li button::before {
-    font-family: 'slick';
-    font-size: 20px!important;
-}
+
 
 .gradient {
     background: var(--color-background);
