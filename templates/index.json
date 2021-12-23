@@ -105,7 +105,7 @@
         "13f5d081-21a6-47c6-af5f-9546151fff52": {
           "type": "collection",
           "settings": {
-            "collection": "vita",
+            "collection": "bio",
             "image_bg": "shopify:\/\/shop_images\/vita_colleciton.png",
             "image_hover": "shopify:\/\/shop_images\/vita_colleciton_hilit.png"
           }
