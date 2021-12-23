@@ -22,21 +22,13 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1640251233b4381fde-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Beide Modellreihen bieten eine volldigitale Steuerung mit<br\/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage-\/Standoptionen<br\/>im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer<br\/>größeren Anwendungsfläche zu verbinden. Individuelle Größen können<br\/>berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank<br\/>der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr<br\/>komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus<br\/>gemeinsam zu bedienen und zu steuern.<\/p>"
           }
         }
       },
       "block_order": [
         "1640251233b4381fde-0",
-        "1640251233b4381fde-1",
-        "1640251233b4381fde-2"
+        "1640251233b4381fde-1"
       ],
       "settings": {
         "title": "NuuvaPRO und NuuvaPRO+ Serien",
