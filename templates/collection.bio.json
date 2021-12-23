@@ -40,31 +40,37 @@
         "show_text_below": true
       }
     },
-    "164024878417be199c": {
-      "type": "image-with-text",
+    "16402499899b9c8652": {
+      "type": "multicolumn",
       "blocks": {
-        "164024878483efc699-0": {
-          "type": "heading",
+        "16402499893a509840-0": {
+          "type": "column",
           "settings": {
-            "heading": "BIO Leuchten"
+            "title": "",
+            "text": "<p>Die NuuvaBIO Leuchten sind unser bewährtes Originaldesign, das maximale Intensität in einem einfach zu bedienenden, wirtschaftlichen Paket bietet. Diese hochwertigen LED-Paneele bieten eine hohe Bestrahlungsstärke zu einem günstigen Preis.<br\/><\/p><p>Alle NuuvaBIO Leuchten sind mit einem einfachen Ein- und Ausschalter ausgestattet und eignen sich hervorragend als Einstieg in die LED-Lichttherapie. <\/p><p>Alle NuuvaBIO Lampen sind in der Kombination aus 50% Rotlicht 660nm und 50% NIR-Licht 850nm Wellenlängen erhältlich, die getrennt zuschaltbar sind. <\/p><p><br\/><\/p>"
           }
         },
-        "164024878483efc699-1": {
-          "type": "text",
+        "16402499893a509840-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>Die BIO Lampen sind unser bewährtes Originaldesign, das maximale Intensität in einem einfach zu bedienenden, wirtschaftlichen Paket <br\/>bietet. Diese hochwertigen LED-Paneele bieten eine hohe  Bestrahlungsstärke zu einem günstigen Preis.<\/p><p>Alle BIO Leuchten sind mit einem einfachen Ein- und Ausschalter ausgestattet und eignen sich hervorragend als Einstieg in die  LED-Lichttherapie. Alle BIO Lampen sind in der Kombination aus 50% Rotlicht 660nm und 50% NIR-Licht 850nm Wellenlängen erhältlich, die <br\/>getrennt zuschaltbar sind. So kannst du die Konfiguration wählen, die für deine Therapieziele am besten geeignet ist.<\/p><p>Mit der BIO Serie kannst du die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für eine größere Anwendungs&shy;fläche nutzen und dein ideales Lichttherapie-Setup aufbauen. <br\/>Bei BIO müssen alle Geräte separat geschaltet werden.<\/p>"
+            "title": "",
+            "text": "<p>So kannst du die Konfiguration wählen, die für deine Therapieziele am besten geeignet ist. <\/p><p><\/p><p>Mit der NuuvaBIO Serie kannst du die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für eine größere Anwendungsfläche nutzen und dein gewünschtes Lichttherapie-Setup aufbauen. Bei NuuvaBIO müssen alle Geräte separat angeschlossen und geschaltet werden.<\/p>"
           }
         }
       },
       "block_order": [
-        "164024878483efc699-0",
-        "164024878483efc699-1"
+        "16402499893a509840-0",
+        "16402499893a509840-1"
       ],
       "settings": {
-        "anchor": "",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "product-grid": {
@@ -181,7 +187,7 @@
   "order": [
     "banner",
     "164024877605c3941f",
-    "164024878417be199c",
+    "16402499899b9c8652",
     "product-grid",
     "163593723729661e2c",
     "16359412341220a733",
