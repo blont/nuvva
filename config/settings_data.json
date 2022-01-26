@@ -17,6 +17,7 @@
     "currency_code_enabled": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/log-nuuva_big.png",
     "checkout_sidebar_background_color": "#f2efef",
+    "checkout_button_color": "#2a97e1",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
