@@ -106,8 +106,8 @@
           "type": "collection",
           "settings": {
             "collection": "bio",
-            "image_bg": "shopify:\/\/shop_images\/vita_colleciton.png",
-            "image_hover": "shopify:\/\/shop_images\/vita_colleciton_hilit.png"
+            "image_bg": "shopify:\/\/shop_images\/bio-p.png",
+            "image_hover": "shopify:\/\/shop_images\/bio_hi_4a360731-329b-4da0-b08b-4d69ca37341b.png"
           }
         },
         "a13cb640-17da-4814-aba8-28e2d142ff4b": {
