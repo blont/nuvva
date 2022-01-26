@@ -105,17 +105,17 @@
         "13f5d081-21a6-47c6-af5f-9546151fff52": {
           "type": "collection",
           "settings": {
-            "collection": "bio",
-            "image_bg": "shopify:\/\/shop_images\/bio-p.png",
-            "image_hover": "shopify:\/\/shop_images\/bio_hi_4a360731-329b-4da0-b08b-4d69ca37341b.png"
+            "collection": "pro-proplus",
+            "image_bg": "shopify:\/\/shop_images\/pro-pro-plus-p.png",
+            "image_hover": "shopify:\/\/shop_images\/pro-pro-plus-h.png"
           }
         },
         "a13cb640-17da-4814-aba8-28e2d142ff4b": {
           "type": "collection",
           "settings": {
-            "collection": "pro-proplus",
-            "image_bg": "shopify:\/\/shop_images\/vitaPro-collection-teaser_1.png",
-            "image_hover": "shopify:\/\/shop_images\/vitaPro-collection-teaser_hilit.png"
+            "collection": "bio",
+            "image_bg": "shopify:\/\/shop_images\/bio-p.png",
+            "image_hover": "shopify:\/\/shop_images\/bio_hi_4a360731-329b-4da0-b08b-4d69ca37341b.png"
           }
         }
       },
