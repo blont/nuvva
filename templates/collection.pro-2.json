@@ -2,43 +2,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true
-      }
-    },
-    "1640251162e0102a6e": {
-      "type": "multicolumn",
-      "blocks": {
-        "1640251162e9d18fa6-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Die Nuuva NuuvaPRO und NuuvaPRO+ Serien sind eine der<br\/>fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem<br\/>Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen<br\/>und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO und NuuvaPRO+ Serien<br\/>kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste<br\/>Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen<br\/>gewährleistet. <\/p>"
-          }
-        },
-        "1640251162e9d18fa6-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1640251162e9d18fa6-0",
-        "1640251162e9d18fa6-1"
-      ],
-      "settings": {
-        "title": "NuuvaPRO und NuuvaPRO+ Serien",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "product-grid": {
@@ -78,7 +44,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
-        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -106,7 +71,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
-        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -134,7 +98,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ventilatoren-erklaert.jpg",
-        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -143,7 +106,6 @@
   },
   "order": [
     "banner",
-    "1640251162e0102a6e",
     "product-grid",
     "163593723729661e2c",
     "16359412341220a733",
