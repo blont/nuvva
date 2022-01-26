@@ -2459,6 +2459,18 @@ cursor: pointer;
     border-image-source: linear-gradient(-45deg, rgba(247, 34, 116, 0.8) 0%, rgba(252, 140, 105, 0.8) 80%, rgb(191, 31, 107,0.7) 160%);
  
 }
+.btn, .sp-modal-toggle {
+
+    background-color: rgba(247, 34, 116, 0.8) ;
+    background-clip: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px transparent solid;
+    border-radius: 0px;
+    color: white;
+    font-weight: 500;
+    padding: 1.4em 1.7em;
+}
 
 
   .grad-btn{
