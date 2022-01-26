@@ -2746,6 +2746,11 @@ margin-right: 8vw;
 margin-top: 4rem;
 
 }
+
+.zweispaltig{
+    column-count: 2;
+    column-gap: 40px;
+}
 @media screen and (forced-colors: active) {
     .icon {
         color: CanvasText;
