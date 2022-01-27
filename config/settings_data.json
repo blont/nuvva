@@ -16,6 +16,7 @@
     "predictive_search_enabled": false,
     "favicon": "shopify:\/\/shop_images\/signet-fav.png",
     "currency_code_enabled": false,
+    "checkout_header_image": "shopify:\/\/shop_images\/redlight-therapie-sicher-wie-sonnenlicht_1.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo-nuuva_CI.jpg",
     "checkout_logo_size": "small",
     "checkout_body_background_image": "shopify:\/\/shop_images\/redlight-therapie-sicher-wie-sonnenlicht_1.jpg",
