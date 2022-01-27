@@ -20,7 +20,7 @@
     "checkout_logo_size": "small",
     "checkout_sidebar_background_color": "#f2efef",
     "checkout_accent_color": "#1878b9",
-    "checkout_button_color": "#76d963",
+    "checkout_button_color": "#87ef73",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
