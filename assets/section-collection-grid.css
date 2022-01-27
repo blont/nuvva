@@ -17,9 +17,10 @@
   -ms-flex-pack: justify;
   justify-content: space-between;
   -webkit-box-align: end;
--webkit-align-items: flex-end;
+-webkit-align-items:  center;
 -ms-flex-align: end;
-align-items: flex-end;
+align-items: center;
+justify-content: center;
 display: flex;
 }
 .collection-grid__grid-ctn {
@@ -30,15 +31,15 @@ gap : 10px 0;
 margin: 0 2.5%;
 }
 .collection-grid__grid-item {
-border: 2px solid #000;
-border-radius: 10px;
+
+
 background-color: #FBF9F9;
 text-decoration: none;
 height: 470px;
 
 }
 .collection-grid__grid-item:hover {
-  background-color: rgba(14,14,14,0.7);
+  background-color: rgba(14,14,14,0.05);
 }
 .collection-grid__img-ctn {
   height: 400px;
