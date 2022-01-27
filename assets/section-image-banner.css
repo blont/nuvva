@@ -74,6 +74,15 @@
     min-height: 72rem;
   }
 }
+@media only screen 
+   and (min-device-width: 766px)
+   and (max-device-width: 1182px)
+   and (orientation: landscape) {
+    .banner--medium:not(.banner--adapt) {
+      min-height: 32rem;
+    }
+}
+
 
 @media screen and (max-width: 749px) {
   .banner:not(.banner--stacked) {
@@ -366,6 +375,22 @@ margin-top: -2rem;
   .banner__box > .banner__buttons:only-child .button {
     margin-top: 0;
   }
+}
+
+
+
+@media only screen 
+   and (min-device-width: 766px)
+   and (max-device-width: 1182px)
+   and (orientation: landscape) {
+    .banner__box {
+      padding: 2rem;
+      width: auto;
+      max-width: 71rem;
+      min-width: 45rem;
+      margin-left: 4vw;
+    }
+  
 }
 
 
