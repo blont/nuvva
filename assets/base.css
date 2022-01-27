@@ -1325,6 +1325,12 @@ deferred-media {
     /* box-shadow: 0 0 0 0.2rem rgba(var(--color-button), var(--alpha-button-border)); */
 
 }
+button.cart__checkout-button:hover{
+
+    background-color:   rgba(255, 155, 24, 0.9);
+  
+    background-image:none!important;
+}
 
 /* Button - other */
 
@@ -2401,7 +2407,7 @@ details-disclosure > details {
     background-image: -o-linear-gradient(left,#FEA646 -10%,#FB2274 78.29%,#D12274 98.21%);
     background-image: -webkit-gradient(linear,left top,right top,color-stop(-10%,#FEA646),color-stop(78.29%,#FB2274),color-stop(98.21%,#D12274));
     background-image: linear-gradient(90deg,#FEA646 -10%,#FB2274 78.29%,#D12274 98.21%);
-    transition: all .3s ease;
+  
 border: unset!important;
 
 }
@@ -2744,7 +2750,6 @@ background: linear-gradient(-45deg, rgba(247, 34, 116, 0.8) 0%, rgba(252, 140, 1
     color: rgb(var(--color-foreground));
     word-break: break-word;
 }
-
 
 .gradient {
     background: var(--color-background);

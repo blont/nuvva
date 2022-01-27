@@ -118,6 +118,9 @@ cart-remove-button .button {
   min-height: 4.5rem;
   padding: 0;
   margin: 0 0.1rem 0.1rem 0;
+
+  background-image: none!important;
+ 
 }
 
 cart-remove-button .button:not([disabled]):hover {
