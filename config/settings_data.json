@@ -19,7 +19,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/logo-nuuva_CI.jpg",
     "checkout_logo_size": "small",
     "checkout_sidebar_background_color": "#f2efef",
-    "checkout_accent_color": "#c643b3",
+    "checkout_accent_color": "#3b5acc",
     "checkout_button_color": "#9df22c",
     "sections": {
       "announcement-bar": {
