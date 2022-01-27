@@ -6,35 +6,40 @@
       "settings": {
       }
     },
-    "16373146957e6f9a7b": {
-      "type": "hero",
+    "16432807810bdd85eb": {
+      "type": "collection-list",
       "blocks": {
-        "11b0460b-c06b-45e9-aa06-e3cfd2fa5016": {
-          "type": "collection",
+        "16432807814b51aa64-0": {
+          "type": "featured_collection",
           "settings": {
-            "collection": "bio",
-            "image_bg": "shopify:\/\/shop_images\/vita_colleciton.png",
-            "image_hover": "shopify:\/\/shop_images\/vita_colleciton_hilit.png"
+            "collection": "bio"
           }
         },
-        "d5b6b62d-0297-447d-9df0-89193d7e7fa9": {
-          "type": "collection",
+        "16432807814b51aa64-1": {
+          "type": "featured_collection",
           "settings": {
-            "collection": "pro",
-            "image_bg": "shopify:\/\/shop_images\/vitaPro-collection-teaser_1.png",
-            "image_hover": "shopify:\/\/shop_images\/vitaPro-collection-teaser_hilit.png"
+            "collection": "pro"
+          }
+        },
+        "16432807814b51aa64-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "proplus"
           }
         }
       },
       "block_order": [
-        "11b0460b-c06b-45e9-aa06-e3cfd2fa5016",
-        "d5b6b62d-0297-447d-9df0-89193d7e7fa9"
+        "16432807814b51aa64-0",
+        "16432807814b51aa64-1",
+        "16432807814b51aa64-2"
       ],
       "settings": {
-        "title": "Unsere Kollektionen",
-        "infotext": "Die Nuuva Therapieleuchten der Bio und PRO\/PRO+ Serien.",
-        "zwischenheader": "",
-        "cta": ""
+        "title": "Kollektionen",
+        "image_ratio": "square",
+        "color_scheme": "background-2",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
       }
     },
     "1637673092c78fbfdc": {
@@ -113,50 +118,13 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
-    },
-    "16432807810bdd85eb": {
-      "type": "collection-list",
-      "blocks": {
-        "16432807814b51aa64-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bio"
-          }
-        },
-        "16432807814b51aa64-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pro"
-          }
-        },
-        "16432807814b51aa64-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "proplus"
-          }
-        }
-      },
-      "block_order": [
-        "16432807814b51aa64-0",
-        "16432807814b51aa64-1",
-        "16432807814b51aa64-2"
-      ],
-      "settings": {
-        "title": "Kollektionen",
-        "image_ratio": "square",
-        "color_scheme": "background-2",
-        "swipe_on_mobile": false,
-        "image_padding": false,
-        "show_view_all": false
-      }
     }
   },
   "order": [
     "main",
-    "16373146957e6f9a7b",
+    "16432807810bdd85eb",
     "1637673092c78fbfdc",
     "1637751976a914fb95",
-    "1637851471d25d908a",
-    "16432807810bdd85eb"
+    "1637851471d25d908a"
   ]
 }
