@@ -278,41 +278,6 @@
         "button_link": "",
         "swipe_on_mobile": true
       }
-    },
-    "1640086461b19f4eb5": {
-      "type": "image-with-text",
-      "blocks": {
-        "1640086461012a6318-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1640086461012a6318-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen<br\/>helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch<br\/>werden natürliche Heilungs- und Regenerationsprozesse des Körpers anregt.<br\/><\/p><p>Erfahre <span style=\"text-decoration:underline\">hier<\/span> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohlbefinden zu verbessern.<\/p>"
-          }
-        },
-        "1640086461012a6318-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1640086461012a6318-0",
-        "1640086461012a6318-1",
-        "1640086461012a6318-2"
-      ],
-      "settings": {
-        "anchor": "",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
@@ -321,7 +286,6 @@
     "1635351417eb23c5e9",
     "163645210085c341b2",
     "1636039719bcfe7a1a",
-    "1636099310f13726c4",
-    "1640086461b19f4eb5"
+    "1636099310f13726c4"
   ]
 }
