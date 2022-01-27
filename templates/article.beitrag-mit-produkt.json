@@ -36,60 +36,9 @@
       ],
       "settings": {
       }
-    },
-    "1643270804cfa3ae7b": {
-      "type": "multicolumn",
-      "blocks": {
-        "1643270804e72e3ac2-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nuuva_Bio300_Front_1.jpg",
-            "title": "bio 300",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1643270804e72e3ac2-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1643270804e72e3ac2-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "fdc2227f-6ca5-44ae-b57e-49e116e66b8f": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1643270804e72e3ac2-0",
-        "1643270804e72e3ac2-1",
-        "1643270804e72e3ac2-2",
-        "fdc2227f-6ca5-44ae-b57e-49e116e66b8f"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
-    "main",
-    "1643270804cfa3ae7b"
+    "main"
   ]
 }
