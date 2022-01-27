@@ -36,9 +36,42 @@
       ],
       "settings": {
       }
+    },
+    "1643291310aef21edf": {
+      "type": "collection-grid",
+      "blocks": {
+        "bd250260-2d0b-4331-ac0c-92c192bfac26": {
+          "type": "collection",
+          "settings": {
+            "collection": "bio"
+          }
+        },
+        "55eea574-37f7-4079-b1f2-8563fe3b1731": {
+          "type": "collection",
+          "settings": {
+            "collection": "pro"
+          }
+        },
+        "ab133bda-50a4-4f82-b07b-7394ec293f6f": {
+          "type": "collection",
+          "settings": {
+            "collection": "proplus"
+          }
+        }
+      },
+      "block_order": [
+        "bd250260-2d0b-4331-ac0c-92c192bfac26",
+        "55eea574-37f7-4079-b1f2-8563fe3b1731",
+        "ab133bda-50a4-4f82-b07b-7394ec293f6f"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1643291310aef21edf"
   ]
 }
