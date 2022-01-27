@@ -5,9 +5,15 @@
 <div class="multicolumn background-{{ section.settings.background_style }}{% if section.settings.title == blank %} no-heading{% endif %}">
   <div class="page-width">
     <div class="title-wrapper-with-link title-wrapper--self-padded-mobile{% if section.settings.title == blank %} title-wrapper-with-link--no-heading{% endif %}">
-      <h2 class="title">
+      <div class=" icon-info-layer__title_decker">   
+    
+      <h2 class="image-with-text__heading title aos-init aos-animate" data-aos="fade-up" data-aos-delay="220" data-aos-duration="800">
+
+  
         {{ section.settings.title | escape }}
       </h2>
+    </div> 
+   
       {%- if section.settings.button_label != blank and section.settings.swipe_on_mobile -%}
         <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">{{ section.settings.button_label | escape }}</a>
       {%- endif -%}
