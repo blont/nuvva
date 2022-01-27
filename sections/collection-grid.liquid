@@ -5,13 +5,13 @@
   
   <div class= "collection-grid__header">
     <div class= "collection-grid__title_decker">  
-<h2 class= "collection-grid__title"  data-aos="fade-up"  data-aos-delay="1000" data-aos-duration="800">{{ section.settings.header }}</h2>
+<h2 class= "collection-grid__title"  data-aos="fade-up"  data-aos-delay="100" data-aos-duration="800">{{ section.settings.header }}</h2>
 </div>
 
 
 </div>
 
-<div class= "collection-grid__grid-ctn">
+<div class= "collection-grid__grid-ctn" data-aos="fade-up"  data-aos-delay="200" data-aos-duration="800">
 
 {% for block in section.blocks %}
 <a class= "collection-grid__grid-item" href="{{ block.settings.collection.url }}">
