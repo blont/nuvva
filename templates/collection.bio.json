@@ -85,7 +85,7 @@
         "show_rating": false,
         "enable_filtering": true,
         "enable_sorting": false,
-        "collapse_on_larger_devices": false
+        "collapse_on_larger_devices": true
       }
     },
     "163593723729661e2c": {
