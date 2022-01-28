@@ -2,42 +2,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true
-      }
-    },
-    "164024877605c3941f": {
-      "type": "page-header",
-      "blocks": {
-        "1640248776917933b7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "NuuvaBIO",
-            "heading_size": "large"
-          }
-        },
-        "1640248776917933b7-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1640248776917933b7-0",
-        "1640248776917933b7-1"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "product-grid": {
@@ -186,7 +153,6 @@
   },
   "order": [
     "banner",
-    "164024877605c3941f",
     "product-grid",
     "16402499899b9c8652",
     "163593723729661e2c",
