@@ -29,7 +29,7 @@
         <a class="skip-to-content-link button visually-hidden" href="#ProductInfo-{{ section.id }}">
           {{ "accessibility.skip_to_product_info" | t }}
         </a>
-        <ul class="product__media-list grid grid--peek list-unstyled slider slider--mobile" role="list">
+        <ul class="product__media-list grid grid--peek list-unstyled slider slider--mobile"  data-aos="zoom-in" data-aos-delay="320" role="list">
           {%- assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' -%}
           {%- if product.selected_or_first_available_variant.featured_media != null -%}
             {%- assign media = product.selected_or_first_available_variant.featured_media -%}
@@ -73,7 +73,7 @@
  
  
   
-      <ul class="slider-nav" role="list">
+      <ul class="slider-nav" role="list"  data-aos="fade-up" data-aos-delay="350">
         {%- assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' -%}
         {%- if product.selected_or_first_available_variant.featured_media != null -%}
           {%- assign media = product.selected_or_first_available_variant.featured_media -%}
@@ -96,7 +96,7 @@
 
 
 
-    <div class="product__info-wrapper grid__item">
+    <div class="product__info-wrapper grid__item"  data-aos="fade-left" data-aos-delay="20">
       <div id="ProductInfo-{{ section.id }}" class="product__info-container{% if section.settings.enable_sticky_info %} product__info-container--sticky{% endif %}">
         {%- assign product_form_id = 'product-form-' | append: section.id -%}
 
@@ -109,7 +109,7 @@
               {{- block.settings.text -}}
             </p>
           {%- when 'title' -%}
-            <h1 class="product__title" {{ block.shopify_attributes }}>
+            <h1 class="product__title" {{ block.shopify_attributes }} >
               {{ product.title | escape }}
             </h1>
           {%- when 'price' -%}

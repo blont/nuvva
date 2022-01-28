@@ -108,9 +108,6 @@
           font-size: 1.6rem;
         }
       }
-.flag-sale{background-image: url({{ "flag-sale.svg" | asset_url }})}
-.flag-new{background-image: url({{ "flag-new.svg" | asset_url }})}
-
 
 
     {% endstyle %}
@@ -185,6 +182,16 @@
     <script>
     
       if (!window.Cypress) {
+        function testimonialsSlick() {
+          if (typeof $.fn.slick == 'function') {
+            // do your work here
+            initSlick();
+           // clear the interval
+           window.clearInterval(slickInterval)
+         }
+      }
+      var slickInterval = window.setInterval(testimonialsSlick, 200);
+
 
         setTimeout(function(){ 
 
@@ -193,7 +200,7 @@
           
         });
 
-   initSlick();
+
 
         }, 1000);
 
