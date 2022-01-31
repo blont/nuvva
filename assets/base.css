@@ -2778,6 +2778,17 @@ margin-top: 4rem;
 
 }
 
+
+@media screen and (min-width:1200px) {
+    .info-ctn{
+        margin-left: 14vw;
+        margin-right: 14vw;
+        margin-top: 4rem;
+        
+        }
+}
+
+
 .zweispaltig{
     column-count: 2;
     column-gap: 40px;
