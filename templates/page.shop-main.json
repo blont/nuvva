@@ -42,6 +42,25 @@
         "show_view_all": false
       }
     },
+    "1643620121acb5a332": {
+      "type": "introcolumns",
+      "blocks": {
+        "3d7c0009-5fb3-42ab-83d7-db1f1ead42d9": {
+          "type": "Info-block",
+          "settings": {
+            "header": "",
+            "textarea": "Sowohl unsere NuuvaBIO als auch unsere NuuvaPRO \/ NuuvaPRO+ sind leistungsstarke Leuchten. Alle 3 Serien bieten die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für den Aufbau zu einer größere Anwendungsfläche. Allerdings ist die Verwendung mit den NuuvaPRO \/ NuuvaPRO+ Serien komfortabler aufgrund der Daisy Chain, bei der die Leuchten in Reihe geschaltet und von einem Gerät aus gemeinsam bedient und gesteuert werden können.",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "3d7c0009-5fb3-42ab-83d7-db1f1ead42d9"
+      ],
+      "settings": {
+      }
+    },
     "1637673092c78fbfdc": {
       "type": "multicolumn",
       "blocks": {
@@ -49,19 +68,27 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Sowohl unsere NuuvaBIO als auch unsere NuuvaPRO \/ NuuvaPRO+ Leuchten sind leistungsstark. <strong>NuuvaBIO<\/strong> bietet dir einen hohen therapeutischen Nutzen bei einem hervorragendem Preis\/Leistungsverhältnis.<br\/><br\/>Die <strong>NuuvaPRO<\/strong> sind unsere Lichttherapie Geräte für gehobene Ansprüche. Im Vergleich zu unseren NuuvaBIO Leuchten bietet die NuuvaPRO Reihe eine höhere Lichtleistung, digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain mit anderen NuuvaPRO Leuchten. Durch die höhere Lichtleistung liefern die NuuvaPRO Leuchten noch bessere Ergebnisse bei kürzerer Bestrahlungszeit als die NuuvaBIO-Leuchten. <br\/><\/p>"
+            "text": "<p><strong>NuuvaBIO <\/strong>Leuchten bieten dir die gut erforschten<br\/>Wellenlängen von 660 und 850nm, jeweils zuschaltbar per Schalter. Hochwertige 5W,<br\/>60° double-Chip LEDs mit einer hohen Lebenserwartung und flimmerfreiem Betrieb.<br\/>NuuvaBIO bietet dir eine hohe Bestrahlungsstärke mit einem hohen therapeutischen<br\/>Nutzen bei einem hervorragendem Preis\/Leistungsverhältnis.<\/p>"
+          }
+        },
+        "666cbefb-34be-4315-9fa5-a84771523123": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Die <strong>NuuvaPRO <\/strong>sind unsere Lichttherapie Geräte für<br\/>gehobene Ansprüche. Im Vergleich zu unseren NuuvaBIO Leuchten bietet die<br\/>NuuvaPRO Reihe eine höhere Lichtleistung, digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain mit anderen NuuvaPRO Leuchten. Aufgrund der höheren Lichtleistung liefern die NuuvaPRO Leuchten noch bessere Ergebnisse bei kürzerer Bestrahlungszeit als die NuuvaBIO-Leuchten.<\/p>"
           }
         },
         "163767309200b26065-1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Unsere <strong>NuuvaPRO+<\/strong> ist unsere neueste und fortschrittlichste Lichttherapie-Leuchte für die Kunden, die eine höhere Leistung und ein erweitertes Spektrum für einen noch besseren Nutzen wünschen. Die NuuvaPRO+ kombiniert <strong>fünf leistungsstarke Lichtwellenlängen<\/strong> und verfügt über das exklusive <strong>Nuuva Multi+ Spektrum<\/strong>. Es bietet eine perfekte Mischung aus 50% tiefrotem Licht mit 630, 660nm Wellenlängen und 50% NIR Licht 830, 850, 860nm Wellenlängen. Natürlich bietet auch die NuuvaPRO+ die digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain mit anderen NuuvaPRO Leuchten. Durch die höhere Lichtleistung und das erweiterte Spektrum liefern die NuuvaPRO+ Leuchten noch eindrucksvollere Ergebnisse als die NuuvaPRO Leuchten.<br\/><br\/>Alle Serien bieten die Nuuva spezifischen Montage-\/Standoptionen im <strong>Baukastenprinzip<\/strong> für eine größere Anwendungsfläche. Allerdings ist die Verwendung mit den NuuvaPRO \/ NuuvaPRO+ Serien komfortabler aufgrund der Daisy Chain, bei der die Leuchten in Reihe geschaltet und von einem Gerät aus gemeinsam bedient und gesteuert werden können.<br\/><br\/><\/p>"
+            "text": "<p>Unsere <strong>NuuvaPRO+<\/strong> ist unsere neueste und<br\/>fortschrittlichste Lichttherapie-Leuchte für die Kunden, die eine höhere Leistung und ein erweitertes Spektrum für einen noch besseren Nutzen wünschen.<br\/>Die NuuvaPRO+ kombiniert fünf leistungsstarke Lichtwellenlängen und verfügt über das exklusive Nuuva Multi+ Spektrum. Es bietet eine perfekte Mischung aus 0% tiefrotem Licht mit 630, 660nm Wellenlängen und 50% NIR Licht 830, 850, 60nm Wellenlängen. Natürlich bietet auch die NuuvaPRO+ die digitale Steuerung mit Zeitschaltung und die Möglichkeit der Verknüpfung mittels einer Daisy-Chain<br\/>mit anderen NuuvaPRO Leuchten. Durch die höhere Lichtleistung und das erweiterte Spektrum liefern die NuuvaPRO+ Leuchten noch eindrucksvollere<br\/>Ergebnisse als die NuuvaPRO Leuchten.<\/p>"
           }
         }
       },
       "block_order": [
         "163767309200b26065-0",
+        "666cbefb-34be-4315-9fa5-a84771523123",
         "163767309200b26065-1"
       ],
       "settings": {
@@ -123,6 +150,7 @@
   "order": [
     "main",
     "16432807810bdd85eb",
+    "1643620121acb5a332",
     "1637673092c78fbfdc",
     "1637751976a914fb95",
     "1637851471d25d908a"
