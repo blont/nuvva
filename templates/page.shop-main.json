@@ -42,23 +42,38 @@
         "show_view_all": false
       }
     },
-    "1643620121acb5a332": {
-      "type": "introcolumns",
+    "16436213840530cb19": {
+      "type": "text-2spalten",
       "blocks": {
-        "3d7c0009-5fb3-42ab-83d7-db1f1ead42d9": {
-          "type": "Info-block",
+        "16436213843e1f006f-0": {
+          "type": "heading",
           "settings": {
-            "header": "",
-            "textarea": "Sowohl unsere NuuvaBIO als auch unsere NuuvaPRO \/ NuuvaPRO+ sind leistungsstarke Leuchten. Alle 3 Serien bieten die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für den Aufbau zu einer größere Anwendungsfläche. Allerdings ist die Verwendung mit den NuuvaPRO \/ NuuvaPRO+ Serien komfortabler aufgrund der Daisy Chain, bei der die Leuchten in Reihe geschaltet und von einem Gerät aus gemeinsam bedient und gesteuert werden können.",
+            "heading": ""
+          }
+        },
+        "16436213843e1f006f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sowohl unsere NuuvaBIO als auch unsere NuuvaPRO \/ NuuvaPRO+ sind leistungsstarke Leuchten. Alle 3 Serien bieten die Nuuva spezifischen Montage-\/Standoptionen im Baukastenprinzip für den Aufbau zu einer größere Anwendungsfläche. Allerdings ist die Verwendung mit den NuuvaPRO \/ NuuvaPRO+ Serien komfortabler aufgrund der Daisy Chain, bei der die Leuchten in Reihe geschaltet und von einem Gerät aus gemeinsam bedient und gesteuert werden können.<\/p>"
+          }
+        },
+        "16436213843e1f006f-2": {
+          "type": "button",
+          "settings": {
             "button_label": "",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "3d7c0009-5fb3-42ab-83d7-db1f1ead42d9"
+        "16436213843e1f006f-0",
+        "16436213843e1f006f-1",
+        "16436213843e1f006f-2"
       ],
       "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "1637673092c78fbfdc": {
@@ -150,7 +165,7 @@
   "order": [
     "main",
     "16432807810bdd85eb",
-    "1643620121acb5a332",
+    "16436213840530cb19",
     "1637673092c78fbfdc",
     "1637751976a914fb95",
     "1637851471d25d908a"
