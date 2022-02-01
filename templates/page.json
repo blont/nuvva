@@ -18,7 +18,7 @@
         "1640180212d97d61f6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers anregt.<br\/><\/p><p>Erfahre <span style=\"text-decoration:underline\">hier<\/span> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohl&shy;befinden zu verbessern.<\/p>"
+            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers anregt.<br\/><\/p><p>Erfahre <a href=\"\/blogs\/lichttherapie-blog\" title=\"Nuuva Wissen-Blog\"><span style=\"text-decoration:underline\">hier<\/span><\/a> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohl­befinden zu verbessern.<\/p>"
           }
         }
       },
@@ -28,6 +28,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Was-ist-Rotlichttherapie-2_1.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -55,6 +56,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/redlight-therapie-sicher-wie-sonnenlicht2_1.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -82,6 +84,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/redlighttherpie-wissenschafltich_1.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
