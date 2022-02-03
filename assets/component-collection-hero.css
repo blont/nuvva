@@ -1,8 +1,12 @@
 .collection-hero{
-  margin-bottom: 2rem;
+ 
   position: relative;
-}
 
+ 
+}
+.collection-hero .border-line{
+  margin-bottom: 2rem;
+}
 
 .collection-hero--with-image {
   background-color: rgba(var(--color-foreground), 0.04);

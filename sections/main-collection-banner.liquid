@@ -3,10 +3,16 @@
 <div class="collection-hero{% if section.settings.show_collection_image and collection.image %} collection-hero--with-image{% endif %}">
   <div class="collection-hero__inner page-width">
     <div class="collection-hero__text-wrapper ">
-      <h1 class="collection-hero__title">
-        <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}: </span>
-        {{- collection.title | escape -}}
-      </h1>
+
+      <div class=" icon-info-layer__title_decker">       
+
+              <h1 class="collection-hero__title h1 " data-aos="fade-right" data-aos-delay="0" data-aos-duration="450">
+                <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}: </span>
+                {{- collection.title | escape -}}
+              </h1>
+            </div>
+
+
 
       {%- if section.settings.show_collection_description -%}
         <div class="collection-hero__description rte">{{ collection.description }}</div>
@@ -35,8 +41,9 @@
 
   
   </div>
+  
 </div>
-
+<div class="border-line"></div>
 {% schema %}
 {
   "name": "t:sections.main-collection-banner.name",
