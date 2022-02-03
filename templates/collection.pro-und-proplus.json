@@ -15,6 +15,7 @@
         "1643300965a4e1790d-0"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -93,7 +94,7 @@
         "163593723729661e2c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte<\/p>"
+            "text": "<p>Alle Nuuva Leuchten nutzen doppelte LED Chips. Doppelchip LEDs verbrauchen weniger Strom, haben eine verbesserte<br\/>Strahlungsleistung [in W] und höhere Bestrahlungsstärke [in W\/cm²]. <\/p>"
           }
         }
       },
@@ -121,7 +122,7 @@
         "16359412341220a733-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Modelle der PRO-Serie sind mit Deep Red, Nah Infrarot (NIR) und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten bieten dir die passende Behandlung für deine Haut.<\/p><p><\/p>"
+            "text": "<p>Alle Nuuva Leuchten sind mit Rotlicht, Nahinfrarot (NIR)-Licht und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten lassen sich per Schalter (BIO) oder Bedienfeld (PRO\/PRO+) auswählen und bieten dir die passende Behandlung für deine Zwecke.<\/p><p><\/p>"
           }
         }
       },
@@ -149,7 +150,7 @@
         "163593724891150a59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.<\/p>"
+            "text": "<p>Jedes Gerät kommt mit einem perfekt angepasstem Kühlsystem. Ohne ein angepasstes Temperaturmanagement können die LEDs zu heiß werden und durchbrennen. Die Kühlung und der Luftstrom sind entscheidend, damit deine Leuchte bei optimaler  Betriebstemperatur läuft. Für eine lange Lebenszeit und dass du dich lange an deiner Nuuva Rotlicht-Leuchte erfreuen kannst.<\/p>"
           }
         }
       },

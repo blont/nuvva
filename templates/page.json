@@ -18,7 +18,7 @@
         "1640180212d97d61f6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers anregt.<br\/><\/p><p>Erfahre <span style=\"text-decoration:underline\">hier<\/span> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohl&shy;befinden zu verbessern.<\/p>"
+            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers anregt.<br\/><\/p><p>Erfahre <a href=\"\/blogs\/lichttherapie-blog\" title=\"Nuuva Wissen-Blog\"><span style=\"text-decoration:underline\">hier<\/span><\/a> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohl­befinden zu verbessern.<\/p>"
           }
         }
       },
@@ -28,6 +28,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Was-ist-Rotlichttherapie-2_1.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -55,6 +56,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/redlight-therapie-sicher-wie-sonnenlicht2_1.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -72,7 +74,7 @@
         "16401802894513de03-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Es gibt mittlerweile tausende von wissenschaftlichen Studien, die die positiven Wirkungen und Vorteile der Rotlichttherapie belegen.<br\/>In der wissenschaftlichen Literatur wird diese Behandlung auch als Photobiomodulation (PBM) oder Low-Level- Licht- (Laser-) Therapie (LLLT) bezeichnet. <\/p><p>Hier findest du einen Link zu einer <a href=\"https:\/\/docs.google.com\/spreadsheets\/d\/1ZKl5Me4XwPj4YgJCBes3VSCJjiVO4XI0tIR0rbMBj08\/edit?fbclid=IwAR1e4pb4eMwSdZu83GI1u_gMeebVJ0GJfFGBbrNpY_LYt9t3ZEIIHhTckAY#gid=0\">Zusammenstellung von mehr als 4000 wissenschaftlichen Studien<\/a> zur Rot und NIR-Lichttherapie von <a>Vladimir Heiskanen<\/a>. Er hat die<br\/>Forschungsergebnisse zur Photobio­modulation in einer Tabelle zusammengestellt. Hier findest du einen Link zu seinem <a href=\"http:\/\/valtsus.blogspot.com\/\">Blog<\/a>.<\/p>"
+            "text": "<p>Es gibt mittlerweile tausende von wissenschaftlichen Studien, die die positiven Wirkungen und Vorteile der Rotlichttherapie belegen. In der wissenschaftlichen Literatur wird diese Behandlung auch als Photobiomodulation (PBM) oder Low-Level- Licht- (Laser-) Therapie (LLLT) bezeichnet. <\/p><p>Sich hier einen Überblick zu verschaffen ist schwierig. Wir haben darum gängige Krankheiten oder Konditionen mit den erforschten  Wellenlängen im Rot- und Nahinfrarot Spektrum zwischen 600 und 1270nm verglichen und in einer Tabelle zusammengestellt. Du findest sie <a href=\"\/blogs\/lichttherapie-blog\/was-sagt-die-wissenschaft-eine-ubersicht-der-studien-zu-wellenlangen-in-der-rotlichttherapie-und-anwendungsgebiete-in-der-forschung\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">hier<\/a>.<\/p>"
           }
         }
       },
@@ -82,6 +84,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/redlighttherpie-wissenschafltich_1.jpg",
+        "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
