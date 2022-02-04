@@ -6,13 +6,20 @@
         "1643962489098d158a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Nuuva Wissen Blog",
+            "heading": "Nuuva Wissen-Blog",
             "heading_size": "medium"
+          }
+        },
+        "e8188649-6e5c-4781-b7a6-ac8b60aef20e": {
+          "type": "text",
+          "settings": {
+            "text": "Dein Einsteig in die Rotlichttherapie"
           }
         }
       },
       "block_order": [
-        "1643962489098d158a-0"
+        "1643962489098d158a-0",
+        "e8188649-6e5c-4781-b7a6-ac8b60aef20e"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
