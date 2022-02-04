@@ -1,9 +1,35 @@
 {
   "sections": {
+    "1643962490209df6e9": {
+      "type": "page-header",
+      "blocks": {
+        "1643962489098d158a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nuuva Wissen Blog",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "1643962489098d158a-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
-        "layout": "collage",
+        "layout": "grid",
         "show_image": true,
         "image_height": "small",
         "show_date": true,
@@ -12,6 +38,7 @@
     }
   },
   "order": [
+    "1643962490209df6e9",
     "main"
   ]
 }
