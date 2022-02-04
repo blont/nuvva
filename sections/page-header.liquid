@@ -84,16 +84,16 @@
         {%- case block.type -%}
           {%- when 'heading' -%}
             <h2 class="banner__heading {% if block.settings.heading_size == 'medium' %}h1{% else %}h0{% endif %}" {{ block.shopify_attributes }}>
-              <span data-aos="fade-up" data-aos-delay="50" >{{ block.settings.heading | escape }}</span>
+              <span data-aos="fade-up" data-aos-delay="0" >{{ block.settings.heading | escape }}</span>
             
             </h2>
          
           {%- when 'text' -%}
             <div class="banner__text2" {{ block.shopify_attributes }} style="text-align: center; margin-top:0!important;">
-              <span  data-aos="fade-up" data-aos-delay="70" class ="hyphenate"  style=";color: {{ block.settings.color_text }};">{{ block.settings.text | escape }}</span>
+              <span  data-aos="fade-up" data-aos-delay="30" class ="hyphenate"  style=";color: {{ block.settings.color_text }};">{{ block.settings.text | escape }}</span>
             </div>
           {%- when 'buttons' -%}
-            <div data-aos="fade-up" data-aos-delay="90"  class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %} box-shadow-but" {{ block.shopify_attributes }}>
+            <div data-aos="fade-up" data-aos-delay="50"  class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %} box-shadow-but" {{ block.shopify_attributes }}>
               {%- if block.settings.button_label_1 != blank -%}
                 <a{% if block.settings.button_link_1 == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link_1 }}"{% endif %} class="button{% if block.settings.button_style_secondary_1 %} button--secondary{% else %} button--primary{% endif %}">{{ block.settings.button_label_1 | escape }}</a>
               {%- endif -%}
