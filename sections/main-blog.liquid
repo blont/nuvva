@@ -6,8 +6,12 @@
 {%- paginate blog.articles by 6 -%}
 
   <div class="main-blog page-width">
-    <h1 class="title--primary">{{ blog.title | escape }}</h1>
+    
+    {%- if blog.show_header -%}
+      <h1 class="title--primary">{{ blog.title | escape }}</h1>
 
+    {%- endif -%}
+  
     <div class="blog-articles {% if section.settings.layout == 'collage' %}blog-articles--collage{% endif %}">
       {%- for article in blog.articles -%}
         <div class="blog-articles__article article">
@@ -31,6 +35,12 @@
     {
       "type": "header",
       "content": "t:sections.main-blog.settings.header.content"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_header",
+      "default": true,
+      "label": "Show Header"
     },
     {
       "type": "select",

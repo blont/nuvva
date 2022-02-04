@@ -89,8 +89,8 @@
             </h2>
          
           {%- when 'text' -%}
-            <div class="banner__text" {{ block.shopify_attributes }}>
-              <span  data-aos="fade-up" data-aos-delay="70" class ="hyphenate">{{ block.settings.text | escape }}</span>
+            <div class="banner__text2" {{ block.shopify_attributes }} style="text-align: center; margin-top:0!important;">
+              <span  data-aos="fade-up" data-aos-delay="70" class ="hyphenate"  style=";color: {{ block.settings.color_text }};">{{ block.settings.text | escape }}</span>
             </div>
           {%- when 'buttons' -%}
             <div data-aos="fade-up" data-aos-delay="90"  class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %} box-shadow-but" {{ block.shopify_attributes }}>
@@ -274,7 +274,12 @@
           "id": "text",
           "default": "Give customers details about the banner image(s) or content on the template.",
           "label": "t:sections.image-banner.blocks.text.settings.text.label"
-        }
+        },{
+  "type": "color",
+  "id": "color_text",
+  "label": "Color text",
+  "default": "#e53939"
+}
       ]
     },
     {
