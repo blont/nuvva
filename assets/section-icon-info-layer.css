@@ -38,7 +38,7 @@ overflow: hidden;
     justify-content:center;
     display: flex;
     min-height: 700px;;
-
+max-width:fit-content;
 }
 
 .icon-info-layer__icon-grid-wrapper{
@@ -49,7 +49,7 @@ overflow: hidden;
     padding: 2rem;
 
 }
-.icon-info-layer__infolayer{margin: auto 0;}
+.icon-info-layer__infolayer{margin: auto 20px;}
 .icon-info-layer__grid-title{
     margin-top: 2rem;
 }
