@@ -38,7 +38,7 @@ overflow: hidden;
    
     display: flex;
     min-height: 700px;;
-max-width:fit-content;
+max-width:80vw;
 }
 
 .icon-info-layer__icon-grid-wrapper{
