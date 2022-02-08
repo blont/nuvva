@@ -36,6 +36,7 @@
 
   .banner--medium.banner--mobile-bottom:not(.banner--adapt) > .banner__media,
   .banner--medium.banner--stacked:not(.banner--mobile-bottom):not(.banner--adapt) > .banner__media {
+  overflow: hidden;
     height: 16rem;
   }
 
