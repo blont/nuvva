@@ -21,6 +21,7 @@ right: 0;
 .icon-info-layer-left{
     position: relative;
 background-color: #dedcdd;
+width:100vw;
 
 }
 .icon-info-layer-left, .icon-info-layer-right{
@@ -75,10 +76,12 @@ font-weight: 600;
 }
 .icon-info-layer__icon-title{
 
-padding-left: 15px;}
+padding-left: 15px;
+}
  
 
 @media screen and (min-width: 768px) {
+
     .icon-info-layer__icon-grid-wrapper{
         grid-template-columns: 1fr 1fr;
     }
