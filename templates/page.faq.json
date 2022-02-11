@@ -39,7 +39,7 @@
           "type": "accordion",
           "settings": {
             "title": "Ich habe noch eine Rotlichtlampe von früher, ist das das gleiche?",
-            "content": "<p>Nein, hierbei handelt es sich um Infrarot-Strahler, die verwendet werden, um eine Erwärmung im Gewebe zu erzeugen. Sehr hilfreich kann die Wärmestrahlung z.B. bei Erkrankungen im Hals-, Nasen- und Ohrenbereich sein oder bei Muskelverspannungen. <\/p><p>Die moderne Rotlichttherapie erzeugt kaum Wärme, sondern wirkt positiv auf die Zellen selbst ein.<\/p>"
+            "content": "<p>Nein, hierbei handelt es sich um Wärmelampen. Diese Lampen verwenden mittleres bis langwelliges Infrarotlicht und führen zu einer Erwärmung der angestrahlten Fläche. Sehr hilfreich kann die Wärmestrahlung z.B. bei Erkrankungen im Hals-, Nasen- und Ohrenbereich sein oder bei Muskelverspannungen. <\/p><p>In der modernen Rotlichttherapie wird Rot- und kurzwelliges Nahinfrarotlicht eingesetzt. Die Lichtwellen der moderne Rotlichttherapie erzeugen kaum Wärme, sondern hier wirkt das Licht selbst positiv auf die Zellfunktion ein.<\/p>"
           }
         },
         "2292b161-e612-4630-9510-c105c47bedde": {
@@ -60,7 +60,7 @@
           "type": "accordion",
           "settings": {
             "title": "Wie kann es sein, dass die Rotlichttherapie angeblich „alles heilen“ kann, ist es „too good to be true“?",
-            "content": "<p>Die Rot- und Nahinfrarotlichttherapie ist tatsächlich eine der interessantesten Entdeckungen im Gesundheitsbereich der letzten Jahrzehnte. In tausenden von Studien haben Wissenschaftler die Wirksamkeit der Rotlichttherapie zur Behandlung verschiedenster Körperteile ohne Nebenwirkungen nachgewiesen. Da die Einwirkung zellularem Level stattfindet, ist eine Wirkung tatsächlich für die vielfältigsten Bereiche des Körpers zu beobachten.<\/p><p>„NIR light therapy is an effective method for treatment of various tissues such as eyes and brains without side effects. (…) This therapy has potential to be a “miracle medicine” to cure many diseases in near future.” <\/p>"
+            "content": "<p>Die Rot- und Nahinfrarotlichttherapie ist tatsächlich eine der interessantesten Entdeckungen im Gesundheitsbereich der letzten Jahrzehnte. In tausenden von Studien haben Wissenschaftler die Wirksamkeit der Rotlichttherapie zur Behandlung verschiedenster Körperteile ohne Nebenwirkungen nachgewiesen. Da die Einwirkung zellularem Level stattfindet, ist eine Wirkung tatsächlich für die vielfältigsten Bereiche des Körpers zu beobachten.<\/p><p>„NIR light therapy is an effective method for treatment of various tissues such as eyes and brains without side effects. […] This therapy has potential to be a “miracle medicine” to cure many diseases in near future.” <em>(Zhu Q., Xiao S., Hua Z., Yang D., Hu M., Zhu Y.-T., Zhong H. Near infrared (NIR) light therapy of eye diseases: A review. Int J Med Sci. 2021; 8(1): 109–119.doi: 10.7150\/ijms.52980.)<\/em><\/p><p><\/p>"
           }
         },
         "2103ace5-9f3f-4694-a6d8-d016c398f39c": {
@@ -88,7 +88,7 @@
           "type": "accordion",
           "settings": {
             "title": "Ist das Licht gefährlich für meine Augen?",
-            "content": "<p>Im Allgemeinen deuten die Forschungsergebnisse darauf hin, dass eine moderate Bestrahlung mit rotem und nahinfrarotem Licht positive Auswirkung auf die Augengesundheit hat. Es gibt Hinweise, dass man die Dosis für die Augen niedriger als für den Rest des Körpers halten sollte. Unsere unsere Leuchten sind sehr hell und manche Menschen empfinden das helle Licht als anstrengend für die Augen. Wir empfehlen daher einige Vorsichtsmaßnahmen zu ergreifen: Schließe deine Augen während der Bestrahlung oder decke deine Augen ab, eine Schutzbrille wird mitgeliefert. Wenn du bestimmte Augenprobleme hast, konsultieren deinen Arzt.  <\/p>"
+            "content": "<p>Im Allgemeinen deuten die Forschungsergebnisse darauf hin, dass eine moderate Bestrahlung mit rotem und nahinfrarotem Licht positive Auswirkung auf die Augengesundheit hat. Es gibt Hinweise, dass man die Dosis für die Augen niedriger als für den Rest des Körpers halten sollte. Unsere Leuchten sind sehr hell und manche Menschen empfinden das helle Licht als anstrengend für die Augen. Wir empfehlen daher einige Vorsichtsmaßnahmen zu ergreifen: Schließe deine Augen während der Bestrahlung oder decke deine Augen ab, eine Schutzbrille wird mitgeliefert. Wenn du bestimmte Augenprobleme hast, konsultieren deinen Arzt.  <\/p>"
           }
         },
         "9f3940e8-b459-46e3-9e8d-c48188c5e485": {
@@ -109,7 +109,7 @@
           "type": "accordion",
           "settings": {
             "title": "Was heißt NIR?",
-            "content": "<p>NIR steht für Nahinfrarot. NIR ist Teil des Sonnenlichts mit Wellenlängen von 780 bis 3000nm. Es ist für den Menschen nicht sichtbar. In der NIR-Lichttherapie werden in der Regel Wellen des Spektrums zwischen 780 und 1070nm eingesetzt. Bei Nuuva verwenden wir NIR-Strahlungen zwischen 810nm bis 850nm und Rotlicht von 630nm + 660nm (sichtbar).<\/p>"
+            "content": "<p>NIR steht für Nahinfrarot. NIR ist Teil des Sonnenlichts mit Wellenlängen von 780 bis 1400nm. Es ist für den Menschen nicht sichtbar. In der NIR-Lichttherapie werden in der Regel Wellen des Spektrums zwischen 780 und 1070nm eingesetzt. Bei Nuuva verwenden wir NIR-Strahlungen zwischen 810nm bis 850nm und Rotlicht von 630nm + 660nm (sichtbar). Siehe auch:  <a href=\"\/blogs\/lichttherapie-blog\/was-ist-rot-und-nahinfrarot-licht\" title=\"Was ist Rot- und Nahinfrarot-Licht\">Was ist Rot- und Nahinfrarot-Licht.<\/a><\/p>"
           }
         },
         "7ff6d1f8-bd91-464a-9744-519c889b4eb1": {
