@@ -408,7 +408,7 @@ h5,
 
 h1,
 .h1 {
-    font-size: calc(var(--font-heading-scale) * 3rem);
+    font-size: calc(var(--font-heading-scale) * 2rem);
     color:#5c4f44;
 }
 
