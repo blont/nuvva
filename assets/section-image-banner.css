@@ -61,6 +61,7 @@
 @media screen and (min-width: 750px) {
   .banner {
     flex-direction: row;
+  overflow: hidden;
   }
 
   .banner--small:not(.banner--adapt) {
