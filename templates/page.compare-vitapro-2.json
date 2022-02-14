@@ -1,0 +1,59 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16370698900a5040fa": {
+      "type": "page-header",
+      "blocks": {
+        "1637069890a5fa0c80-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nuuva PRO+ Serie - unsere Produkte im Vergleich",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "1637069890a5fa0c80-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "163656817394beba22": {
+      "type": "collection-table",
+      "blocks": {
+        "5191db28-355f-4851-80de-5f3c57a05b0b": {
+          "type": "collection",
+          "settings": {
+            "collection": "proplus"
+          }
+        }
+      },
+      "block_order": [
+        "5191db28-355f-4851-80de-5f3c57a05b0b"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16370698900a5040fa",
+    "163656817394beba22"
+  ]
+}
