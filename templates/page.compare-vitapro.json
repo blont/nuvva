@@ -12,7 +12,7 @@
         "1637069890a5fa0c80-0": {
           "type": "heading",
           "settings": {
-            "heading": "Nuuva PRO-Serie - unsere Produkte im Vergleich",
+            "heading": "Nuuva PRO+ Serie - unsere Produkte im Vergleich",
             "heading_size": "medium"
           }
         }
@@ -38,7 +38,7 @@
         "5191db28-355f-4851-80de-5f3c57a05b0b": {
           "type": "collection",
           "settings": {
-            "collection": "pro"
+            "collection": "proplus"
           }
         }
       },
