@@ -2008,7 +2008,7 @@ input[type='checkbox'] {
 
 @media screen and (min-width: 1350px) {
     .header--middle-left {
-        grid-template-areas: 'navigation heading icons';
+        grid-template-areas: 'heading navigation icons';
       
     }
 
