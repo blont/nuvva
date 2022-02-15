@@ -25,12 +25,12 @@
     "164328154679720f26": {
       "type": "cta",
       "settings": {
-        "zwischenheader": "Nuuva Artikel kennen lernen",
-        "title": "Vergleiche die Serien",
+        "zwischenheader": "Produktinformation",
+        "title": "Unsere PRO Kollektion",
         "infotext": "",
         "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/pages\/shop-uebersicht",
-        "linktext": "Mehr erfahren"
+        "link": "shopify:\/\/pages\/pro-ubersichtstabelle",
+        "linktext": "Zur Übersicht"
       }
     },
     "163593723729661e2c": {
