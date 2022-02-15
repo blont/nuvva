@@ -63,10 +63,10 @@
       "type": "cta",
       "settings": {
         "zwischenheader": "Nuuva Vielfalt entdecken",
-        "title": "PRO vergleichen",
-        "infotext": "Finde deine passendes Nuuva-Leuchte.",
+        "title": "Unsere PRO Kollektion",
+        "infotext": "Vergleiche unserer PRO-Leuchten",
         "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/collections\/pro",
+        "link": "shopify:\/\/pages\/pro-ubersichtstabelle",
         "linktext": "Zur Übersicht"
       }
     },
