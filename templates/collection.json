@@ -56,7 +56,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
         "anchor": "",
-        "height": "adapt",
+        "height": "contain",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -84,7 +84,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
         "anchor": "",
-        "height": "adapt",
+        "height": "contain",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
@@ -112,7 +112,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/vent-erklaert.jpg",
         "anchor": "",
-        "height": "adapt",
+        "height": "contain",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
