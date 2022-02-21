@@ -133,7 +133,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
         "anchor": "",
-        "height": "adapt",
+        "height": "contain",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
