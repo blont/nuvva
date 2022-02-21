@@ -161,7 +161,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/vent-erklaert.jpg",
         "anchor": "",
-        "height": "adapt",
+        "height": "contain",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
