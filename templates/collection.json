@@ -26,10 +26,10 @@
       "type": "cta",
       "settings": {
         "zwischenheader": "Produktinformation",
-        "title": "Unsere PRO Kollektion",
+        "title": "Unsere PRO+ Kollektion",
         "infotext": "",
         "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/pages\/pro-ubersichtstabelle",
+        "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
         "linktext": "Zur Übersicht"
       }
     },
