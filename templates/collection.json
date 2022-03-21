@@ -26,10 +26,10 @@
       "type": "cta",
       "settings": {
         "zwischenheader": "Produktinformation",
-        "title": "Unsere PRO+ Kollektion",
+        "title": "Unsere Nuuva Kollektion",
         "infotext": "",
         "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
+        "link": "shopify:\/\/collections\/frontpage",
         "linktext": "Zur Übersicht"
       }
     },
@@ -116,6 +116,42 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "16478729628bf5a20e": {
+      "type": "collection-grid",
+      "blocks": {
+        "22b86a11-7833-4df2-bb81-bba19dd38cd5": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "22b86a11-7833-4df2-bb81-bba19dd38cd5"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
+    },
+    "16478730830b0a8b6f": {
+      "type": "collection-vergleichtable",
+      "blocks": {
+        "164787308339f1e603-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "164787308339f1e603-0"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
     }
   },
   "order": [
@@ -124,6 +160,8 @@
     "164328154679720f26",
     "163593723729661e2c",
     "16359412341220a733",
-    "163593724891150a59"
+    "163593724891150a59",
+    "16478729628bf5a20e",
+    "16478730830b0a8b6f"
   ]
 }
