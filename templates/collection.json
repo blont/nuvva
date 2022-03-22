@@ -36,18 +36,18 @@
         "164787308339f1e603-0"
       ],
       "settings": {
-        "header": "",
-        "linktext": ""
+        "header": "Nuuva Leuchten - Was sind die Unterschiede?",
+        "linktext": "Welche Rotlichttherapie Leuchte für dich?"
       }
     },
     "164328154679720f26": {
       "type": "cta",
       "settings": {
-        "zwischenheader": "Produktinformation",
-        "title": "Unsere Pro+ Kollektion",
+        "zwischenheader": "Rotlicht Therapie",
+        "title": "Unsere Nuuva Kollektion",
         "infotext": "",
         "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/collections\/proplus",
+        "link": "shopify:\/\/collections",
         "linktext": "Zur Übersicht"
       }
     },
