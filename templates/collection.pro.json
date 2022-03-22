@@ -22,11 +22,44 @@
         "collapse_on_larger_devices": false
       }
     },
+    "1647875137daadaf60": {
+      "type": "multicolumn",
+      "blocks": {
+        "164787513776b5b4fc-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Die NuuvaPRO Modelle sind eine der fortschrittlichsten LED-Lichttherapie Leuchten für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO Leuchten kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet. <\/p>"
+          }
+        },
+        "164787513776b5b4fc-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>-<strong>NuuvaPRO <\/strong>besitzt unser Spektrum R|NIR+, dass eine sehr wirkungsvolle Mischung aus rotem Licht mit 660nm und nahinfrarotem Licht mit 850nm Wellenlänge nutzt.<\/p><p><\/p><p>Diese Wellenlängen sind in zahlreichen wissenschaftlichen Studien als sehr wirkungsvoll für eine Vielzahl von Konditionen ermitelt worden.<\/p><p><\/p><p>Siehe auch den folgenden Artikel <a href=\"\/blogs\/lichttherapie-blog\/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164787513776b5b4fc-0",
+        "164787513776b5b4fc-1"
+      ],
+      "settings": {
+        "title": "Nuuva PRO Modelle",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1647327909629c9879": {
       "type": "cta",
       "settings": {
-        "zwischenheader": "Nuuva Leuchten vergleichen",
-        "title": "Pro Serie Übersicht",
+        "zwischenheader": "Produktinformation",
+        "title": "PRO Modelle vergleichen",
         "infotext": "",
         "image_bg": "shopify:\/\/shop_images\/interior-has-armchair-empty-white-wall.jpg",
         "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
@@ -116,48 +149,15 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
-    },
-    "1647875137daadaf60": {
-      "type": "multicolumn",
-      "blocks": {
-        "164787513776b5b4fc-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Die NuuvaPRO und NuuvaPRO+ Serien sind eine der fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO und NuuvaPRO+ Serien kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet. <br\/><br\/><\/p>"
-          }
-        },
-        "164787513776b5b4fc-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>-<strong>NuuvaPRO<\/strong>besitzt unser Spektrum R+ | NIR+, dass eine sehr wirkungsvolle Mischung aus tiefrotem Licht mit 660nm und 850nm Wellenlänge nutzt.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "164787513776b5b4fc-0",
-        "164787513776b5b4fc-1"
-      ],
-      "settings": {
-        "title": "Nuuva PRO Modelle",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
     "banner",
     "product-grid",
+    "1647875137daadaf60",
     "1647327909629c9879",
     "163593723729661e2c",
     "16359412341220a733",
-    "163593724891150a59",
-    "1647875137daadaf60"
+    "163593724891150a59"
   ]
 }
