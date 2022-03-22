@@ -61,9 +61,8 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
-        "heading": "You may also like",
+        "heading": "Dir gefällt vielleicht auch",
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
@@ -71,21 +70,10 @@
         "show_vendor": false,
         "show_rating": false
       }
-    },
-    "1637313390dcbb76a0": {
-      "type": "cta",
-      "settings": {
-        "zwischenheader": "",
-        "title": "Hero Header",
-        "infotext": "",
-        "link": "",
-        "linktext": "Click Here"
-      }
     }
   },
   "order": [
     "main",
-    "product-recommendations",
-    "1637313390dcbb76a0"
+    "product-recommendations"
   ]
 }
