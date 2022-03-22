@@ -25,7 +25,7 @@
     "16478730830b0a8b6f": {
       "type": "collection-vergleichtable",
       "blocks": {
-        "164787308339f1e603-0": {
+        "4db819b2-079f-4c1a-9bee-f2f0440b24b1": {
           "type": "collection",
           "settings": {
             "collection": ""
@@ -33,11 +33,11 @@
         }
       },
       "block_order": [
-        "164787308339f1e603-0"
+        "4db819b2-079f-4c1a-9bee-f2f0440b24b1"
       ],
       "settings": {
-        "header": "Nuuva Leuchten - Was sind die Unterschiede?",
-        "linktext": "Welche Rotlichttherapie Leuchte für dich?"
+        "header": "Welche Rotlichttherapie Leuchte für dich",
+        "linktext": ""
       }
     },
     "164328154679720f26": {
