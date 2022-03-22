@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": false,
+        "enable_sorting": false,
+        "collapse_on_larger_devices": true
+      }
+    },
+    "16402499899b9c8652": {
+      "type": "multicolumn",
+      "blocks": {
+        "16402499893a509840-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Die Ständer erleichtern das Manövrieren der Nuuva Rotlichttherapie Leuchten und können zu den Leuchten dazu bestellt werden.<\/p><p>Dank des Nuuva Baukastensystems können die Nuuva Leuchten mit weiteren Geräten ihrer Modellreihe kombiniert werden. Je nach Anzahl der zu verbindenden Leuchten kannst du den Rollfuß (1-2 Leuchten) oder Stand mit Rollen (1-4 Leuchten) auswählen.<\/p>"
+          }
+        },
+        "16402499893a509840-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Für die Optimierung und Vergrößerung  deines Lichttherapie Set-Ups.<\/p><p><\/p><p>Bei <strong>NuuvaBIO<\/strong> werden die Leuchten separat angeschlossen und geschaltet. <\/p><p><\/p><p>Bei <strong>NuuvaPRO<\/strong> und <strong>PRO+<\/strong> werden die Leuchten so miteinander verbunden, dass du sämtliche Geräte von einer Leuchte betreiben und steuern kannst.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16402499893a509840-0",
+        "16402499893a509840-1"
+      ],
+      "settings": {
+        "title": "Nuuva Ständer",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1640248843d35e27a9": {
+      "type": "cta",
+      "settings": {
+        "zwischenheader": "Produktinformationen",
+        "title": "Alle Nuuva Leuchten",
+        "infotext": "",
+        "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
+        "link": "shopify:\/\/pages\/serien-im-vergleich",
+        "linktext": "Modelle vergleichen"
+      }
+    },
+    "163593723729661e2c": {
+      "type": "image-with-text",
+      "blocks": {
+        "163593723729661e2c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Double Chip LED"
+          }
+        },
+        "163593723729661e2c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alle Nuuva Leuchten nutzen doppelte LED Chips. Doppelchip LEDs verbrauchen weniger Strom, haben eine verbesserte<br\/>Strahlungsleistung [in W] und höhere Bestrahlungsstärke [in W\/cm²]. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163593723729661e2c-0",
+        "163593723729661e2c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
+        "anchor": "",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16359412341220a733": {
+      "type": "image-with-text",
+      "blocks": {
+        "16359412341220a733-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3 Modelle in einem"
+          }
+        },
+        "16359412341220a733-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Alle Nuuva Leuchten sind mit Rotlicht, Nahinfrarot (NIR)-Licht und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten lassen sich per Schalter (BIO) oder Bedienfeld (PRO\/PRO+) auswählen und bieten dir die passende Behandlung für deine Zwecke.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16359412341220a733-0",
+        "16359412341220a733-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "anchor": "",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163593724891150a59": {
+      "type": "image-with-text",
+      "blocks": {
+        "163593724891150a59-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Optimale Kühlung"
+          }
+        },
+        "163593724891150a59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jedes Gerät kommt mit einem perfekt angepasstem Kühlsystem. Ohne ein angepasstes Temperaturmanagement können die LEDs zu heiß werden und durchbrennen. Die Kühlung und der Luftstrom sind entscheidend, damit deine Leuchte bei optimaler  Betriebstemperatur läuft. Für eine lange Lebenszeit und dass du dich lange an deiner Nuuva Rotlicht-Leuchte erfreuen kannst.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163593724891150a59-0",
+        "163593724891150a59-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/vent-erklaert.jpg",
+        "anchor": "",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "16402499899b9c8652",
+    "1640248843d35e27a9",
+    "163593723729661e2c",
+    "16359412341220a733",
+    "163593724891150a59"
+  ]
+}
