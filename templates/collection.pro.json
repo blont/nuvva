@@ -26,10 +26,10 @@
       "type": "cta",
       "settings": {
         "zwischenheader": "Nuuva Leuchten vergleichen",
-        "title": "Pro Serie Übersicht",
+        "title": "Pro+ Serie Übersicht",
         "infotext": "",
         "image_bg": "shopify:\/\/shop_images\/interior-has-armchair-empty-white-wall.jpg",
-        "link": "shopify:\/\/pages\/pro-ubersichtstabelle",
+        "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
         "linktext": "Weiter"
       }
     },
