@@ -160,17 +160,6 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
-    },
-    "16479845818c91c6ea": {
-      "type": "cta",
-      "settings": {
-        "zwischenheader": "",
-        "title": "Nuuva Lichttherapie",
-        "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/header1.jpg",
-        "link": "shopify:\/\/collections\/all",
-        "linktext": "Hier geht's weiter"
-      }
     }
   },
   "order": [
@@ -179,7 +168,6 @@
     "16436213840530cb19",
     "1637673092c78fbfdc",
     "1637751976a914fb95",
-    "1637851471d25d908a",
-    "16479845818c91c6ea"
+    "1637851471d25d908a"
   ]
 }
