@@ -66,88 +66,40 @@
         "linktext": "Modelle vergleichen"
       }
     },
-    "163593723729661e2c": {
-      "type": "image-with-text",
+    "1647967166a764255b": {
+      "type": "collection-list",
       "blocks": {
-        "163593723729661e2c-0": {
-          "type": "heading",
+        "16479671667ea4cbe1-0": {
+          "type": "featured_collection",
           "settings": {
-            "heading": "Double Chip LED"
+            "collection": "bio"
           }
         },
-        "163593723729661e2c-1": {
-          "type": "text",
+        "16479671667ea4cbe1-1": {
+          "type": "featured_collection",
           "settings": {
-            "text": "<p>Alle Nuuva Leuchten nutzen doppelte LED Chips. Doppelchip LEDs verbrauchen weniger Strom, haben eine verbesserte<br\/>Strahlungsleistung [in W] und höhere Bestrahlungsstärke [in W\/cm²]. <\/p>"
+            "collection": "pro"
+          }
+        },
+        "16479671667ea4cbe1-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "proplus"
           }
         }
       },
       "block_order": [
-        "163593723729661e2c-0",
-        "163593723729661e2c-1"
+        "16479671667ea4cbe1-0",
+        "16479671667ea4cbe1-1",
+        "16479671667ea4cbe1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
-        "anchor": "",
-        "height": "adapt",
+        "title": "Unsere Modelle",
+        "image_ratio": "square",
         "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "16359412341220a733": {
-      "type": "image-with-text",
-      "blocks": {
-        "16359412341220a733-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "3 Modelle in einem"
-          }
-        },
-        "16359412341220a733-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Alle Nuuva Leuchten sind mit Rotlicht, Nahinfrarot (NIR)-Licht und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten lassen sich per Schalter (BIO) oder Bedienfeld (PRO\/PRO+) auswählen und bieten dir die passende Behandlung für deine Zwecke.<\/p><p><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16359412341220a733-0",
-        "16359412341220a733-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
-        "anchor": "",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
-    "163593724891150a59": {
-      "type": "image-with-text",
-      "blocks": {
-        "163593724891150a59-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Optimale Kühlung"
-          }
-        },
-        "163593724891150a59-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Jedes Gerät kommt mit einem perfekt angepasstem Kühlsystem. Ohne ein angepasstes Temperaturmanagement können die LEDs zu heiß werden und durchbrennen. Die Kühlung und der Luftstrom sind entscheidend, damit deine Leuchte bei optimaler  Betriebstemperatur läuft. Für eine lange Lebenszeit und dass du dich lange an deiner Nuuva Rotlicht-Leuchte erfreuen kannst.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "163593724891150a59-0",
-        "163593724891150a59-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/vent-erklaert.jpg",
-        "anchor": "",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
       }
     }
   },
@@ -156,8 +108,6 @@
     "product-grid",
     "16402499899b9c8652",
     "1640248843d35e27a9",
-    "163593723729661e2c",
-    "16359412341220a733",
-    "163593724891150a59"
+    "1647967166a764255b"
   ]
 }
