@@ -49,11 +49,44 @@
         "header": "",
         "linktext": ""
       }
+    },
+    "16479844181a692400": {
+      "type": "collection-grid",
+      "blocks": {
+        "c8635abc-82cf-45f7-b8de-097f623a92b1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bio"
+          }
+        },
+        "fab5bdb8-a2d6-49e7-beff-d651930e04cb": {
+          "type": "collection",
+          "settings": {
+            "collection": "pro"
+          }
+        },
+        "7e3db2d0-cdaa-43f8-b559-d886aa6af367": {
+          "type": "collection",
+          "settings": {
+            "collection": "proplus"
+          }
+        }
+      },
+      "block_order": [
+        "c8635abc-82cf-45f7-b8de-097f623a92b1",
+        "fab5bdb8-a2d6-49e7-beff-d651930e04cb",
+        "7e3db2d0-cdaa-43f8-b559-d886aa6af367"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
     }
   },
   "order": [
     "1643296015c996e4db",
     "main",
-    "1637750986afb93dda"
+    "1637750986afb93dda",
+    "16479844181a692400"
   ]
 }
