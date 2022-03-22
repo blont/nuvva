@@ -28,21 +28,29 @@
         "164787513776b5b4fc-0": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "NuuvaPRO",
             "text": "<p>Die NuuvaPRO Modelle sind eine der fortschrittlichsten LED-Lichttherapie Leuchten für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO Leuchten kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet. <\/p>"
           }
         },
         "164787513776b5b4fc-1": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "2 Wellenlängen",
             "text": "<p>-<strong>NuuvaPRO <\/strong>besitzt unser Spektrum R|NIR+, dass eine sehr wirkungsvolle Mischung aus rotem Licht mit 660nm und nahinfrarotem Licht mit 850nm Wellenlänge nutzt.<\/p><p><\/p><p>Diese Wellenlängen sind in zahlreichen wissenschaftlichen Studien als sehr wirkungsvoll für eine Vielzahl von Konditionen ermitelt worden.<\/p><p><\/p><p>Siehe auch den folgenden Artikel <a href=\"\/blogs\/lichttherapie-blog\/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden<\/a><\/p>"
+          }
+        },
+        "7dde97ac-44ac-490f-b7b1-2d01cad31cd6": {
+          "type": "column",
+          "settings": {
+            "title": "Daisy Chain",
+            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br\/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- \/Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.<\/p>"
           }
         }
       },
       "block_order": [
         "164787513776b5b4fc-0",
-        "164787513776b5b4fc-1"
+        "164787513776b5b4fc-1",
+        "7dde97ac-44ac-490f-b7b1-2d01cad31cd6"
       ],
       "settings": {
         "title": "Nuuva PRO Modelle",
