@@ -22,56 +22,22 @@
         "collapse_on_larger_devices": true
       }
     },
-    "16479711345916696f": {
-      "type": "multicolumn",
+    "1648037130fcbff9b1": {
+      "type": "collection-vergleichtable",
       "blocks": {
-        "1647971134364755c9-0": {
-          "type": "column",
+        "16480371300a2c9d86-0": {
+          "type": "collection",
           "settings": {
-            "title": "NuuvaPRO+",
-            "text": "<p>Die  NuuvaPRO+ Serien sind die fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die allerneuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO+ Modelle kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet.<br\/><\/p>"
-          }
-        },
-        "1647971134364755c9-1": {
-          "type": "column",
-          "settings": {
-            "title": "5 Wellenlängen",
-            "text": "<p>Diese Modelle kombinieren 5 leistungsstarke Lichtwellenlängen und verfügen über unser bestes Spektrum Multi+. Nuuva Multi+ hat eine perfekte Zusammenstellung der 5 bioaktivsten Wellenlängen im Rot und Nahinfrarot Bereich mit 630, 660nm (Rot) und 830, 850, 860nm (NIR).<\/p><p>Siehe auch den folgenden Artikel <a href=\"https:\/\/nuuva-de.myshopify.com\/blogs\/lichttherapie-blog\/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden<\/a><\/p>"
-          }
-        },
-        "2c9eb747-ea7b-40f8-9e29-d2b797c29407": {
-          "type": "column",
-          "settings": {
-            "title": "Daisy Chain",
-            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br\/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- \/Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.<\/p>"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "1647971134364755c9-0",
-        "1647971134364755c9-1",
-        "2c9eb747-ea7b-40f8-9e29-d2b797c29407"
+        "16480371300a2c9d86-0"
       ],
       "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
-    "164328154679720f26": {
-      "type": "cta",
-      "settings": {
-        "zwischenheader": "Rotlicht Therapie",
-        "title": "PRO+ Modelle vergleichen",
-        "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
-        "linktext": "Zur Übersicht"
+        "header": "Vergleich der Serien - was ist der Unterschied",
+        "linktext": ""
       }
     },
     "163593723729661e2c": {
@@ -157,15 +123,26 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "164328154679720f26": {
+      "type": "cta",
+      "settings": {
+        "zwischenheader": "Rotlicht Therapie",
+        "title": "Hast du noch Fragen?",
+        "infotext": "",
+        "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
+        "link": "shopify:\/\/pages\/faq-rotlichtleuchten",
+        "linktext": "Unsere Antworten"
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "16479711345916696f",
-    "164328154679720f26",
+    "1648037130fcbff9b1",
     "163593723729661e2c",
     "16359412341220a733",
-    "163593724891150a59"
+    "163593724891150a59",
+    "164328154679720f26"
   ]
 }
