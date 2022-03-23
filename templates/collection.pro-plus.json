@@ -123,24 +123,32 @@
         "164787513776b5b4fc-0": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>Die NuuvaPRO und NuuvaPRO+ Serien sind eine der fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO und NuuvaPRO+ Serien kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet. <br\/><br\/><\/p>"
+            "title": "NuuvaPRO+",
+            "text": "<p>Die NuuvaPRO+ Serien sind die fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die allerneuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO+ Modelle kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet.<\/p>"
           }
         },
         "164787513776b5b4fc-1": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "<p>-<strong>NuuvaPRO<\/strong>besitzt unser Spektrum R+ | NIR+, dass eine sehr wirkungsvolle Mischung aus tiefrotem Licht mit 660nm und 850nm Wellenlänge nutzt.<\/p>"
+            "title": "5 Wellenlängen",
+            "text": "<p>Diese Modelle kombinieren 5 leistungsstarke Lichtwellenlängen und verfügen über unser bestes Spektrum Multi+. Nuuva Multi+ hat eine perfekte Zusammenstellung der 5 bioaktivsten Wellenlängen im Rot und Nahinfrarot Bereich mit 630, 660nm (Rot) und 830, 850, 860nm (NIR).<\/p><p>Siehe auch den folgenden Artikel <a href=\"https:\/\/nuuva-de.myshopify.com\/blogs\/lichttherapie-blog\/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden<\/a><\/p>"
+          }
+        },
+        "f9dcebb7-bf32-4105-a40f-7e1a3bd7ae16": {
+          "type": "column",
+          "settings": {
+            "title": "Daisy Chain",
+            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br\/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- \/Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.<\/p>"
           }
         }
       },
       "block_order": [
         "164787513776b5b4fc-0",
-        "164787513776b5b4fc-1"
+        "164787513776b5b4fc-1",
+        "f9dcebb7-bf32-4105-a40f-7e1a3bd7ae16"
       ],
       "settings": {
-        "title": "Nuuva PRO Modelle",
+        "title": "Nuuva PRO+ Modelle",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
