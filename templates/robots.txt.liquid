@@ -13,6 +13,9 @@
     {{ group.sitemap }}
   {%- endif -%}
 {% endfor %}
-Allow: /collections/
-Allow: /pages/
-Allow:/blogs/lichttherapie-blog/
+User-agent: Googlebot
+Disallow: /nogooglebot/
+User-agent: *
+Allow: /
+
+Sitemap: https://www.nuuva.de/sitemap.xml
