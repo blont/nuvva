@@ -42,6 +42,13 @@
             "content": "<p>Nein, hierbei handelt es sich um Wärmelampen. Diese Lampen verwenden mittleres bis langwelliges Infrarotlicht und führen zu einer Erwärmung der angestrahlten Fläche. Sehr hilfreich kann die Wärmestrahlung z.B. bei Erkrankungen im Hals-, Nasen- und Ohrenbereich sein oder bei Muskelverspannungen. <\/p><p>In der modernen Rotlichttherapie wird Rot- und kurzwelliges Nahinfrarotlicht eingesetzt. Die Lichtwellen der moderne Rotlichttherapie erzeugen kaum Wärme, sondern hier wirkt das Licht selbst positiv auf die Zellfunktion ein.<\/p>"
           }
         },
+        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58": {
+          "type": "accordion",
+          "settings": {
+            "title": "Wobei hilft die Lichttherapie?",
+            "content": "<p>Hautalterung: Falten + Altersflecken vermindern<\/p><p>Kollagenproduktion anregen<\/p><p>Hauterkrankungen reduzieren<\/p><p>Oxidative Schäden der Haut bekämpfen <\/p><p>Wund- und Verletzungsheilung beschleunigen<\/p><p>Haarwachstum bei anlagebedingtem Haarausfall<br\/>(Androgenetische Alopezie) anregen<\/p><p>Sehfunktion verbessern <\/p><p>Kraft, Ausdauer und Muskelmasse steigern; Muskelerholung<br\/>beschleunigen <\/p><p>Fettverbrennung ankurbeln, als unterstützende Maßnahme bei<br\/>Gewichtsabnahme<\/p><p>Kampf gegen Cellulitis unterstützen, unterstützende<br\/>Maßnahme mit Sport, Massage<\/p><p>Schmerzen wie Rücken-, Gelenkschmerzen lindern <\/p><p>Immunsystem unterstützen <\/p><p>Müdigkeit überwinden, das Energieniveau erhöhen und den<br\/>Schlaf verbessern <\/p><p>Chronische Entzündungen reduzieren <\/p><p>Schilddrüsenfunktion verbessern <\/p><p>Neuroprotektion des Gehirns erhöhen und helfen, den<br\/>kognitiven Verfall zu verhindern. Es hat Potenzial zum Stopp der<br\/>Neurodegeneration bei Alzheimer Krankheit <\/p><p>Das Gehirn optimieren, die Neurogenese fördern, Synapsen<br\/>stärken und das Wachstum der Gehirnzellen anregen, die kognitiven Funktionen<br\/>verbessern <\/p><p>Stimmung, Depressionen und Angstzustände verbessern <\/p><p>Fruchtbarkeit steigern <\/p><p>Stammzellen regenerieren <\/p>"
+          }
+        },
         "2292b161-e612-4630-9510-c105c47bedde": {
           "type": "accordion",
           "settings": {
@@ -139,17 +146,11 @@
             "title": "Nebenwirkungen und vorsorgliche Warnungen",
             "content": "<p>Nebenwirkungen der Rotlichttherapie können gerade zu Beginn Kopfschmerzen und Erschöpfung sein, denn der Körper braucht viel Energie für die Heilungs- und Aufbauprozesse, die die Rotlichttherapie in Gang setzt. Daher ist es wichtig die Therapie langsam zu beginnen. Auch bei empfindlicher Haut empfiehlt es sich die Lichttherapie zunächst mit geringer Bestrahlungsintensität und kurzer -dauer zu beginnen und die Haut an die Lichtbehandlung zu gewöhnen. Es kann ansonsten zu trockenen Stellen kommen, die jedoch schnell verschwinden, wenn Intensität und Zeit reduziert werden. <br\/>Rotlicht beeinflusst den zirkadianen Rhythmus nicht annähernd so stark wie z.B. blaues oder grünes Licht. Es kann aber aufgrund der Intensität des Lichts die Melatonin-Ausschüttung unterdrücken und den Schlaf stören, wenn es zu kurz vor dem Schlafengehen verwendet wird. Die Rotlichttherapie sollte daher besser nicht in der letzten Stunde vor der Schlafenszeit angewendet werden.<br\/>Ein Problem im Zusammenhang mit der Rotlichttherapie können hohe Werte elektromagnetischer Felder sein, daher ist es sehr wichtig ein Qualitätsprodukt wie Nuuva mit geringen EMF-Werten zu verwenden.<br\/>Bitte auf jeden Fall den Anweisungen im Bedienungshandbuch folgen.<br\/><\/p>"
           }
-        },
-        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58": {
-          "type": "accordion",
-          "settings": {
-            "title": "Ich bin schwanger, kann ich die Nuuva Leuchte verwenden?",
-            "content": "<p>Da es keine klinischen Studien zu Rotlichttherapie-Behandlungen bei schwangeren oder stillenden Frauen gibt, verwende das Gerät nicht, wenn du schwanger bist oder stillst, bevor du nicht mit deinem Arzt gesprochen hast.<\/p>"
-          }
         }
       },
       "block_order": [
         "0cb60ce1-de03-4bcb-89fb-2b703ec4177f",
+        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58",
         "2292b161-e612-4630-9510-c105c47bedde",
         "987c52c9-359e-4d51-8044-aee467512e16",
         "b94de707-e0a9-47c6-b9bf-4e324f5f1391",
@@ -163,8 +164,7 @@
         "7ff6d1f8-bd91-464a-9744-519c889b4eb1",
         "a9d99143-8396-4754-9b35-90b1f5e436bd",
         "39f3b165-d57c-428e-80a4-958b1da8ec72",
-        "4caff52d-efaf-435d-96da-4519e2cbe20a",
-        "d5ed95dd-4ae4-420e-8a06-0bf7ab6add58"
+        "4caff52d-efaf-435d-96da-4519e2cbe20a"
       ],
       "settings": {
         "title": "Wir geben Antwort"
