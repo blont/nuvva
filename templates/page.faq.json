@@ -186,11 +186,19 @@
             "title": "Welche Garantie bietet Ihr für die Rot- und NIR-Leuchten",
             "content": "<p>Die Qualität und Lebenszeit unsere Leuchten ist uns sehr wichtig. Wir bieten dir daher eine 5-jährige Garantie auf die NuuvaPRO und PRO+ Leuchten und eine 3-jährige Garantie auf unsere NuuvaBIO Modelle. Für weitere Informationen siehe unsere Allgemeinen Geschäftsbedingungen.<\/p>"
           }
+        },
+        "2a965d74-5ca9-4118-b1c3-4e6879cdd7fe": {
+          "type": "accordion",
+          "settings": {
+            "title": "Was sind die Rückgabebedingungen?",
+            "content": "<p>Wir sind so sicher, dass du deine Nuuva Leuchte lieben wirst,<br\/>dass wir dir innerhalb der ersten 60 Tage eine vollständige Rückerstattung<br\/>anbieten. Nuuva erheben keine Bearbeitungsgebühr, aber wir bitten dich den<br\/>Versand zu bezahlen. Bitte beachte die Details in unseren <span style=\"text-decoration:underline\">Versandbedingungen<\/span>.<\/p>"
+          }
         }
       },
       "block_order": [
         "4a2bc6b8-0401-4429-987b-f44561930cf3",
-        "a83e86e8-8550-4c20-a2c3-ea58fdf7a9ac"
+        "a83e86e8-8550-4c20-a2c3-ea58fdf7a9ac",
+        "2a965d74-5ca9-4118-b1c3-4e6879cdd7fe"
       ],
       "settings": {
         "title": ""
