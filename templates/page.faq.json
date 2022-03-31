@@ -169,11 +169,30 @@
       "settings": {
         "title": "Wir geben Antwort"
       }
+    },
+    "1648743026a1586a9d": {
+      "type": "accordion",
+      "blocks": {
+        "4a2bc6b8-0401-4429-987b-f44561930cf3": {
+          "type": "accordion",
+          "settings": {
+            "title": "Ich bin schwanger, kann ich die Nuuva Leuchte verwenden?",
+            "content": "<p>Da es keine klinischen Studien zu Rotlichttherapie-Behandlungen bei schwangeren oder stillenden Frauen gibt, verwende das Gerät nicht, wenn du schwanger bist oder stillst, bevor du nicht mit deinem Arzt gesprochen hast.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4a2bc6b8-0401-4429-987b-f44561930cf3"
+      ],
+      "settings": {
+        "title": ""
+      }
     }
   },
   "order": [
     "16370703689d91139e",
     "main",
-    "16363692995b23504a"
+    "16363692995b23504a",
+    "1648743026a1586a9d"
   ]
 }
