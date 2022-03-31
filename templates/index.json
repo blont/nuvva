@@ -49,6 +49,16 @@
     "164017126366b0f9cb": {
       "type": "introcolumns",
       "blocks": {
+        "1319fe5f-d913-4361-b1f2-84fbe69e3fa7": {
+          "type": "Info-block",
+          "settings": {
+            "header": "Hier hilft die Rotlichttherapie",
+            "textarea": "Haut, Anti-Aging, Wundheilung, Haarwachstum, Schlaf, Erholung der Muskeln, Entzündungen, Gelenkschmerzen, Mentale Fitness, Immunsystem",
+            "image": "shopify:\/\/shop_images\/nuuva-sonnenlicht-therapie.png",
+            "button_label": "WEITER",
+            "button_link": "https:\/\/www.nuuva.de\/blogs\/lichttherapie-blog\/was-ist-rotlichttherapie"
+          }
+        },
         "241bfb11-aef5-4a5c-9f82-9d3d0925c998": {
           "type": "Info-block",
           "settings": {
@@ -88,24 +98,14 @@
             "button_label": "",
             "button_link": ""
           }
-        },
-        "1319fe5f-d913-4361-b1f2-84fbe69e3fa7": {
-          "type": "Info-block",
-          "settings": {
-            "header": "Hier hilft die Rotlichttherapie",
-            "textarea": "Haut, Anti-Aging, Wundheilung, Haarwachstum, Schlaf, Erholung der Muskeln, Entzündungen, Gelenkschmerzen, Mentale Fitness, Immunsystem",
-            "image": "shopify:\/\/shop_images\/nuuva-sonnenlicht-therapie.png",
-            "button_label": "WEITER",
-            "button_link": "https:\/\/www.nuuva.de\/blogs\/lichttherapie-blog\/was-ist-rotlichttherapie"
-          }
         }
       },
       "block_order": [
+        "1319fe5f-d913-4361-b1f2-84fbe69e3fa7",
         "241bfb11-aef5-4a5c-9f82-9d3d0925c998",
         "cb78a031-0578-4d7f-b633-0e73d9637ce5",
         "68f5a530-891d-419d-82d3-346e96849f64",
-        "fdbf9063-d0da-4ba2-b877-603f3d8dfea9",
-        "1319fe5f-d913-4361-b1f2-84fbe69e3fa7"
+        "fdbf9063-d0da-4ba2-b877-603f3d8dfea9"
       ],
       "settings": {
       }
