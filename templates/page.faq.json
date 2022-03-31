@@ -179,10 +179,18 @@
             "title": "Ich bin schwanger, kann ich die Nuuva Leuchte verwenden?",
             "content": "<p>Da es keine klinischen Studien zu Rotlichttherapie-Behandlungen bei schwangeren oder stillenden Frauen gibt, verwende das Gerät nicht, wenn du schwanger bist oder stillst, bevor du nicht mit deinem Arzt gesprochen hast.<\/p>"
           }
+        },
+        "a83e86e8-8550-4c20-a2c3-ea58fdf7a9ac": {
+          "type": "accordion",
+          "settings": {
+            "title": "Welche Garantie bietet Ihr für die Rot- und NIR-Leuchten",
+            "content": "<p>Die Qualität und Lebenszeit unsere Leuchten ist uns sehr wichtig. Wir bieten dir daher eine 5-jährige Garantie auf die NuuvaPRO und PRO+ Leuchten und eine 3-jährige Garantie auf unsere NuuvaBIO Modelle. Für weitere Informationen siehe unsere Allgemeinen Geschäftsbedingungen.<\/p>"
+          }
         }
       },
       "block_order": [
-        "4a2bc6b8-0401-4429-987b-f44561930cf3"
+        "4a2bc6b8-0401-4429-987b-f44561930cf3",
+        "a83e86e8-8550-4c20-a2c3-ea58fdf7a9ac"
       ],
       "settings": {
         "title": ""
