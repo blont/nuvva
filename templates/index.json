@@ -46,6 +46,42 @@
         "show_text_below": true
       }
     },
+    "16488050127c6b75b8": {
+      "type": "rich-text",
+      "blocks": {
+        "1648805012b07d88b3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "1648805012b07d88b3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Anti-Aging · Haarwachstum · Schlaf · Muskeln · Entzündungen · Gelenkschmerzen · Immunsystem<\/p>"
+          }
+        },
+        "1648805012b07d88b3-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1648805012b07d88b3-0",
+        "1648805012b07d88b3-1",
+        "1648805012b07d88b3-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "164017126366b0f9cb": {
       "type": "introcolumns",
       "blocks": {
@@ -53,7 +89,7 @@
           "type": "Info-block",
           "settings": {
             "header": "Was ist die Rotlichttherapie?",
-            "textarea": "Rot- und Nah-Infrarotlicht wirkt positiv auf deine Zellen ein. Natürliche Heilungs- und Regenerationsprozesse in Haut und Körper werden angeregt.",
+            "textarea": "Rot- und Nah-Infrarotlicht wirkt positiv auf deine Zellen. Natürliche Heilungs- und Regenerationsprozesse in Haut und Körper werden angeregt.",
             "image": "shopify:\/\/shop_images\/mnuuva-rotlichtherpaie-gut-fuer-haut.png",
             "button_label": "Weiter",
             "button_link": "https:\/\/nuuva.de\/pages\/so-gehts\/#was-ist-rotlichtherapie"
@@ -293,6 +329,7 @@
   },
   "order": [
     "image_banner",
+    "16488050127c6b75b8",
     "164017126366b0f9cb",
     "1635351417eb23c5e9",
     "163645210085c341b2",
