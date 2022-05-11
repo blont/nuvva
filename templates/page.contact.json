@@ -36,11 +36,46 @@
       "settings": {
         "heading": ""
       }
+    },
+    "1652262760132247e4": {
+      "type": "text-2spalten",
+      "blocks": {
+        "165226276055af6856-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "165226276055af6856-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Detaillierte Informationen zum Umgang mit Nutzerdaten finden Sie in unserer <a href=\"https:\/\/www.nuuva.de\/pages\/datenschutz\" title=\"Datenschutzerklaerung\">Datenschutzerklärung<\/a>. <\/p>"
+          }
+        },
+        "165226276055af6856-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165226276055af6856-0",
+        "165226276055af6856-1",
+        "165226276055af6856-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "1637070615f7b5a621",
     "main",
-    "form"
+    "form",
+    "1652262760132247e4"
   ]
 }
