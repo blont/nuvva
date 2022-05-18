@@ -306,7 +306,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/badge_lieferung.png",
             "title": "Kostenlose Lieferung",
-            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern z.Zt. nicht an Adressen außerhalb Deutschlands. Siehe auch unsere <span style=\"text-decoration:underline\">Lieferbedingungen<\/span>.<\/p><p><br\/><br\/><br\/><br\/><br\/><br\/><\/p>"
+            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern z.Zt. nicht an Adressen außerhalb Deutschlands. Siehe auch unsere <a href=\"\/pages\/liefer-und-versandkosten\" title=\"Lieferbedingungen\"><span style=\"text-decoration:underline\">Lieferbedingungen<\/span>.<\/a><\/p><p><a href=\"\/pages\/liefer-und-versandkosten\" title=\"Lieferbedingungen\"><br\/><br\/><br\/><br\/><br\/><br\/><\/a><\/p>"
           }
         }
       },
