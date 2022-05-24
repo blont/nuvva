@@ -2835,5 +2835,5 @@ margin-top: 4rem;
 .slider-nav .slick-current div{ border:1px solid #a5a5a5;}
   
   #shopify-privacy-banner-div button.decline{margin-left:5px;margin-right:10px;}
-  #shopify-privacy-banner-body-div p>a{ word-break: break-all;}
+  #shopify-privacy-banner-body-div p>a{ word-break: break-word;}
   #shopify-privacy-banner-body-div p{max-width:97%;}
