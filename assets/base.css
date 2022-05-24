@@ -2836,3 +2836,4 @@ margin-top: 4rem;
   
   #shopify-privacy-banner-div button.decline{margin-left:5px;margin-right:10px;}
   #shopify-privacy-banner-body-div p>a{ word-break: break-all;}
+  #shopify-privacy-banner-body-div p{max-width:97%;}
