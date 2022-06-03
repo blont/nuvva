@@ -177,6 +177,47 @@
         "cta": "Entdecke unsere Nuuva Produktwelt."
       }
     },
+    "16542652147d388790": {
+      "type": "multicolumn",
+      "blocks": {
+        "16542652141bfeed06-0": {
+          "type": "column",
+          "settings": {
+            "title": "Marcus P.",
+            "text": "<p>Ich habe mir  die Lampe Bio 300 bestellt. Die Lampe wurde schnell geliefert und macht einen sehr guten Eindruck.<br\/>Ich habe sie mir für meinen Tennisarm gekauft und benutze sie jetzt seit 12 Tagen uns spüre die ersten deutlichen Besserungen. Bei mir steht sie zur Behandlung auf dem Tisch. Ich bin mit der Lampe sehr zufrieden<\/p>"
+          }
+        },
+        "16542652141bfeed06-1": {
+          "type": "column",
+          "settings": {
+            "title": "Annette G.",
+            "text": "<p>ich habe mir vor gut 6 Wochen die kleine Pro+ 300 Tischleuchte gekauft und bin schon jetzt total begeistert.<br\/>eine Freundin hatte mir von der Wirksamkeit dieser Leuchten vorgeschwärmt.<br\/>in erster Linie ging es mir um den Anti-Aging Effekt, aber da ich seit Ende letzten Jahres noch immer unter den Covid Folgen leide, insbesondere im Nervensystem, muss ich feststellen, dass die Leuchte auch in dem Bereich schon jetzt ihre Wirkung zeigt. Ein wenig ärgere ich mich schon, dass ich nicht gleich die grössere Option gewählt habe. Mit dem Nuuva Onlineshop war ich übrigens sehr zufrieden, von der Bestellung bis zur Lieferung klappte alles einwandfrei.<\/p>"
+          }
+        },
+        "16542652141bfeed06-2": {
+          "type": "column",
+          "settings": {
+            "title": "Carla J.",
+            "text": "<p>Very effective adjunct to treatment, the increased oxygenation and blood flow accelerates the healing process and my patients find the glow relaxing.<br\/>Nuuva was a pleasure to deal with, very responsive and helpful with explanations.  I highly recommend them and am very happy with my purchase, danke!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16542652141bfeed06-0",
+        "16542652141bfeed06-1",
+        "16542652141bfeed06-2"
+      ],
+      "settings": {
+        "title": "Das sagen unsere Kunden",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "163645210085c341b2": {
       "type": "wavelength",
       "blocks": {
@@ -332,6 +373,7 @@
     "16488050127c6b75b8",
     "164017126366b0f9cb",
     "1635351417eb23c5e9",
+    "16542652147d388790",
     "163645210085c341b2",
     "1636039719bcfe7a1a",
     "1636099310f13726c4"
