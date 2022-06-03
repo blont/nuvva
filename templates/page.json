@@ -1,5 +1,40 @@
 {
   "sections": {
+    "1654268687b174f278": {
+      "type": "page-header",
+      "blocks": {
+        "1654268687552f4160-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rotlichttherapie erklärt",
+            "heading_size": "medium"
+          }
+        },
+        "1654268687552f4160-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "color_text": "#e53939"
+          }
+        }
+      },
+      "block_order": [
+        "1654268687552f4160-0",
+        "1654268687552f4160-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -103,6 +138,7 @@
     }
   },
   "order": [
+    "1654268687b174f278",
     "main",
     "1640180212a38cba54",
     "16401805939eba5b05",
