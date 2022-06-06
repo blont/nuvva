@@ -46,6 +46,7 @@
       {{ body_font_italic | font_face: font_display: 'swap' }}
       {{ body_font_bold_italic | font_face: font_display: 'swap' }}
       {{ settings.type_header_font | font_face: font_display: 'swap' }}
+      {{ settings.type_heading_font | font_face: font_display: 'swap' }}
 
       :root {
         --font-body-family: 'Quicksand-Regular', {{ settings.type_body_font.fallback_families }};
@@ -215,10 +216,6 @@
 
        
        
-        document.addEventListener('aos:in', function(e) {
-          console.log('in!', e.detail);
-        });
-
 
 
       }
