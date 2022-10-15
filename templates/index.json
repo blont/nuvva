@@ -1,5 +1,14 @@
 {
   "sections": {
+    "dce13b7d-34ee-4c8e-b732-871e9bb52eb1": {
+      "type": "hero",
+      "settings": {
+        "title": "Wir sind im Urlaub von 23. Okt bis 4. Nov",
+        "infotext": "Der Shop bleibt für euch geöffnet, jedoch beachtet bitte folgendes:",
+        "zwischenheader": "Bestellungen werden bis zum 22. Oktober und dann wieder ab dem 5. November bearbeitet!",
+        "cta": ""
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -80,15 +89,6 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
-      }
-    },
-    "dce13b7d-34ee-4c8e-b732-871e9bb52eb1": {
-      "type": "hero",
-      "settings": {
-        "title": "Wir sind im Urlaub von 23. Okt bis 4. Nov",
-        "infotext": "Der Shop bleibt für euch geöffnet, jedoch beachtet bitte folgendes:",
-        "zwischenheader": "Bestellungen werden bis zum 22. Oktober und dann wieder ab dem 5. November bearbeitet!",
-        "cta": ""
       }
     },
     "164017126366b0f9cb": {
@@ -378,9 +378,9 @@
     }
   },
   "order": [
+    "dce13b7d-34ee-4c8e-b732-871e9bb52eb1",
     "image_banner",
     "16488050127c6b75b8",
-    "dce13b7d-34ee-4c8e-b732-871e9bb52eb1",
     "164017126366b0f9cb",
     "1635351417eb23c5e9",
     "16542652147d388790",
