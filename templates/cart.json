@@ -1,5 +1,31 @@
 {
   "sections": {
+    "eb310f72-78d1-40fe-a8e9-adec209d93f0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nuuva macht Urlaub",
+            "heading_size": "h1"
+          }
+        },
+        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bestellungen sind weiterhin möglich. <br\/>Beachte bitte, das wir keine Auslieferung zwischen dem 25. 10. - 05. 11. 2022 machen können.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-0",
+        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -43,47 +69,12 @@
         "show_vendor": false,
         "show_rating": false
       }
-    },
-    "eb310f72-78d1-40fe-a8e9-adec209d93f0": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Nuuva macht Urlaub",
-            "heading_size": "h1"
-          }
-        },
-        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bestellungen sind weiterhin möglich. <br\/>Beachte bitte, das wir keine Auslieferung zwischen dem 25. 10. - 05. 11. 2022 machen können.<\/p>"
-          }
-        },
-        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-0",
-        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-1",
-        "template--15315858981092__eb310f72-78d1-40fe-a8e9-adec209d93f0-16660785074e382976-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
+    "eb310f72-78d1-40fe-a8e9-adec209d93f0",
     "cart-items",
     "cart-footer",
-    "featured-products",
-    "eb310f72-78d1-40fe-a8e9-adec209d93f0"
+    "featured-products"
   ]
 }
