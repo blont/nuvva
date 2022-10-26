@@ -1,5 +1,23 @@
 {
   "sections": {
+    "8d198689-31b0-4272-98ba-b13ff59a9919": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15424475136228__8d198689-31b0-4272-98ba-b13ff59a9919-16667737230650f6af-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Wir sind im Urlaub: Auslieferung ab dem 5. November<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15424475136228__8d198689-31b0-4272-98ba-b13ff59a9919-16667737230650f6af-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -163,6 +181,7 @@
     }
   },
   "order": [
+    "8d198689-31b0-4272-98ba-b13ff59a9919",
     "main",
     "16432807810bdd85eb",
     "16436213840530cb19",
