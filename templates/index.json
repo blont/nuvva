@@ -1,5 +1,24 @@
 {
   "sections": {
+    "9793e71e-d135-40c4-91d2-edc68ac4d029": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15315859538148__9793e71e-d135-40c4-91d2-edc68ac4d029-16667721097467a45b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Urlaub :) Auslieferung wieder ab dem 5. November!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--15315859538148__9793e71e-d135-40c4-91d2-edc68ac4d029-16667721097467a45b-0"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -369,6 +388,7 @@
     }
   },
   "order": [
+    "9793e71e-d135-40c4-91d2-edc68ac4d029",
     "image_banner",
     "16488050127c6b75b8",
     "164017126366b0f9cb",
