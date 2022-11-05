@@ -2,9 +2,11 @@
   "sections": {
     "9793e71e-d135-40c4-91d2-edc68ac4d029": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--15315859538148__9793e71e-d135-40c4-91d2-edc68ac4d029-16667721097467a45b-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Urlaub :) Auslieferung wieder ab dem 5. November!",
             "heading_size": "h2"
