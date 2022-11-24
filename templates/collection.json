@@ -1,5 +1,12 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": true
+      }
+    },
     "b95f6cdd-8be4-46be-a11a-67013c098267": {
       "type": "rich-text",
       "disabled": true,
@@ -18,13 +25,6 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true
       }
     },
     "product-grid": {
@@ -154,16 +154,23 @@
         "link": "shopify:\/\/pages\/faq-rotlichtleuchten",
         "linktext": "Unsere Antworten"
       }
+    },
+    "0c57af17-20ea-4e21-9366-55432fca84cb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\">\n{{ collection.description }}\n<\/div>"
+      }
     }
   },
   "order": [
-    "b95f6cdd-8be4-46be-a11a-67013c098267",
     "banner",
+    "b95f6cdd-8be4-46be-a11a-67013c098267",
     "product-grid",
     "1648037130fcbff9b1",
     "163593723729661e2c",
     "16359412341220a733",
     "163593724891150a59",
-    "164328154679720f26"
+    "164328154679720f26",
+    "0c57af17-20ea-4e21-9366-55432fca84cb"
   ]
 }
