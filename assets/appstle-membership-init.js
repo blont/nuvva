@@ -21,12 +21,12 @@
       AM.Config = {
         "selectors": {
             "payment_button_selectors": "form[action$='/cart/add'] .shopify-payment-button",
-            "subscriptionLinkSelector": "",
+            "subscriptionLinkSelector": "#MainContent > div > div:nth-child(2)",
             "atcButtonPlacement": "BEFORE",
             "subscriptionLinkPlacement": "BEFORE"
         },
         "useUrlWithCustomerId": false,
-        "atcButtonSelector": "",
+        "atcButtonSelector": "div.product-form__buttons",
         "moneyFormat": "{% raw %}\u20AC{{amount_with_comma_separator}}{% endraw %}",
         "oneTimePurchaseText": "One Time Purchase",
         "shop": "nuuva-de.myshopify.com",
@@ -66,7 +66,7 @@
         "selectedDiscountFormat" : "SAVE {{selectedDiscountPercentage}}",
         "manageSubscriptionBtnFormat" : "<a href='apps\/memberships' class='appstle_manageSubBtn' ><button class='btn' style='padding: 2px 20px'>Manage Membership<\/button><a><br><br>",
         "manageSubscriptionUrl" : "apps\/memberships",
-        "appstlePlanId": -1,
+        "appstlePlanId": 1,
         "showCheckoutSubscriptionBtn": true,
         "disableLoadingJquery": false,
         "enableMessagingForNonMembers": "false",
@@ -134,7 +134,7 @@
             },
             "customCSS": "",
             "customerPortalCss": "",
-            "priceSelector": "",
+            "priceSelector": "span.price-item.price-item--regular",
             "landingPagePriceSelector": "",
             "quickViewClickSelector": "",
             "badgeTop": "",
