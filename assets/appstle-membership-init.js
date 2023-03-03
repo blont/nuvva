@@ -15,7 +15,7 @@
         };
         document.getElementsByTagName("head")[0].appendChild(script)
       };
-      appstleLoadScript("https://cdn.shopify.com/s/files/1/0605/7318/8324/t/4/assets/appstle-membership.js?v=1676716035");
+      appstleLoadScript("https://cdn.shopify.com/s/files/1/0605/7318/8324/t/4/assets/appstle-membership.js?v=1677860111");
 
       window.AM = Window.AM || {};
       AM.Config = {
@@ -80,6 +80,7 @@
         "priceBlockSelector": "",
         "parentSelector": "",
         "reBuyEnabled": "false",
+        "enableAddJSInterceptor": false,
         "css": {
             "appstle_membership_widget": {
                 "margin-top": "" ,
