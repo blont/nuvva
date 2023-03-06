@@ -42,34 +42,6 @@
         "collapse_on_larger_devices": true
       }
     },
-    "163593723729661e2c": {
-      "type": "image-with-text",
-      "blocks": {
-        "163593723729661e2c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Double Chip LED"
-          }
-        },
-        "163593723729661e2c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Alle Nuuva Leuchten nutzen doppelte LED Chips. Doppelchip LEDs verbrauchen weniger Strom, haben eine verbesserte<br\/>Strahlungsleistung [in W] und höhere Bestrahlungsstärke [in W\/cm²]. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "163593723729661e2c-0",
-        "163593723729661e2c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
-        "anchor": "",
-        "height": "contain",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "16359412341220a733": {
       "type": "image-with-text",
       "blocks": {
@@ -98,34 +70,6 @@
         "layout": "text_first"
       }
     },
-    "163593724891150a59": {
-      "type": "image-with-text",
-      "blocks": {
-        "163593724891150a59-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Optimale Kühlung"
-          }
-        },
-        "163593724891150a59-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Jedes Gerät kommt mit einem perfekt angepasstem Kühlsystem. Ohne ein angepasstes Temperaturmanagement können die LEDs zu heiß werden und durchbrennen. Die Kühlung und der Luftstrom sind entscheidend, damit deine Leuchte bei optimaler  Betriebstemperatur läuft. Für eine lange Lebenszeit und dass du dich lange an deiner Nuuva Rotlicht-Leuchte erfreuen kannst.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "163593724891150a59-0",
-        "163593724891150a59-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/vent-erklaert.jpg",
-        "anchor": "",
-        "height": "contain",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "164328154679720f26": {
       "type": "cta",
       "settings": {
@@ -142,9 +86,7 @@
     "banner",
     "b95f6cdd-8be4-46be-a11a-67013c098267",
     "product-grid",
-    "163593723729661e2c",
     "16359412341220a733",
-    "163593724891150a59",
     "164328154679720f26"
   ]
 }
