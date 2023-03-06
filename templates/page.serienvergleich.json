@@ -122,6 +122,38 @@
         "header": "",
         "linktext": ""
       }
+    },
+    "99eaf131-e779-4400-87fc-c42de8281206": {
+      "type": "collection-grid",
+      "blocks": {
+        "6909eff4-d55f-4c8c-9e91-7214c41523cc": {
+          "type": "collection",
+          "settings": {
+            "collection": "bio"
+          }
+        },
+        "03d429e9-198a-4b82-a9b2-bab32f5397e6": {
+          "type": "collection",
+          "settings": {
+            "collection": "pro"
+          }
+        },
+        "94fd6a55-1db6-48f1-a34b-5fdb38394547": {
+          "type": "collection",
+          "settings": {
+            "collection": "proplus"
+          }
+        }
+      },
+      "block_order": [
+        "6909eff4-d55f-4c8c-9e91-7214c41523cc",
+        "03d429e9-198a-4b82-a9b2-bab32f5397e6",
+        "94fd6a55-1db6-48f1-a34b-5fdb38394547"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
     }
   },
   "order": [
@@ -129,6 +161,7 @@
     "main",
     "1637750986afb93dda",
     "16479844181a692400",
-    "a140460f-0013-451a-9024-469e32214536"
+    "a140460f-0013-451a-9024-469e32214536",
+    "99eaf131-e779-4400-87fc-c42de8281206"
   ]
 }
