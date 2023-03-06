@@ -37,6 +37,7 @@
       "blocks": {
         "163775098607989d2a-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
