@@ -42,24 +42,6 @@
         "collapse_on_larger_devices": true
       }
     },
-    "1648037130fcbff9b1": {
-      "type": "collection-vergleichtable",
-      "blocks": {
-        "16480371300a2c9d86-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "16480371300a2c9d86-0"
-      ],
-      "settings": {
-        "header": "Vergleich der Serien - was ist der Unterschied",
-        "linktext": ""
-      }
-    },
     "163593723729661e2c": {
       "type": "image-with-text",
       "blocks": {
@@ -94,7 +76,7 @@
         "16359412341220a733-0": {
           "type": "heading",
           "settings": {
-            "heading": "3 Modelle in einem"
+            "heading": "5 Vorteile in einem Produkt"
           }
         },
         "16359412341220a733-1": {
@@ -109,7 +91,7 @@
         "16359412341220a733-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "image": "shopify:\/\/shop_images\/nuuva-fokus.jpg",
         "anchor": "",
         "height": "contain",
         "color_scheme": "background-1",
@@ -154,23 +136,15 @@
         "link": "shopify:\/\/pages\/faq-rotlichtleuchten",
         "linktext": "Unsere Antworten"
       }
-    },
-    "0c57af17-20ea-4e21-9366-55432fca84cb": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{%- if collection.description -%}\n<div class=\"page-width\">\n{{ collection.description }}\n<\/div>\n{%- endif -%}"
-      }
     }
   },
   "order": [
     "banner",
     "b95f6cdd-8be4-46be-a11a-67013c098267",
     "product-grid",
-    "1648037130fcbff9b1",
     "163593723729661e2c",
     "16359412341220a733",
     "163593724891150a59",
-    "164328154679720f26",
-    "0c57af17-20ea-4e21-9366-55432fca84cb"
+    "164328154679720f26"
   ]
 }
