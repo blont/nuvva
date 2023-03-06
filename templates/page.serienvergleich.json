@@ -103,12 +103,31 @@
         "header": "Unsere Kollektionen",
         "linktext": ""
       }
+    },
+    "55619458-238e-4a9f-b8be-609ea48a8bfb": {
+      "type": "collection-vergleichtable2",
+      "blocks": {
+        "template--15425288470756__55619458-238e-4a9f-b8be-609ea48a8bfb-1678121207e9388763-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15425288470756__55619458-238e-4a9f-b8be-609ea48a8bfb-1678121207e9388763-0"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
     }
   },
   "order": [
     "1643296015c996e4db",
     "main",
     "1637750986afb93dda",
-    "99eaf131-e779-4400-87fc-c42de8281206"
+    "99eaf131-e779-4400-87fc-c42de8281206",
+    "55619458-238e-4a9f-b8be-609ea48a8bfb"
   ]
 }
