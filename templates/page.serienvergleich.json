@@ -71,47 +71,36 @@
           "settings": {
             "collection": "proplus"
           }
-        }
-      },
-      "block_order": [
-        "6909eff4-d55f-4c8c-9e91-7214c41523cc",
-        "03d429e9-198a-4b82-a9b2-bab32f5397e6",
-        "94fd6a55-1db6-48f1-a34b-5fdb38394547"
-      ],
-      "settings": {
-        "header": "Unsere Kollektionen",
-        "linktext": ""
-      }
-    },
-    "a140460f-0013-451a-9024-469e32214536": {
-      "type": "collection-grid",
-      "blocks": {
-        "eeedf328-3839-438b-a100-b6a4ee22ecec": {
+        },
+        "267606b2-bdd2-4859-8702-7a4a6404e509": {
           "type": "collection",
           "settings": {
             "collection": "smart"
           }
         },
-        "224e8622-32a2-4cc1-b57a-aab4f899d42a": {
-          "type": "collection",
-          "settings": {
-            "collection": "staender-rotlichttherapie"
-          }
-        },
-        "be7c89f5-7175-48a0-985a-65201e96c5fa": {
+        "deb5ae34-9899-4de5-bc97-445245bfe0f3": {
           "type": "collection",
           "settings": {
             "collection": "fokus"
           }
+        },
+        "ca03445d-3524-41c8-b205-6110f3c32ac3": {
+          "type": "collection",
+          "settings": {
+            "collection": "staender-rotlichttherapie"
+          }
         }
       },
       "block_order": [
-        "eeedf328-3839-438b-a100-b6a4ee22ecec",
-        "224e8622-32a2-4cc1-b57a-aab4f899d42a",
-        "be7c89f5-7175-48a0-985a-65201e96c5fa"
+        "6909eff4-d55f-4c8c-9e91-7214c41523cc",
+        "03d429e9-198a-4b82-a9b2-bab32f5397e6",
+        "94fd6a55-1db6-48f1-a34b-5fdb38394547",
+        "267606b2-bdd2-4859-8702-7a4a6404e509",
+        "deb5ae34-9899-4de5-bc97-445245bfe0f3",
+        "ca03445d-3524-41c8-b205-6110f3c32ac3"
       ],
       "settings": {
-        "header": "",
+        "header": "Unsere Kollektionen",
         "linktext": ""
       }
     }
@@ -120,7 +109,6 @@
     "1643296015c996e4db",
     "main",
     "1637750986afb93dda",
-    "99eaf131-e779-4400-87fc-c42de8281206",
-    "a140460f-0013-451a-9024-469e32214536"
+    "99eaf131-e779-4400-87fc-c42de8281206"
   ]
 }
