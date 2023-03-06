@@ -45,12 +45,33 @@
           "settings": {
             "collection": "proplus"
           }
+        },
+        "35ef2a9b-9687-4dd1-8f7d-3f0bdc5f4e67": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fokus"
+          }
+        },
+        "88eadd0e-fc02-4a34-93a3-419f31eaabd0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "smart"
+          }
+        },
+        "e516d633-b3df-4016-90b1-69004cc05eaa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "staender-rotlichttherapie"
+          }
         }
       },
       "block_order": [
         "16432807814b51aa64-0",
         "16432807814b51aa64-1",
-        "16432807814b51aa64-2"
+        "16432807814b51aa64-2",
+        "35ef2a9b-9687-4dd1-8f7d-3f0bdc5f4e67",
+        "88eadd0e-fc02-4a34-93a3-419f31eaabd0",
+        "e516d633-b3df-4016-90b1-69004cc05eaa"
       ],
       "settings": {
         "title": "Kollektionen",
