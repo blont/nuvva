@@ -70,12 +70,51 @@
           "settings": {
             "collection": "proplus"
           }
+        },
+        "5564c71f-a065-4c5e-8c23-1dabc253a1cb": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "c8635abc-82cf-45f7-b8de-097f623a92b1",
         "fab5bdb8-a2d6-49e7-beff-d651930e04cb",
-        "7e3db2d0-cdaa-43f8-b559-d886aa6af367"
+        "7e3db2d0-cdaa-43f8-b559-d886aa6af367",
+        "5564c71f-a065-4c5e-8c23-1dabc253a1cb"
+      ],
+      "settings": {
+        "header": "",
+        "linktext": ""
+      }
+    },
+    "a140460f-0013-451a-9024-469e32214536": {
+      "type": "collection-grid",
+      "blocks": {
+        "eeedf328-3839-438b-a100-b6a4ee22ecec": {
+          "type": "collection",
+          "settings": {
+            "collection": "smart"
+          }
+        },
+        "224e8622-32a2-4cc1-b57a-aab4f899d42a": {
+          "type": "collection",
+          "settings": {
+            "collection": "staender-rotlichttherapie"
+          }
+        },
+        "be7c89f5-7175-48a0-985a-65201e96c5fa": {
+          "type": "collection",
+          "settings": {
+            "collection": "fokus"
+          }
+        }
+      },
+      "block_order": [
+        "eeedf328-3839-438b-a100-b6a4ee22ecec",
+        "224e8622-32a2-4cc1-b57a-aab4f899d42a",
+        "be7c89f5-7175-48a0-985a-65201e96c5fa"
       ],
       "settings": {
         "header": "",
@@ -87,6 +126,7 @@
     "1643296015c996e4db",
     "main",
     "1637750986afb93dda",
-    "16479844181a692400"
+    "16479844181a692400",
+    "a140460f-0013-451a-9024-469e32214536"
   ]
 }
