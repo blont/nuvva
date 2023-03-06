@@ -73,6 +73,7 @@
         },
         "5564c71f-a065-4c5e-8c23-1dabc253a1cb": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
