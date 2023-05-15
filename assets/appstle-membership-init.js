@@ -15,7 +15,7 @@
         };
         document.getElementsByTagName("head")[0].appendChild(script)
       };
-      appstleLoadScript("https://cdn.shopify.com/s/files/1/0605/7318/8324/t/4/assets/appstle-membership.js?v=1677867377");
+      appstleLoadScript("https://cdn.shopify.com/s/files/1/0605/7318/8324/t/4/assets/appstle-membership.js?v=1684147453");
 
       window.AM = Window.AM || {};
       AM.Config = {
@@ -53,6 +53,7 @@
         "rulesByCustomerTag": "{}",
         "membershipByCustomerTag": "{}",
         "nonMemberOnlySellingPlansJson": {},
+        "sellingPlansJson": [],
         "widgetEnabled": true,
         "showTooltip" : true,
         "sortByDefaultSequence": false,
@@ -63,7 +64,7 @@
         "oneTimePriceText" : "{{{price}}}",
         "selectedPayAsYouGoSellingPlanPriceText" : "{{{price}}}",
         "selectedPrepaidSellingPlanPriceText" : "{{{pricePerDelivery}}}",
-        "selectedDiscountFormat" : "SAVE {{selectedDiscountPercentage}}",
+        "selectedDiscountFormat" : "SAVE {{{selectedDiscountPercentage}}}",
         "manageSubscriptionBtnFormat" : "<a href='apps\/memberships' class='appstle_manageSubBtn' ><button class='btn' style='padding: 2px 20px'>Manage Membership<\/button><a><br><br>",
         "manageSubscriptionUrl" : "apps\/memberships",
         "appstlePlanId": 1,
@@ -80,6 +81,7 @@
         "priceBlockSelector": "",
         "parentSelector": "",
         "reBuyEnabled": "false",
+        "switchRadioButtonWidget": false,
         "enableAddJSInterceptor": false,
         "css": {
             "appstle_membership_widget": {
