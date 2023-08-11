@@ -2,7 +2,6 @@
   "sections": {
     "66273340-1a99-4a97-b097-3f56c0728899": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15521800814820__66273340-1a99-4a97-b097-3f56c0728899-1666773595c4e2f9b0-1": {
           "type": "text",
@@ -14,6 +13,7 @@
       "block_order": [
         "template--15521800814820__66273340-1a99-4a97-b097-3f56c0728899-1666773595c4e2f9b0-1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
@@ -48,14 +48,14 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Wir sind sehr stolz, dir unsere neu überarbeitete und verbesserte Modellreihe der beliebten und bewährten Nuuva BIO Rotlichtleuchten vorstellen zu können. Wir haben das ursprüngliche Design aufgepeppt, dabei das Beste beibehalten und einige tolle Verbesserungen eingebaut.<br\/><br\/>Wie immer bieten unsere Nuuva BIO Leuchten eine super Bestrahlungsstärke zu einem echt fairen Preis und sind ideal für den Einstieg in die LED-Lichttherapie. Du kannst zwischen 50% Rotlicht mit 60nm und 50% NIR-Licht mit 850nm Wellenlänge wählen. Beide Wellenlängen kannst du separat ein- und ausschalten, um maximale Flexibilität zu haben, um die Konfiguration zu finden, die am besten zu deinen Therapiezielen passt. <\/p><p><\/p><p>Und jetzt kommt das Neue: die Bestrahlungsstärke ist noch stärker und mit der Dimm- und Puls-Funktion kannst du die Rotlichttherapie noch effektiver nutzen. <\/p><p><\/p><p><\/p>"
+            "text": "<p>Wir sind sehr stolz, dir unsere neu überarbeitete und verbesserte Modellreihe der beliebten und bewährten Nuuva BIO Rotlichtleuchten vorstellen zu können. Wir haben das ursprüngliche Design aufgepeppt, dabei das Beste beibehalten und einige <strong>tolle Verbesserungen<\/strong> eingebaut.<br\/><br\/>Wie immer bieten unsere Nuuva BIO Leuchten eine super Bestrahlungsstärke zu einem echt <strong>fairen Preis<\/strong> und sind ideal für den Einstieg in die LED-Lichttherapie. Du kannst zwischen 50% Rotlicht mit 60nm und 50% NIR-Licht mit 850nm Wellenlänge wählen. Beide Wellenlängen kannst du separat ein- und ausschalten, um maximale Flexibilität zu haben, um die Konfiguration zu finden, die am besten zu deinen Therapiezielen passt. <\/p><p><\/p><p>Und <strong>jetzt das Neue<\/strong>: Die Bestrahlungsstärke ist noch stärker und du hast die Möglichkeit das Licht zu dimmen und zu pulsieren, so kannst du die Rotlichttherapie noch effektiver nutzen. <\/p><p><\/p><p><\/p>"
           }
         },
         "16402499893a509840-1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Mit dem neuen, benutzerfreundlichen Touchdisplay mit Timer kannst du alles ganz leicht bedienen. Plus, jetzt kannst du die Leuchten zusammenhängen und größere Paneele erstellen - das Daisy-Chain Prinzip macht's möglich. Bis zu vier Leuchten lassen sich zusammen verkabeln und gemeinsam steuern.<br\/><br\/>Aber die guten alten Features sind auch noch dabei: Du kannst die Nuuva BIO Leuchten immer noch an dem beiliegenden Türhaken aufhängen und bei allen Modellen ist auch der beigefügte Flaschenzug dabei, um die Höhe der Bestrahlungsfläche anzupassen.<br\/><br\/>Wir sind sicher, dass unsere überarbeitete und verbesserte Modellreihe der Nuuva BIO Rotlichtleuchten eine echte Bereicherung für deine LED-Lichttherapie sein wird. Wir wünschen dir jetzt schon ganz viel Erfolg und Spaß beim Ausprobieren!<br\/><\/p>"
+            "text": "<p>Mit dem neuen, benutzerfreundlichen Touchdisplay mit Timer kannst du alles ganz leicht bedienen. Plus, jetzt kannst du die Leuchten zusammenhängen und größere Paneele erstellen - das Daisy-Chain Prinzip macht's möglich. Bis zu vier Leuchten lassen sich zusammen verkabeln und gemeinsam steuern.<br\/><br\/>Aber die guten alten Features sind auch noch dabei: Du kannst die Nuuva BIO Leuchten immer noch an dem beiliegenden Türhaken aufhängen und bei allen Modellen ist auch der beigefügte Flaschenzug dabei, um die Höhe der Bestrahlungsfläche anzupassen.<br\/><br\/>Wir sind sicher, dass unsere überarbeitete und verbesserte Modellreihe der Nuuva BIO Rotlichtleuchten eine echte <strong>Bereicherung <\/strong>für deine LED-Lichttherapie sein wird. Wir wünschen dir jetzt schon ganz viel Erfolg und Spaß beim Ausprobieren!<br\/><\/p>"
           }
         }
       },
