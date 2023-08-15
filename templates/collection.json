@@ -7,9 +7,34 @@
         "show_collection_image": true
       }
     },
+    "dc5a56f1-a518-4e97-bba7-8ace27567399": {
+      "type": "text-2spalten",
+      "blocks": {
+        "template--15315859013860__dc5a56f1-a518-4e97-bba7-8ace27567399-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--15315859013860__dc5a56f1-a518-4e97-bba7-8ace27567399-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Nuuva - mehr als nur Produkte – eine Investition in dein Wohlbefinden.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15315859013860__dc5a56f1-a518-4e97-bba7-8ace27567399-heading-1",
+        "template--15315859013860__dc5a56f1-a518-4e97-bba7-8ace27567399-text-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "b95f6cdd-8be4-46be-a11a-67013c098267": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15315859013860__b95f6cdd-8be4-46be-a11a-67013c098267-1666773595c4e2f9b0-1": {
           "type": "text",
@@ -22,6 +47,7 @@
       "block_order": [
         "template--15315859013860__b95f6cdd-8be4-46be-a11a-67013c098267-1666773595c4e2f9b0-1"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
@@ -84,6 +110,7 @@
   },
   "order": [
     "banner",
+    "dc5a56f1-a518-4e97-bba7-8ace27567399",
     "b95f6cdd-8be4-46be-a11a-67013c098267",
     "product-grid",
     "16359412341220a733",
