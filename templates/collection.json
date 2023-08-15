@@ -20,6 +20,7 @@
       "block_order": [
         "template--15315859013860__dc5a56f1-a518-4e97-bba7-8ace27567399-text-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "color_scheme": "background-1",
