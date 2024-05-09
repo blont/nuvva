@@ -32,6 +32,11 @@
             "show_dynamic_checkout": true
           }
         },
+        "vitals_payment_logos_4XjGpn": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/payment-logos\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -50,6 +55,7 @@
         "price",
         "variant_picker",
         "buy_buttons",
+        "vitals_payment_logos_4XjGpn",
         "description",
         "share"
       ],
