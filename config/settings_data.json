@@ -107,22 +107,14 @@
         "settings": {
         }
       },
-      "6544682535036668446": {
-        "type": "shopify:\/\/apps\/pumper-bundle-qty\/blocks\/app-embed\/0856870d-2aca-4b1e-a662-cf1797f61270",
+      "124348908681409149": {
+        "type": "shopify:\/\/apps\/simple-bundles-kits\/blocks\/simple-bundles-v2\/e553276b-36b2-446d-b80a-aa47fe5f96ac",
         "disabled": false,
         "settings": {
-        }
-      },
-      "16477348613150133823": {
-        "type": "shopify:\/\/apps\/unlimited-bundles\/blocks\/script-app-block\/d33d0f48-dee0-42a0-b156-2a5dce91814a",
-        "disabled": true,
-        "settings": {
-          "reload_on_line_item_properties": false,
-          "disable_reload_on_cart_update": false,
-          "disable_cart_attribute_tracker": false,
-          "disable_facebook_events": false,
-          "enable_reload_on_bundle_auto_match": false,
-          "use_h2_header": false
+          "select_placeholder": "Please select an option",
+          "disable_oos_options": true,
+          "custom_css": "",
+          "custom_js": ""
         }
       }
     }
