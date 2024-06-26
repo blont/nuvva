@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -115,6 +124,12 @@
           "disable_oos_options": true,
           "custom_css": "",
           "custom_js": ""
+        }
+      },
+      "11853685111505846332": {
+        "type": "shopify:\/\/apps\/b2b-wholesale-pricing-forms\/blocks\/app-embeded\/658fafc9-ebc8-41ac-aa9b-57bf402459d6",
+        "disabled": false,
+        "settings": {
         }
       }
     }
