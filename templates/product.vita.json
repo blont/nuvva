@@ -74,6 +74,22 @@
         "enable_video_looping": false
       }
     },
+    "1720532631051194c7": {
+      "type": "apps",
+      "blocks": {
+        "vitals_ub_product_bundles_exFjig": {
+          "type": "shopify:\/\/apps\/vitals\/blocks\/ub-product-bundles\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vitals_ub_product_bundles_exFjig"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "1637311016a949a604": {
       "type": "cta",
       "settings": {
@@ -96,11 +112,19 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "1720533187d773c6cd": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
+    "1720532631051194c7",
     "1637311016a949a604",
-    "product-recommendations"
+    "product-recommendations",
+    "1720533187d773c6cd"
   ]
 }
