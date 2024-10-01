@@ -406,16 +406,6 @@
     },
     "17277729872d1dac7e": {
       "type": "apps",
-      "blocks": {
-        "trusted_shops_easy_integration_review_carousel_Vtttmd": {
-          "type": "shopify://apps/trusted-shops-easy-integration/blocks/review-carousel/2ae4ab38-7eb9-4d62-abe3-d4a5f27cbef2",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "trusted_shops_easy_integration_review_carousel_Vtttmd"
-      ],
       "settings": {
         "include_margins": true
       }
