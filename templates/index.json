@@ -1,8 +1,16 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "9793e71e-d135-40c4-91d2-edc68ac4d029": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15315859538148__9793e71e-d135-40c4-91d2-edc68ac4d029-16667721097467a45b-0": {
           "type": "heading",
@@ -16,6 +24,7 @@
       "block_order": [
         "template--15315859538148__9793e71e-d135-40c4-91d2-edc68ac4d029-16667721097467a45b-0"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true
@@ -42,7 +51,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Unsere Leuchten",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -56,7 +65,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/frau-titel-dunkler_c2835f6d-5a96-4736-b157-fc07ea42eb50.webp",
+        "image": "shopify://shop_images/frau-titel-dunkler_c2835f6d-5a96-4736-b157-fc07ea42eb50.webp",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -80,7 +89,7 @@
         "1648805012b07d88b3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Anti-Aging · Haarwachstum · Schlaf · Muskeln · Entzündungen · Gelenkschmerzen · Immunsystem<\/p>"
+            "text": "<p>Anti-Aging · Haarwachstum · Schlaf · Muskeln · Entzündungen · Gelenkschmerzen · Immunsystem</p>"
           }
         },
         "1648805012b07d88b3-2": {
@@ -111,9 +120,9 @@
           "settings": {
             "header": "Was ist die Rotlichttherapie?",
             "textarea": "Rot- und Nah-Infrarotlicht wirkt positiv auf deine Zellen. Natürliche Heilungs- und Regenerationsprozesse in Haut und Körper werden angeregt.",
-            "image": "shopify:\/\/shop_images\/mnuuva-rotlichtherpaie-gut-fuer-haut.png",
+            "image": "shopify://shop_images/mnuuva-rotlichtherpaie-gut-fuer-haut.png",
             "button_label": "Weiter",
-            "button_link": "https:\/\/nuuva.de\/pages\/so-gehts\/#was-ist-rotlichtherapie"
+            "button_link": "https://nuuva.de/pages/so-gehts/#was-ist-rotlichtherapie"
           }
         },
         "1319fe5f-d913-4361-b1f2-84fbe69e3fa7": {
@@ -121,9 +130,9 @@
           "settings": {
             "header": "Hier hilft die Rotlichttherapie",
             "textarea": "Haut, Anti-Aging, Wundheilung, Haarwachstum, Schlaf, Erholung der Muskeln, Entzündungen, Gelenkschmerzen, Mentale Fitness, Immunsystem",
-            "image": "shopify:\/\/shop_images\/nuuva-sonnenlicht-therapie.png",
+            "image": "shopify://shop_images/nuuva-sonnenlicht-therapie.png",
             "button_label": "WEITER",
-            "button_link": "https:\/\/www.nuuva.de\/blogs\/lichttherapie-blog\/was-ist-rotlichttherapie"
+            "button_link": "https://www.nuuva.de/blogs/lichttherapie-blog/was-ist-rotlichttherapie"
           }
         },
         "cb78a031-0578-4d7f-b633-0e73d9637ce5": {
@@ -131,9 +140,9 @@
           "settings": {
             "header": "Wissenschaftlich getestet",
             "textarea": "Eine Vielzahl von Studien belegen die vielfältige Wirkung der Rotlichtbehandlung zur Förderung deiner Gesundheit.",
-            "image": "shopify:\/\/shop_images\/nuuva-wissenschafltich-erprobt_2f28ecf5-1ffe-41fa-9671-cc1ade90da8a.png",
+            "image": "shopify://shop_images/nuuva-wissenschafltich-erprobt_2f28ecf5-1ffe-41fa-9671-cc1ade90da8a.png",
             "button_label": "Weiter",
-            "button_link": "https:\/\/nuuva.de\/pages\/so-gehts\/#wissenschafltich-getestet"
+            "button_link": "https://nuuva.de/pages/so-gehts/#wissenschafltich-getestet"
           }
         },
         "68f5a530-891d-419d-82d3-346e96849f64": {
@@ -141,9 +150,9 @@
           "settings": {
             "header": "Ist die Rotlichttherapie sicher?",
             "textarea": "Rotlicht hat wohltuende und gesundheitsfördernde Effekte für deinen Körper - ohne schädliche UV-Strahlen und Nebenwirkungen",
-            "image": "shopify:\/\/shop_images\/nuuva-rotlicht-therpaie-sicher.png",
+            "image": "shopify://shop_images/nuuva-rotlicht-therpaie-sicher.png",
             "button_label": "Weiter",
-            "button_link": "https:\/\/nuuva.de\/pages\/so-gehts\/#rotlichttherapie-ist-sicher"
+            "button_link": "https://nuuva.de/pages/so-gehts/#rotlichttherapie-ist-sicher"
           }
         },
         "fdbf9063-d0da-4ba2-b877-603f3d8dfea9": {
@@ -151,7 +160,7 @@
           "settings": {
             "header": "Zertifizierte Sicherheit",
             "textarea": "Nuuva Leuchten sind flimmerfrei und erzeugen annähernd null Elektrosmog (EMF)",
-            "image": "shopify:\/\/shop_images\/fda.png",
+            "image": "shopify://shop_images/fda.png",
             "button_label": "",
             "button_link": ""
           }
@@ -174,16 +183,16 @@
           "type": "collection",
           "settings": {
             "collection": "pro-proplus",
-            "image_bg": "shopify:\/\/shop_images\/pro-pro-plus-p_73b10ec5-3aa0-4076-bb63-681975bb8cc6.png",
-            "image_hover": "shopify:\/\/shop_images\/pro-pro-plus-h_60a0d907-af4c-471c-9980-3446496daf44.png"
+            "image_bg": "shopify://shop_images/pro-pro-plus-p_73b10ec5-3aa0-4076-bb63-681975bb8cc6.png",
+            "image_hover": "shopify://shop_images/pro-pro-plus-h_60a0d907-af4c-471c-9980-3446496daf44.png"
           }
         },
         "a13cb640-17da-4814-aba8-28e2d142ff4b": {
           "type": "collection",
           "settings": {
             "collection": "bio",
-            "image_bg": "shopify:\/\/shop_images\/bio-p_da2f7c1c-9851-4cc5-ae2f-53d214c9caee.png",
-            "image_hover": "shopify:\/\/shop_images\/bio_hi_6252ec77-bc17-4c42-b516-0bc62d5a15f6.png"
+            "image_bg": "shopify://shop_images/bio-p_da2f7c1c-9851-4cc5-ae2f-53d214c9caee.png",
+            "image_hover": "shopify://shop_images/bio_hi_6252ec77-bc17-4c42-b516-0bc62d5a15f6.png"
           }
         }
       },
@@ -205,21 +214,21 @@
           "type": "column",
           "settings": {
             "title": "Marcus P.",
-            "text": "<p>Ich habe mir  die Lampe Bio 300 bestellt. Die Lampe wurde schnell geliefert und macht einen sehr guten Eindruck.<br\/>Ich habe sie mir für meinen Tennisarm gekauft und benutze sie jetzt seit 12 Tagen uns spüre die ersten deutlichen Besserungen. Bei mir steht sie zur Behandlung auf dem Tisch. Ich bin mit der Lampe sehr zufrieden<\/p>"
+            "text": "<p>Ich habe mir  die Lampe Bio 300 bestellt. Die Lampe wurde schnell geliefert und macht einen sehr guten Eindruck.<br/>Ich habe sie mir für meinen Tennisarm gekauft und benutze sie jetzt seit 12 Tagen uns spüre die ersten deutlichen Besserungen. Bei mir steht sie zur Behandlung auf dem Tisch. Ich bin mit der Lampe sehr zufrieden</p>"
           }
         },
         "16542652141bfeed06-1": {
           "type": "column",
           "settings": {
             "title": "Annette G.",
-            "text": "<p>ich habe mir vor gut 6 Wochen die kleine Pro+ 300 Tischleuchte gekauft und bin schon jetzt total begeistert.<br\/>[...] in erster Linie ging es mir um den Anti-Aging Effekt, aber da ich seit Ende letzten Jahres noch immer unter den Covid Folgen leide, insbesondere im Nervensystem, muss ich feststellen, dass die Leuchte auch in dem Bereich schon jetzt ihre Wirkung zeigt. [...] Mit dem Nuuva Onlineshop war ich übrigens sehr zufrieden, von der Bestellung bis zur Lieferung klappte alles einwandfrei.<\/p>"
+            "text": "<p>ich habe mir vor gut 6 Wochen die kleine Pro+ 300 Tischleuchte gekauft und bin schon jetzt total begeistert.<br/>[...] in erster Linie ging es mir um den Anti-Aging Effekt, aber da ich seit Ende letzten Jahres noch immer unter den Covid Folgen leide, insbesondere im Nervensystem, muss ich feststellen, dass die Leuchte auch in dem Bereich schon jetzt ihre Wirkung zeigt. [...] Mit dem Nuuva Onlineshop war ich übrigens sehr zufrieden, von der Bestellung bis zur Lieferung klappte alles einwandfrei.</p>"
           }
         },
         "16542652141bfeed06-2": {
           "type": "column",
           "settings": {
             "title": "Carla J.",
-            "text": "<p>Very effective adjunct to treatment, the increased oxygenation and blood flow accelerates the healing process and my patients find the glow relaxing.<br\/>Nuuva was a pleasure to deal with, very responsive and helpful with explanations.  I highly recommend them and am very happy with my purchase, danke!<\/p>"
+            "text": "<p>Very effective adjunct to treatment, the increased oxygenation and blood flow accelerates the healing process and my patients find the glow relaxing.<br/>Nuuva was a pleasure to deal with, very responsive and helpful with explanations.  I highly recommend them and am very happy with my purchase, danke!</p>"
           }
         }
       },
@@ -302,33 +311,40 @@
           "type": "Icon-Info",
           "settings": {
             "textarea": "Muskelaufbau und -heilung",
-            "image_icon": "shopify:\/\/shop_images\/icon-muskel-gut_38cd9ded-965e-42ee-9d9c-41a7ade7451b.png"
+            "image_icon": "shopify://shop_images/icon-muskel-gut_38cd9ded-965e-42ee-9d9c-41a7ade7451b.png"
+          }
+        },
+        "icon_info_NnaE6q": {
+          "type": "Icon-Info",
+          "settings": {
+            "textarea": ""
           }
         },
         "5364407d-5779-41e9-be2d-919159a6ea1b": {
           "type": "Icon-Info",
           "settings": {
             "textarea": "Gesunde Haut",
-            "image_icon": "shopify:\/\/shop_images\/icon-gute-haut_b0740141-dbc2-460e-a536-476746d8c2ff.png"
+            "image_icon": "shopify://shop_images/icon-gute-haut_b0740141-dbc2-460e-a536-476746d8c2ff.png"
           }
         },
         "a8b070ae-a0bc-4c9f-8cb3-7065ea06493c": {
           "type": "Icon-Info",
           "settings": {
             "textarea": "Verbesserter Schlaf",
-            "image_icon": "shopify:\/\/shop_images\/icon-guter-schlaf_8470b50d-aef4-4564-8654-987161accf96.png"
+            "image_icon": "shopify://shop_images/icon-guter-schlaf_8470b50d-aef4-4564-8654-987161accf96.png"
           }
         },
         "b5343360-8659-4a04-863e-f0b6ab80df36": {
           "type": "Icon-Info",
           "settings": {
             "textarea": "Arthrose & Schmerzreduktion",
-            "image_icon": "shopify:\/\/shop_images\/icon-gelenkschmerzen_146bdaf7-2a57-4608-8a0d-d96a29e797df.png"
+            "image_icon": "shopify://shop_images/icon-gelenkschmerzen_146bdaf7-2a57-4608-8a0d-d96a29e797df.png"
           }
         }
       },
       "block_order": [
         "19c2a87d-60b4-4b34-95aa-d198674d550c",
+        "icon_info_NnaE6q",
         "5364407d-5779-41e9-be2d-919159a6ea1b",
         "a8b070ae-a0bc-4c9f-8cb3-7065ea06493c",
         "b5343360-8659-4a04-863e-f0b6ab80df36"
@@ -339,9 +355,9 @@
         "info": "Du interessierst dich für einen gesunden Lifestyle und möchtest mehr über den Hintergrund der neuartigen Rotlicht-Therapie erfahren, dann besuche unseren Blog.",
         "zwischenheader": "Unterstützende Wirkungen einer regelmäßigen Lichttherapie",
         "button_label": "Zum Wissen-Blog",
-        "button_link": "shopify:\/\/blogs\/lichttherapie-blog",
-        "image_left": "shopify:\/\/shop_images\/man-icon-infolayer_401b1050-0942-44ce-b4e1-4a8dad8dbdab.webp",
-        "image_right": "shopify:\/\/shop_images\/icon-infolayer_bg_9e2bb297-3a19-4727-96df-1cd4c4f7f684.png"
+        "button_link": "shopify://blogs/lichttherapie-blog",
+        "image_left": "shopify://shop_images/man-icon-infolayer_401b1050-0942-44ce-b4e1-4a8dad8dbdab.webp",
+        "image_right": "shopify://shop_images/icon-infolayer_bg_9e2bb297-3a19-4727-96df-1cd4c4f7f684.png"
       }
     },
     "1636099310f13726c4": {
@@ -350,25 +366,25 @@
         "1636099310f13726c4-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/badge_garantie.png",
+            "image": "shopify://shop_images/badge_garantie.png",
             "title": "3-5 Jahre Qualitätsgarantie",
-            "text": "<p>Wir sind von der Qualität<br\/>unserer Leuchten so überzeugt, dass wir für unsere BIO Serie eine Garantie von 3 Jahren und für unsere PRO & PRO+ Serie sogar von 5 Jahren anbieten. Ganz ohne Extrakosten für dich. Die gesetzliche Gewährleistung von 2 Jahren ist davon unbenommen. Siehe unsere <a href=\"\/pages\/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Garantiebedingungen<\/a>.<br\/><br\/><\/p>"
+            "text": "<p>Wir sind von der Qualität<br/>unserer Leuchten so überzeugt, dass wir für unsere BIO Serie eine Garantie von 3 Jahren und für unsere PRO & PRO+ Serie sogar von 5 Jahren anbieten. Ganz ohne Extrakosten für dich. Die gesetzliche Gewährleistung von 2 Jahren ist davon unbenommen. Siehe unsere <a href=\"/pages/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Garantiebedingungen</a>.<br/><br/></p>"
           }
         },
         "1636099310f13726c4-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/badge_probe.png",
+            "image": "shopify://shop_images/badge_probe.png",
             "title": "2 Monate Probe Strahlen",
-            "text": "<p>Die Effekte unserer Leuchten in der Rotlichttherapie sprechen für sich. Wir glauben, dass du deine Leuchte bald nicht mehr missen möchtest, aber bieten dir eine 60-tägige Probezeit, um dich selbst von Qualität und Wirkung zu überzeugen. Siehe auch unsere <a href=\"\/pages\/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Rückgabebedingungen<\/a>.<\/p><p><\/p>"
+            "text": "<p>Die Effekte unserer Leuchten in der Rotlichttherapie sprechen für sich. Wir glauben, dass du deine Leuchte bald nicht mehr missen möchtest, aber bieten dir eine 60-tägige Probezeit, um dich selbst von Qualität und Wirkung zu überzeugen. Siehe auch unsere <a href=\"/pages/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Rückgabebedingungen</a>.</p><p></p>"
           }
         },
         "1636099310f13726c4-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/badge_lieferung.png",
+            "image": "shopify://shop_images/badge_lieferung.png",
             "title": "Kostenlose Lieferung",
-            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern jetzt auch an Adressen innerhalb der EU, hier entfällt eine faire Liefergebühr. Siehe auch unsere <a href=\"\/pages\/liefer-und-versandkosten\" title=\"Lieferbedingungen\">Lieferbedingungen<\/a>. <\/p><p><a href=\"\/pages\/liefer-und-versandkosten\" title=\"Lieferbedingungen\"><br\/><br\/><br\/><br\/><br\/><br\/><\/a><\/p>"
+            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern jetzt auch an Adressen innerhalb der EU, hier entfällt eine faire Liefergebühr. Siehe auch unsere <a href=\"/pages/liefer-und-versandkosten\" title=\"Lieferbedingungen\">Lieferbedingungen</a>. </p><p><a href=\"/pages/liefer-und-versandkosten\" title=\"Lieferbedingungen\"><br/><br/><br/><br/><br/><br/></a></p>"
           }
         }
       },
@@ -387,6 +403,22 @@
         "button_link": "",
         "swipe_on_mobile": true
       }
+    },
+    "17277729872d1dac7e": {
+      "type": "apps",
+      "blocks": {
+        "trusted_shops_easy_integration_review_carousel_Vtttmd": {
+          "type": "shopify://apps/trusted-shops-easy-integration/blocks/review-carousel/2ae4ab38-7eb9-4d62-abe3-d4a5f27cbef2",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "trusted_shops_easy_integration_review_carousel_Vtttmd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -398,6 +430,7 @@
     "16542652147d388790",
     "163645210085c341b2",
     "1636039719bcfe7a1a",
-    "1636099310f13726c4"
+    "1636099310f13726c4",
+    "17277729872d1dac7e"
   ]
 }
