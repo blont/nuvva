@@ -316,6 +316,7 @@
         },
         "icon_info_NnaE6q": {
           "type": "Icon-Info",
+          "disabled": true,
           "settings": {
             "textarea": ""
           }
