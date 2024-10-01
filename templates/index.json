@@ -410,6 +410,22 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "17277735428adf80fd": {
+      "type": "apps",
+      "blocks": {
+        "trusted_shops_easy_integration_review_carousel_ebRqqJ": {
+          "type": "shopify://apps/trusted-shops-easy-integration/blocks/review-carousel/2ae4ab38-7eb9-4d62-abe3-d4a5f27cbef2",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "trusted_shops_easy_integration_review_carousel_ebRqqJ"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -422,6 +438,7 @@
     "163645210085c341b2",
     "1636039719bcfe7a1a",
     "1636099310f13726c4",
-    "17277729872d1dac7e"
+    "17277729872d1dac7e",
+    "17277735428adf80fd"
   ]
 }
