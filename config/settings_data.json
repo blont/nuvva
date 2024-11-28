@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -25,12 +25,12 @@
     "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "outline-button",
     "page_width": "1200",
-    "social_facebook_link": "https:\/\/www.facebook.com\/nuuva.lichttherapie\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/nuuva_lichttherapie\/",
+    "social_facebook_link": "https://www.facebook.com/nuuva.lichttherapie/",
+    "social_instagram_link": "https://www.instagram.com/nuuva_lichttherapie/",
     "predictive_search_enabled": false,
-    "favicon": "shopify:\/\/shop_images\/signet-fav.png",
+    "favicon": "shopify://shop_images/signet-fav.png",
     "currency_code_enabled": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo-nuuva_CI.jpg",
+    "checkout_logo_image": "shopify://shop_images/logo-nuuva_CI.jpg",
     "checkout_logo_size": "small",
     "checkout_sidebar_background_color": "#f2efef",
     "checkout_accent_color": "#3b5acc",
@@ -38,14 +38,13 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/logo-nuuva_CI.jpg",
+          "logo": "shopify://shop_images/logo-nuuva_CI.jpg",
           "logo_width": 150,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -74,7 +73,7 @@
             "type": "text",
             "settings": {
               "heading": "Kontakt",
-              "subtext": "<p>Nuuva Lichttherapie GmbH<br\/>Brummelhorn 15b<br\/>22159 Hamburg<\/p><p>Telefon: +49 (0)40 2263 7366-0<br\/>E-Mail: siehe <a href=\"https:\/\/www.nuuva.de\/pages\/lichttherapie-kontaktseite\" title=\"https:\/\/www.nuuva.de\/pages\/lichttherapie-kontaktseite\">Kontaktformular<\/a><\/p>"
+              "subtext": "<p>Nuuva Lichttherapie GmbH<br/>Brummelhorn 15b<br/>22159 Hamburg</p><p>Telefon: +49 (0)40 2263 7366-0<br/>E-Mail: siehe <a href=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\" title=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\">Kontaktformular</a></p>"
             }
           }
         },
@@ -94,30 +93,25 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "18408366429334172745": {
-        "type": "shopify:\/\/apps\/pop-convert-pop-ups-banners\/blocks\/app-embed\/ed587aec-4936-43ae-a1b3-1c9e0d08f185",
+        "type": "shopify://apps/pop-convert-pop-ups-banners/blocks/app-embed/ed587aec-4936-43ae-a1b3-1c9e0d08f185",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "5134484470793087125": {
-        "type": "shopify:\/\/apps\/vitals\/blocks\/app-embed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "124348908681409149": {
-        "type": "shopify:\/\/apps\/simple-bundles-kits\/blocks\/simple-bundles-v2\/e553276b-36b2-446d-b80a-aa47fe5f96ac",
+        "type": "shopify://apps/simple-bundles-kits/blocks/simple-bundles-v2/e553276b-36b2-446d-b80a-aa47fe5f96ac",
         "disabled": false,
         "settings": {
           "select_placeholder": "Please select an option",
@@ -127,10 +121,14 @@
         }
       },
       "11853685111505846332": {
-        "type": "shopify:\/\/apps\/b2b-wholesale-pricing-forms\/blocks\/app-embeded\/658fafc9-ebc8-41ac-aa9b-57bf402459d6",
+        "type": "shopify://apps/b2b-wholesale-pricing-forms/blocks/app-embeded/658fafc9-ebc8-41ac-aa9b-57bf402459d6",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
+      },
+      "1884528899478270862": {
+        "type": "shopify://apps/shortly/blocks/app-embed/f8b85b17-5c26-444a-abdf-6ce2b3d1bdb0",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
@@ -159,8 +157,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
@@ -180,13 +177,11 @@
           "blocks": {
             "menu": {
               "type": "link_list",
-              "settings": {
-              }
+              "settings": {}
             },
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
