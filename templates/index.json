@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "9793e71e-d135-40c4-91d2-edc68ac4d029": {
@@ -173,8 +173,7 @@
         "68f5a530-891d-419d-82d3-346e96849f64",
         "fdbf9063-d0da-4ba2-b877-603f3d8dfea9"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "1635351417eb23c5e9": {
       "type": "hero",
@@ -416,8 +415,7 @@
       "blocks": {
         "trusted_shops_easy_integration_review_carousel_ebRqqJ": {
           "type": "shopify://apps/trusted-shops-easy-integration/blocks/review-carousel/2ae4ab38-7eb9-4d62-abe3-d4a5f27cbef2",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -425,6 +423,42 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "rich_text_awgiUR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jBz9hB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Haftungsausschluß",
+            "heading_size": "h2"
+          }
+        },
+        "text_yBf7wn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Produkte von Nuuva® Lichttherapie GmbH sind Wellnessprodukte und nicht zur Diagnose, Behandlung, Heilung oder Vorbeugung von Krankheiten gedacht. Alle Inhalte auf unserer Website dienen ausschließlich zur Information und ersetzen keine medizinische Beratung.</p><p>Bitte konsultiere vor der Anwendung unserer Produkte eine:n Arzt/Ärztin, insbesondere bei gesundheitlichen Beschwerden. In Notfällen wende dich sofort an eine medizinische Fachkraft. Wir geben keine Heilversprechen ab und garantieren keine individuellen Ergebnisse.</p>"
+          }
+        },
+        "button_pDAR3L": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jBz9hB",
+        "text_yBf7wn",
+        "button_pDAR3L"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     }
   },
@@ -439,6 +473,7 @@
     "1636039719bcfe7a1a",
     "1636099310f13726c4",
     "17277729872d1dac7e",
-    "17277735428adf80fd"
+    "17277735428adf80fd",
+    "rich_text_awgiUR"
   ]
 }
