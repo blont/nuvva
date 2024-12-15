@@ -64,32 +64,16 @@
         "164787513776b5b4fc-0": {
           "type": "column",
           "settings": {
-            "title": "Nuuva PRO+",
-            "text": "<p>Die Nuuva PRO+ Serien sind die fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die allerneuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die Nuuva PRO+ Modelle kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet.</p>"
-          }
-        },
-        "164787513776b5b4fc-1": {
-          "type": "column",
-          "settings": {
-            "title": "5 Wellenlängen",
-            "text": "<p>Diese Modelle kombinieren 5 leistungsstarke Lichtwellenlängen und verfügen über unser bestes Spektrum Multi+. Nuuva Multi+ hat eine perfekte Zusammenstellung der 5 bioaktivsten Wellenlängen im Rot und Nahinfrarot Bereich mit 630, 660nm (Rot) und 810, 830, 850nm (NIR).</p><p>Siehe auch den folgenden Artikel <a href=\"https://nuuva-de.myshopify.com/blogs/lichttherapie-blog/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden</a></p>"
-          }
-        },
-        "f9dcebb7-bf32-4105-a40f-7e1a3bd7ae16": {
-          "type": "column",
-          "settings": {
-            "title": "Daisy Chain",
-            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- /Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.</p>"
+            "title": "Rotlichttherapie der nächsten Generation",
+            "text": "<p>Fortschrittliche Rotlichttherapie mit 7 bioaktiven Wellenlängen<br/><br/>Die SMART+ Serie definiert Lichttherapie neu: </p><p>Mit innovativen Funktionen, erweitertem Farbspektrum und deutlich größeren Modellen bietet sie ein unschlagbares Preis-Leistungs-Verhältnis. Dank der höheren LED-Anzahl und einer optimierten Benutzerführung erzielen Sie maximale Ergebnisse – und das zu einem noch attraktiveren Preis als die Vorgängermodelle.<br/><br/>Ob kompakte Anwendungen mit der <strong>SMART+ 450</strong>, erweiterte Teilkörperbehandlungen mit der <strong>SMART+ 1350</strong> oder Ganzkörpertherapie mit der leistungsstarken <strong>SMART+ 2250</strong> – die SMART+ Serie bietet für jeden Bedarf die perfekte Lösung.<br/></p>"
           }
         }
       },
       "block_order": [
-        "164787513776b5b4fc-0",
-        "164787513776b5b4fc-1",
-        "f9dcebb7-bf32-4105-a40f-7e1a3bd7ae16"
+        "164787513776b5b4fc-0"
       ],
       "settings": {
-        "title": "Nuuva PRO+ Modelle mit 5 Wellenlängen",
+        "title": "SMART+ Serie",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
@@ -99,43 +83,99 @@
         "swipe_on_mobile": false
       }
     },
+    "multicolumn_E4tVB6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aDHRmD": {
+          "type": "column",
+          "settings": {
+            "title": "Fortschrittliche Rotlichttherapie mit 7 bioaktiven Wellenlängen",
+            "text": "<p><strong>Erweiterte Wellenlängen:</strong><br/>Neben Rot (630/660 nm) und NIR (810/830/850 nm) bietet die SMART+ Serie erstmals <strong>Grün (528 nm)</strong> und <strong>Gelb (590 nm)</strong> für noch vielseitigere Therapieanwendungen:</p><p><strong>Grün: </strong>Fördert Blutzirkulation, Muskelregeneration und Fettabbau.</p><p><strong>Gelb: </strong>Beruhigt gereizte Haut, reduziert Rötungen und unterstützt die Entgiftung.<br/><br/><strong>Optimierte Programme:</strong><br/>Mit 6 neu strukturierten Programmen deckt die SMART+ Serie alle wichtigen Therapieziele ab – von Fettverbrennung und Fitness bis zu Hautpflege, Entspannung und Entzündungshemmung. Durch die verbesserte Technologie erziele mit den voreingestellten  Programmen jetzt noch effizientere Ergebnisse.<br/><br/><strong>Verbesserte Bedienbarkeit:</strong><br/>Das neue <strong>seitlich angebrachte Display</strong> vergrößert die Bestrahlungsfläche erheblich, da das LED-Feld vollständig genutzt werden kann. Die intuitive Steuerung erfolgt per Touchscreen oder Fernbedienung – für maximalen Komfort und Flexibilität.<strong><br/><br/>Größere Modelle mit mehr LEDs:</strong><br/>Die SMART+ Serie ist insgesamt größer und verfügt über deutlich mehr LEDs als die SMART-Serie. So profitierst du von einer intensiveren Bestrahlung und einer erweiterten Anwendungsmöglichkeit – und das zum fast gleichen Preis!<br/>Ein echtes Highlight für Preisbewusste und Qualitätsliebhaber.<br/><br/><strong>Integrierte Ständer:</strong><br/>Alle SMART+ Modelle sind jetzt mit einem stabilen Standfuß ausgestattet – perfekt für flexible Anwendungen zu Hause oder in professionellen Umgebungen.<br/><br/><strong>Modernes Aluminiumgehäuse in Space Grey: </strong><br/>Hochwertige Verarbeitung trifft elegantes Design – robust und langlebig, ideal für den intensiven Einsatz.<strong><br/><br/>Energieeffizient und sicher:</strong><br/>EMF-frei, langlebig (über 100.000 Stunden) und optimiert für intensive Nutzung.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_aDHRmD"
+      ],
+      "settings": {
+        "title": "Neue Funktionen & Vorteile der SMART+ Serie",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "multicolumn_FmqiTe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GRz6JA": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+          }
+        },
+        "column_TnWRmV": {
+          "type": "column",
+          "settings": {
+            "title": "SMART+ 450",
+            "text": "<p>Kompakt, leicht und ideal für gezielte Anwendungen.<strong><br/></strong><br/><strong>Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand – bestelle jetzt deine SMART+ Leuchte!</strong></p>"
+          }
+        },
+        "column_eKqHLY": {
+          "type": "column",
+          "settings": {
+            "title": "SMART+1350",
+            "text": "<p>Vielseitig und flexibel für Teilkörperbehandlungen.</p>"
+          }
+        },
+        "column_BwDfyL": {
+          "type": "column",
+          "settings": {
+            "title": "SMART+ 2250",
+            "text": "<p>Leistungsstark und großflächig für Ganzkörperanwendungen</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_GRz6JA",
+        "column_TnWRmV",
+        "column_eKqHLY",
+        "column_BwDfyL"
+      ],
+      "settings": {
+        "title": "Finde das passende SMART+ Modell",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "ich will die SMART",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1647327909629c9879": {
       "type": "cta",
       "settings": {
-        "zwischenheader": "Nuuva Leuchten vergleichen",
-        "title": "PRO+ Serie Übersicht",
-        "infotext": "",
+        "zwischenheader": "",
+        "title": "",
+        "infotext": "Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand – bestelle jetzt deine SMART+ Leuchte!",
         "image_bg": "shopify://shop_images/interior-has-armchair-empty-white-wall.jpg",
         "link": "shopify://pages/proplus-serie-uebersicht",
         "linktext": "Zur Übersicht"
       }
     },
-    "163593723729661e2c": {
-      "type": "image-with-text",
-      "blocks": {
-        "163593723729661e2c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Double Chip LED"
-          }
-        },
-        "163593723729661e2c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte</p>"
-          }
-        }
-      },
-      "block_order": [
-        "163593723729661e2c-0",
-        "163593723729661e2c-1"
-      ],
+    "cta_yarTDm": {
+      "type": "cta",
       "settings": {
-        "image": "shopify://shop_images/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
-        "anchor": "",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
+        "zwischenheader": "",
+        "title": "Bestelle jetzt deine SMART+ Leuchte!",
+        "infotext": "Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand.",
+        "link": "",
+        "linktext": "ich will die SMART"
       }
     },
     "16359412341220a733": {
@@ -200,8 +240,10 @@
     "banner",
     "product-grid",
     "1647875137daadaf60",
+    "multicolumn_E4tVB6",
+    "multicolumn_FmqiTe",
     "1647327909629c9879",
-    "163593723729661e2c",
+    "cta_yarTDm",
     "16359412341220a733",
     "163593724891150a59"
   ]
