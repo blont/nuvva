@@ -103,7 +103,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "Bring mich zur SMART",
         "button_link": "",
         "swipe_on_mobile": false
       }
@@ -111,13 +111,6 @@
     "multicolumn_FmqiTe": {
       "type": "multicolumn",
       "blocks": {
-        "column_GRz6JA": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
-          }
-        },
         "column_TnWRmV": {
           "type": "column",
           "settings": {
@@ -138,13 +131,21 @@
             "title": "SMART+ 2250",
             "text": "<p>Leistungsstark und großflächig für Ganzkörperanwendungen</p>"
           }
+        },
+        "column_4DAKJd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SMART-450-4.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+          }
         }
       },
       "block_order": [
-        "column_GRz6JA",
         "column_TnWRmV",
         "column_eKqHLY",
-        "column_BwDfyL"
+        "column_BwDfyL",
+        "column_4DAKJd"
       ],
       "settings": {
         "title": "Finde das passende SMART+ Modell",
@@ -165,7 +166,7 @@
         "infotext": "Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand – bestelle jetzt deine SMART+ Leuchte!",
         "image_bg": "shopify://shop_images/interior-has-armchair-empty-white-wall.jpg",
         "link": "shopify://pages/proplus-serie-uebersicht",
-        "linktext": "Zur Übersicht"
+        "linktext": "zeige mir alle Leuchten der SMART"
       }
     },
     "cta_yarTDm": {
@@ -184,13 +185,13 @@
         "16359412341220a733-0": {
           "type": "heading",
           "settings": {
-            "heading": "3 Modelle in einem"
+            "heading": "SMART+ 450"
           }
         },
         "16359412341220a733-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Modelle der PRO+-Serie sind mit Deep Red, Nah Infrarot (NIR) und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten bieten dir die passende Behandlung für deine Haut.</p><p></p>"
+            "text": "<p>Kompakt, leicht und ideal für gezielte Anwendungen</p><p></p>"
           }
         }
       },
@@ -199,9 +200,9 @@
         "16359412341220a733-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/licht-erklaert.jpg",
+        "image": "shopify://shop_images/SMART-450-2.jpg",
         "anchor": "",
-        "height": "adapt",
+        "height": "contain",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
@@ -212,13 +213,13 @@
         "163593724891150a59-0": {
           "type": "heading",
           "settings": {
-            "heading": "Optimale Kühlung"
+            "heading": "SMART+ 1350"
           }
         },
         "163593724891150a59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.</p>"
+            "text": "<p>Vielseitig und flexibel für Teilkörperbehandlungen</p>"
           }
         }
       },
@@ -227,9 +228,9 @@
         "163593724891150a59-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/vent-erklaert.jpg",
+        "image": "shopify://shop_images/3_bd64ff87-dfea-4653-8b17-4017ca031cea.jpg",
         "anchor": "",
-        "height": "adapt",
+        "height": "contain",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
