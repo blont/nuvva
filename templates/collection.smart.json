@@ -234,6 +234,34 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "image_with_text_Gi7kt3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ARcY6t": {
+          "type": "heading",
+          "settings": {
+            "heading": "SMART+ 2250"
+          }
+        },
+        "text_ceDkUp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leistungsstark und großflächig für Ganzkörperanwendungen</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ARcY6t",
+        "text_ceDkUp"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SMART-450-2.jpg",
+        "anchor": "",
+        "height": "contain",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -246,6 +274,7 @@
     "1647327909629c9879",
     "cta_yarTDm",
     "16359412341220a733",
-    "163593724891150a59"
+    "163593724891150a59",
+    "image_with_text_Gi7kt3"
   ]
 }
