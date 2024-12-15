@@ -111,11 +111,19 @@
     "multicolumn_FmqiTe": {
       "type": "multicolumn",
       "blocks": {
+        "column_4DAKJd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SMART-450-4.jpg",
+            "title": "",
+            "text": ""
+          }
+        },
         "column_TnWRmV": {
           "type": "column",
           "settings": {
             "title": "SMART+ 450",
-            "text": "<p>Kompakt, leicht und ideal für gezielte Anwendungen.<strong><br/></strong><br/><strong>Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand – bestelle jetzt deine SMART+ Leuchte!</strong></p>"
+            "text": "<p>Ob kompakte Anwendungen mit der SMART+ 450, erweiterte Teilkörperbehandlungen mit der SMART+ 1350 oder Ganzkörpertherapie mit der leistungsstarken SMART+ 2250 – die SMART+ Serie bietet für jeden Bedarf die perfekte Lösung.<strong><br/></strong><br/><strong>Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand – bestelle jetzt deine SMART+ Leuchte!</strong></p>"
           }
         },
         "column_eKqHLY": {
@@ -131,21 +139,13 @@
             "title": "SMART+ 2250",
             "text": "<p>Leistungsstark und großflächig für Ganzkörperanwendungen</p>"
           }
-        },
-        "column_4DAKJd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/SMART-450-4.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
-          }
         }
       },
       "block_order": [
+        "column_4DAKJd",
         "column_TnWRmV",
         "column_eKqHLY",
-        "column_BwDfyL",
-        "column_4DAKJd"
+        "column_BwDfyL"
       ],
       "settings": {
         "title": "Finde das passende SMART+ Modell",
@@ -156,27 +156,6 @@
         "button_label": "ich will die SMART",
         "button_link": "",
         "swipe_on_mobile": false
-      }
-    },
-    "1647327909629c9879": {
-      "type": "cta",
-      "settings": {
-        "zwischenheader": "",
-        "title": "",
-        "infotext": "Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand – bestelle jetzt deine SMART+ Leuchte!",
-        "image_bg": "shopify://shop_images/interior-has-armchair-empty-white-wall.jpg",
-        "link": "shopify://pages/proplus-serie-uebersicht",
-        "linktext": "zeige mir alle Leuchten der SMART"
-      }
-    },
-    "cta_yarTDm": {
-      "type": "cta",
-      "settings": {
-        "zwischenheader": "",
-        "title": "Bestelle jetzt deine SMART+ Leuchte!",
-        "infotext": "Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand.",
-        "link": "",
-        "linktext": "ich will die SMART"
       }
     },
     "16359412341220a733": {
@@ -201,7 +180,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/SMART-450-2.jpg",
-        "anchor": "",
+        "anchor": "https://www.nuuva.de/products/smart-450-tischleuchte-mit-stand-1",
         "height": "contain",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -229,7 +208,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/3_bd64ff87-dfea-4653-8b17-4017ca031cea.jpg",
-        "anchor": "",
+        "anchor": "https://www.nuuva.de/products/smart-1350",
         "height": "contain",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -262,6 +241,16 @@
         "color_scheme": "background-1",
         "layout": "text_first"
       }
+    },
+    "cta_yarTDm": {
+      "type": "cta",
+      "settings": {
+        "zwischenheader": "",
+        "title": "Bestelle jetzt deine SMART+ Leuchte!",
+        "infotext": "Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand.",
+        "link": "",
+        "linktext": "ich will die SMART"
+      }
     }
   },
   "order": [
@@ -271,10 +260,9 @@
     "1647875137daadaf60",
     "multicolumn_E4tVB6",
     "multicolumn_FmqiTe",
-    "1647327909629c9879",
-    "cta_yarTDm",
     "16359412341220a733",
     "163593724891150a59",
-    "image_with_text_Gi7kt3"
+    "image_with_text_Gi7kt3",
+    "cta_yarTDm"
   ]
 }
