@@ -65,7 +65,7 @@
           "type": "column",
           "settings": {
             "title": "Rotlichttherapie der nächsten Generation",
-            "text": "<p>Mit innovativen Funktionen, erweitertem Farbspektrum und deutlich größeren Modellen bietet sie ein unschlagbares Preis-Leistungs-Verhältnis. Dank der höheren LED-Anzahl und einer optimierten Benutzerführung erzielen Sie maximale Ergebnisse – und das zu einem noch attraktiveren Preis als die Vorgängermodelle.</p>"
+            "text": "<p>Mit innovativen Funktionen, erweitertem Farbspektrum und deutlich größeren Modellen bietet sie ein unschlagbares Preis-Leistungs-Verhältnis. Dank der höheren LED-Anzahl und einer optimierten Benutzerführung erzielst du maximale Ergebnisse – und das zu einem noch attraktiveren Preis als die Vorgängermodelle.</p>"
           }
         }
       },
@@ -103,7 +103,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Bring mich zur SMART",
+        "button_label": "schnell zur SMART",
         "button_link": "",
         "swipe_on_mobile": false
       }
