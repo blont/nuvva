@@ -65,7 +65,7 @@
           "type": "column",
           "settings": {
             "title": "Rotlichttherapie der nächsten Generation",
-            "text": "<p>Fortschrittliche Rotlichttherapie mit 7 bioaktiven Wellenlängen<br/><br/>Die SMART+ Serie definiert Lichttherapie neu: </p><p>Mit innovativen Funktionen, erweitertem Farbspektrum und deutlich größeren Modellen bietet sie ein unschlagbares Preis-Leistungs-Verhältnis. Dank der höheren LED-Anzahl und einer optimierten Benutzerführung erzielen Sie maximale Ergebnisse – und das zu einem noch attraktiveren Preis als die Vorgängermodelle.<br/><br/>Ob kompakte Anwendungen mit der <strong>SMART+ 450</strong>, erweiterte Teilkörperbehandlungen mit der <strong>SMART+ 1350</strong> oder Ganzkörpertherapie mit der leistungsstarken <strong>SMART+ 2250</strong> – die SMART+ Serie bietet für jeden Bedarf die perfekte Lösung.<br/></p>"
+            "text": "<p>Mit innovativen Funktionen, erweitertem Farbspektrum und deutlich größeren Modellen bietet sie ein unschlagbares Preis-Leistungs-Verhältnis. Dank der höheren LED-Anzahl und einer optimierten Benutzerführung erzielen Sie maximale Ergebnisse – und das zu einem noch attraktiveren Preis als die Vorgängermodelle.</p>"
           }
         }
       },
@@ -114,7 +114,7 @@
         "column_4DAKJd": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/SMART-450-4.jpg",
+            "image": "shopify://shop_images/SMARTplus-modelle.jpg",
             "title": "",
             "text": ""
           }
@@ -122,30 +122,14 @@
         "column_TnWRmV": {
           "type": "column",
           "settings": {
-            "title": "SMART+ 450",
+            "title": "Rotlichttherapie der nächsten Generation",
             "text": "<p>Ob kompakte Anwendungen mit der SMART+ 450, erweiterte Teilkörperbehandlungen mit der SMART+ 1350 oder Ganzkörpertherapie mit der leistungsstarken SMART+ 2250 – die SMART+ Serie bietet für jeden Bedarf die perfekte Lösung.<strong><br/></strong><br/><strong>Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand – bestelle jetzt deine SMART+ Leuchte!</strong></p>"
-          }
-        },
-        "column_eKqHLY": {
-          "type": "column",
-          "settings": {
-            "title": "SMART+1350",
-            "text": "<p>Vielseitig und flexibel für Teilkörperbehandlungen.</p>"
-          }
-        },
-        "column_BwDfyL": {
-          "type": "column",
-          "settings": {
-            "title": "SMART+ 2250",
-            "text": "<p>Leistungsstark und großflächig für Ganzkörperanwendungen</p>"
           }
         }
       },
       "block_order": [
         "column_4DAKJd",
-        "column_TnWRmV",
-        "column_eKqHLY",
-        "column_BwDfyL"
+        "column_TnWRmV"
       ],
       "settings": {
         "title": "Finde das passende SMART+ Modell",
@@ -153,7 +137,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "ich will die SMART",
+        "button_label": "Bring mich zu den SMART Leuchten",
         "button_link": "",
         "swipe_on_mobile": false
       }
