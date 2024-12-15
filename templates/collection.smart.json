@@ -256,8 +256,8 @@
         "text_ceDkUp"
       ],
       "settings": {
-        "image": "shopify://shop_images/SMART-450-2.jpg",
-        "anchor": "",
+        "image": "shopify://shop_images/2.jpg",
+        "anchor": "https://www.nuuva.de/products/smart-2250",
         "height": "contain",
         "color_scheme": "background-1",
         "layout": "text_first"
