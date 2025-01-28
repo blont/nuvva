@@ -75,12 +75,28 @@
               "heading": "Kontakt",
               "subtext": "<p>Nuuva Lichttherapie GmbH<br/>Brummelhorn 15b<br/>22159 Hamburg</p><p>E-Mail: siehe <a href=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\" title=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\">Kontaktformular</a><br/>Telefon: +49 (0)40 2263 7366-0<br/>Mo-Fr: 9-17:00</p>"
             }
+          },
+          "text_gBxdw9": {
+            "type": "text",
+            "settings": {
+              "heading": "Haftungsausschluss",
+              "subtext": "<p>Die Produkte von Nuuva® Lichttherapie GmbH sind Wellnessprodukte und nicht zur Diagnose, Behandlung, Heilung oder Vorbeugung von Krankheiten gedacht. Alle Inhalte auf unserer Website dienen ausschließlich zur Information und ersetzen keine medizinische Beratung.</p>"
+            }
+          },
+          "text_mxCrN6": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": "<p></p><p>Bitte konsultiere vor der Anwendung unserer Produkte eine:n Arzt/Ärztin, insbesondere bei gesundheitlichen Beschwerden. In Notfällen wende dich sofort an eine medizinische Fachkraft. Wir geben keine Heilversprechen ab und garantieren keine individuellen Ergebnisse.</p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "925a9b9f-4239-485d-b274-fa994005fb03",
-          "footer-1"
+          "footer-1",
+          "text_gBxdw9",
+          "text_mxCrN6"
         ],
         "settings": {
           "color_scheme": "background-1",
