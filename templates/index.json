@@ -451,6 +451,36 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "newsletter_JkywVM": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_fzbKTd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Melde dich für unseren Newsletter an"
+          }
+        },
+        "paragraph_FrDaMA": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Lerne mehr über die Rotlichttherapie und bekomme die besten Angebote zuerst</p>"
+          }
+        },
+        "email_form_VGQdeM": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_fzbKTd",
+        "paragraph_FrDaMA",
+        "email_form_VGQdeM"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -465,6 +495,7 @@
     "1636099310f13726c4",
     "17277729872d1dac7e",
     "17277735428adf80fd",
-    "text_2spalten_FH8YVP"
+    "text_2spalten_FH8YVP",
+    "newsletter_JkywVM"
   ]
 }
