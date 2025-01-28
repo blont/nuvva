@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "1654268687b174f278": {
@@ -24,7 +33,7 @@
         "1654268687552f4160-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
+        "image": "shopify://shop_images/top_header_c6be07e4-3958-4668-8125-68fe927b6865.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
@@ -38,8 +47,7 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     },
     "1640180212a38cba54": {
       "type": "image-with-text",
@@ -53,7 +61,7 @@
         "1640180212d97d61f6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers angeregt.<br\/><\/p><p>Erfahre <a href=\"\/blogs\/lichttherapie-blog\" title=\"Nuuva Wissen-Blog\"><span style=\"text-decoration:underline\">hier<\/span><\/a> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohl­befinden zu verbessern.<\/p>"
+            "text": "<p>Bei der Rotlichttherapie werden spezielle Lichtwellenlängen ausgestrahlt und über die Haut vom Körper aufgenommen. Diese roten und nahinfraroten Lichtwellen können tiefer als anderes Licht in den Körper eindringen und deinen Zellen helfen, ihre Arbeit besser zu erledigen. Um alle Körperfunktionen zu ermöglichen, braucht unser Körper große Mengen an Energie und diese muss in den Zellen erzeugt werden. Die Rotlichttherapie hilft deinen Zellen, die Energieerzeugung zu erhöhen und damit ihre Funktion zu verbessern. Hierdurch werden natürliche Heilungs- und Regenerations­prozesse des Körpers angeregt.<br/></p><p>Erfahre <a href=\"/blogs/lichttherapie-blog\" title=\"Nuuva Wissen-Blog\"><span style=\"text-decoration:underline\">hier</span></a> mehr über die Forschung, wie die Rotlichttherapie funktioniert und warum unsere Nuuva Leuchten dir helfen können, Aussehen, Leistungsfähigkeit und allgemeines Wohl­befinden zu verbessern.</p>"
           }
         }
       },
@@ -62,7 +70,7 @@
         "1640180212d97d61f6-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/icon-infolayer_1.png",
+        "image": "shopify://shop_images/icon-infolayer_1.png",
         "anchor": "",
         "height": "small",
         "color_scheme": "background-1",
@@ -81,7 +89,7 @@
         "16401805930594bb75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Bei der Rotlichttherapie werden keine Medikamente oder chirurgische Eingriffe eingesetzt, sondern Licht, das auch in der Sonne vorkommt. <\/p><p>Rotlichtgeräte verwenden bestimmte Wellenlängen, die sich in Forschungen als besonders positiv für den Körper erwiesen haben und erzeugen so ein größeres Maß an \"bioaktivem“ Licht. Die Gefahr eines Sonnenbrandes besteht nicht, da keine UV-Strahlung abgegeben wird.<\/p>"
+            "text": "<p>Bei der Rotlichttherapie werden keine Medikamente oder chirurgische Eingriffe eingesetzt, sondern Licht, das auch in der Sonne vorkommt. </p><p>Rotlichtgeräte verwenden bestimmte Wellenlängen, die sich in Forschungen als besonders positiv für den Körper erwiesen haben und erzeugen so ein größeres Maß an \"bioaktivem“ Licht. Die Gefahr eines Sonnenbrandes besteht nicht, da keine UV-Strahlung abgegeben wird.</p>"
           }
         }
       },
@@ -90,7 +98,7 @@
         "16401805930594bb75-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/redlight-therapie-sicher-wie-sonnenlicht2_1.jpg",
+        "image": "shopify://shop_images/redlight-therapie-sicher-wie-sonnenlicht2_1.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -109,7 +117,7 @@
         "16401802894513de03-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Es gibt mittlerweile tausende von wissenschaftlichen Studien, die die positiven Wirkungen und Vorteile der Rotlichttherapie belegen. In der wissenschaftlichen Literatur wird diese Behandlung auch als Photobiomodulation (PBM) oder Low-Level- Licht- (Laser-) Therapie (LLLT) bezeichnet. <\/p><p>Sich hier einen Überblick zu verschaffen ist schwierig. Wir haben darum gängige Krankheiten oder Konditionen mit den erforschten  Wellenlängen im Rot- und Nahinfrarot Spektrum zwischen 600 und 1270nm verglichen und in einer Tabelle zusammengestellt. Du findest sie <a href=\"\/blogs\/lichttherapie-blog\/was-sagt-die-wissenschaft-eine-ubersicht-der-studien-zu-wellenlangen-in-der-rotlichttherapie-und-anwendungsgebiete-in-der-forschung\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">hier<\/a>.<\/p>"
+            "text": "<p>Es gibt mittlerweile tausende von wissenschaftlichen Studien, die die positiven Wirkungen und Vorteile der Rotlichttherapie belegen. In der wissenschaftlichen Literatur wird diese Behandlung auch als Photobiomodulation (PBM) oder Low-Level- Licht- (Laser-) Therapie (LLLT) bezeichnet. </p><p>Sich hier einen Überblick zu verschaffen ist schwierig. Wir haben darum gängige Krankheiten oder Konditionen mit den erforschten  Wellenlängen im Rot- und Nahinfrarot Spektrum zwischen 600 und 1270nm verglichen und in einer Tabelle zusammengestellt. Du findest sie <a href=\"/blogs/lichttherapie-blog/was-sagt-die-wissenschaft-eine-ubersicht-der-studien-zu-wellenlangen-in-der-rotlichttherapie-und-anwendungsgebiete-in-der-forschung\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">hier</a>.</p>"
           }
         }
       },
@@ -118,7 +126,7 @@
         "16401802894513de03-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/redlighttherpie-wissenschafltich_1.jpg",
+        "image": "shopify://shop_images/redlighttherpie-wissenschafltich_1.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -131,9 +139,39 @@
         "zwischenheader": "Besuche unsere FAQ's",
         "title": "Antworten auf deine Fragen",
         "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/pages\/faq-rotlichtleuchten",
+        "image_bg": "shopify://shop_images/cta-vitaPro-bg.jpg",
+        "link": "shopify://pages/faq-rotlichtleuchten",
         "linktext": "Weitere Infos hier"
+      }
+    },
+    "newsletter_R7yxbd": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_ybQKPF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Melde dich für unseren Newsletter an"
+          }
+        },
+        "paragraph_jzRQjX": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Lerne mehr über die Rotlichttherapie und bekomme die besten Angebote zuerst</p>"
+          }
+        },
+        "email_form_piHGKw": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_ybQKPF",
+        "paragraph_jzRQjX",
+        "email_form_piHGKw"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     }
   },
@@ -143,6 +181,7 @@
     "1640180212a38cba54",
     "16401805939eba5b05",
     "1640180289af14a199",
-    "164018720899d9b5c6"
+    "164018720899d9b5c6",
+    "newsletter_R7yxbd"
   ]
 }
