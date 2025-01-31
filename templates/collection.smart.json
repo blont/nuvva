@@ -235,6 +235,36 @@
         "link": "https://www.nuuva.de/collections/nuuva-smart-leuchten",
         "linktext": "ich will die SMART"
       }
+    },
+    "newsletter_AGQzF9": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_DhmArQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Melde dich für unseren Newsletter an"
+          }
+        },
+        "paragraph_nDMdBM": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Lerne mehr über die Rotlichttherapie und bekomme die besten Angebote zuerst</p>"
+          }
+        },
+        "email_form_fE4hND": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_DhmArQ",
+        "paragraph_nDMdBM",
+        "email_form_fE4hND"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -247,6 +277,7 @@
     "16359412341220a733",
     "163593724891150a59",
     "image_with_text_Gi7kt3",
-    "cta_yarTDm"
+    "cta_yarTDm",
+    "newsletter_AGQzF9"
   ]
 }
