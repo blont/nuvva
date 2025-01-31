@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "0ad3b56e-1314-4d6a-abd0-3d7b0c047268": {
@@ -13,7 +22,7 @@
         "template--15833755320548__0ad3b56e-1314-4d6a-abd0-3d7b0c047268-1666773259a663f9b3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wir sind im Urlaub: Auslieferung ab dem 5. November<\/strong><\/p>"
+            "text": "<p><strong>Wir sind im Urlaub: Auslieferung ab dem 5. November</strong></p>"
           }
         }
       },
@@ -56,21 +65,21 @@
           "type": "column",
           "settings": {
             "title": "Nuuva PRO+",
-            "text": "<p>Die Nuuva PRO+ Serien sind die fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die allerneuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die Nuuva PRO+ Modelle kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet.<\/p>"
+            "text": "<p>Die Nuuva PRO+ Serien sind die fortschrittlichsten LED-Lichttherapie Geräte für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die allerneuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die Nuuva PRO+ Modelle kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet.</p>"
           }
         },
         "164787513776b5b4fc-1": {
           "type": "column",
           "settings": {
             "title": "5 Wellenlängen",
-            "text": "<p>Diese Modelle kombinieren 5 leistungsstarke Lichtwellenlängen und verfügen über unser bestes Spektrum Multi+. Nuuva Multi+ hat eine perfekte Zusammenstellung der 5 bioaktivsten Wellenlängen im Rot und Nahinfrarot Bereich mit 630, 660nm (Rot) und 810, 830, 850nm (NIR).<\/p><p>Siehe auch den folgenden Artikel <a href=\"https:\/\/nuuva-de.myshopify.com\/blogs\/lichttherapie-blog\/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden<\/a><\/p>"
+            "text": "<p>Diese Modelle kombinieren 5 leistungsstarke Lichtwellenlängen und verfügen über unser bestes Spektrum Multi+. Nuuva Multi+ hat eine perfekte Zusammenstellung der 5 bioaktivsten Wellenlängen im Rot und Nahinfrarot Bereich mit 630, 660nm (Rot) und 810, 830, 850nm (NIR).</p><p>Siehe auch den folgenden Artikel <a href=\"https://nuuva-de.myshopify.com/blogs/lichttherapie-blog/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden</a></p>"
           }
         },
         "f9dcebb7-bf32-4105-a40f-7e1a3bd7ae16": {
           "type": "column",
           "settings": {
             "title": "Daisy Chain",
-            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br\/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- \/Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.<\/p>"
+            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- /Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.</p>"
           }
         }
       },
@@ -96,8 +105,8 @@
         "zwischenheader": "Nuuva Leuchten vergleichen",
         "title": "PRO+ Serie Übersicht",
         "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/interior-has-armchair-empty-white-wall.jpg",
-        "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
+        "image_bg": "shopify://shop_images/interior-has-armchair-empty-white-wall.jpg",
+        "link": "shopify://pages/proplus-serie-uebersicht",
         "linktext": "Zur Übersicht"
       }
     },
@@ -113,7 +122,7 @@
         "163593723729661e2c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte<\/p>"
+            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte</p>"
           }
         }
       },
@@ -122,7 +131,7 @@
         "163593723729661e2c-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
+        "image": "shopify://shop_images/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -141,7 +150,7 @@
         "16359412341220a733-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Modelle der PRO+-Serie sind mit Deep Red, Nah Infrarot (NIR) und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten bieten dir die passende Behandlung für deine Haut.<\/p><p><\/p>"
+            "text": "<p>Alle Modelle der PRO+-Serie sind mit Deep Red, Nah Infrarot (NIR) und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten bieten dir die passende Behandlung für deine Haut.</p><p></p>"
           }
         }
       },
@@ -150,7 +159,7 @@
         "16359412341220a733-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "image": "shopify://shop_images/licht-erklaert.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -169,7 +178,7 @@
         "163593724891150a59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.<\/p>"
+            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.</p>"
           }
         }
       },
@@ -178,11 +187,41 @@
         "163593724891150a59-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/vent-erklaert.jpg",
+        "image": "shopify://shop_images/vent-erklaert.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "newsletter_thRJTW": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_ERPcgV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Melde dich für unseren Newsletter an"
+          }
+        },
+        "paragraph_aJxNPe": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Lerne mehr über die Rotlichttherapie und bekomme die besten Angebote zuerst</p>"
+          }
+        },
+        "email_form_bmm3QW": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_ERPcgV",
+        "paragraph_aJxNPe",
+        "email_form_bmm3QW"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     }
   },
@@ -194,6 +233,7 @@
     "1647327909629c9879",
     "163593723729661e2c",
     "16359412341220a733",
-    "163593724891150a59"
+    "163593724891150a59",
+    "newsletter_thRJTW"
   ]
 }
