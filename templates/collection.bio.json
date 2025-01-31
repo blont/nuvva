@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "66273340-1a99-4a97-b097-3f56c0728899": {
@@ -6,7 +15,7 @@
         "template--15521800814820__66273340-1a99-4a97-b097-3f56c0728899-1666773595c4e2f9b0-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wir sind im Urlaub: Auslieferung ab dem 5. November<\/strong><\/p>"
+            "text": "<p><strong>Wir sind im Urlaub: Auslieferung ab dem 5. November</strong></p>"
           }
         }
       },
@@ -48,14 +57,14 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Wir sind sehr stolz, dir unsere neu überarbeitete und verbesserte Modellreihe der beliebten und bewährten Nuuva BIO Rotlichtleuchten vorstellen zu können. Wir haben das ursprüngliche Design aufgepeppt, dabei das Beste beibehalten und einige <strong>tolle Verbesserungen<\/strong> eingebaut.<br\/><br\/>Wie immer bieten unsere Nuuva BIO Leuchten eine super Bestrahlungsstärke zu einem echt <strong>fairen Preis<\/strong> und sind ideal für den Einstieg in die LED-Lichttherapie. Du kannst zwischen 50% Rotlicht mit 60nm und 50% NIR-Licht mit 850nm Wellenlänge wählen. Beide Wellenlängen kannst du separat ein- und ausschalten, um maximale Flexibilität zu haben, um die Konfiguration zu finden, die am besten zu deinen Therapiezielen passt. <\/p><p><\/p><p>Und <strong>jetzt das Neue<\/strong>: Die Bestrahlungsstärke ist noch stärker und du hast die Möglichkeit das Licht zu dimmen und zu pulsieren, so kannst du die Rotlichttherapie noch effektiver nutzen. <\/p><p><\/p><p><\/p>"
+            "text": "<p>Wir sind sehr stolz, dir unsere neu überarbeitete und verbesserte Modellreihe der beliebten und bewährten Nuuva BIO Rotlichtleuchten vorstellen zu können. Wir haben das ursprüngliche Design aufgepeppt, dabei das Beste beibehalten und einige <strong>tolle Verbesserungen</strong> eingebaut.<br/><br/>Wie immer bieten unsere Nuuva BIO Leuchten eine super Bestrahlungsstärke zu einem echt <strong>fairen Preis</strong> und sind ideal für den Einstieg in die LED-Lichttherapie. Du kannst zwischen 50% Rotlicht mit 60nm und 50% NIR-Licht mit 850nm Wellenlänge wählen. Beide Wellenlängen kannst du separat ein- und ausschalten, um maximale Flexibilität zu haben, um die Konfiguration zu finden, die am besten zu deinen Therapiezielen passt. </p><p></p><p>Und <strong>jetzt das Neue</strong>: Die Bestrahlungsstärke ist noch stärker und du hast die Möglichkeit das Licht zu dimmen und zu pulsieren, so kannst du die Rotlichttherapie noch effektiver nutzen. </p><p></p><p></p>"
           }
         },
         "16402499893a509840-1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Mit dem neuen, benutzerfreundlichen Touchdisplay mit Timer kannst du alles ganz leicht bedienen. Plus, jetzt kannst du die Leuchten zusammenhängen und größere Paneele erstellen - das Daisy-Chain Prinzip macht's möglich. Bis zu vier Leuchten lassen sich zusammen verkabeln und gemeinsam steuern.<br\/><br\/>Aber die guten alten Features sind auch noch dabei: Du kannst die Nuuva BIO Leuchten immer noch an dem beiliegenden Türhaken aufhängen und bei allen Modellen ist auch der beigefügte Flaschenzug dabei, um die Höhe der Bestrahlungsfläche anzupassen.<br\/><br\/>Wir sind sicher, dass unsere überarbeitete und verbesserte Modellreihe der Nuuva BIO Rotlichtleuchten eine echte <strong>Bereicherung <\/strong>für deine LED-Lichttherapie sein wird. Wir wünschen dir jetzt schon ganz viel Erfolg und Spaß beim Ausprobieren!<br\/><\/p>"
+            "text": "<p>Mit dem neuen, benutzerfreundlichen Touchdisplay mit Timer kannst du alles ganz leicht bedienen. Plus, jetzt kannst du die Leuchten zusammenhängen und größere Paneele erstellen - das Daisy-Chain Prinzip macht's möglich. Bis zu vier Leuchten lassen sich zusammen verkabeln und gemeinsam steuern.<br/><br/>Aber die guten alten Features sind auch noch dabei: Du kannst die Nuuva BIO Leuchten immer noch an dem beiliegenden Türhaken aufhängen und bei allen Modellen ist auch der beigefügte Flaschenzug dabei, um die Höhe der Bestrahlungsfläche anzupassen.<br/><br/>Wir sind sicher, dass unsere überarbeitete und verbesserte Modellreihe der Nuuva BIO Rotlichtleuchten eine echte <strong>Bereicherung </strong>für deine LED-Lichttherapie sein wird. Wir wünschen dir jetzt schon ganz viel Erfolg und Spaß beim Ausprobieren!<br/></p>"
           }
         }
       },
@@ -80,8 +89,8 @@
         "zwischenheader": "Produktinformationen",
         "title": "BIO Modelle vergleichen",
         "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "https:\/\/nuuva.de\/pages\/produktvergleich",
+        "image_bg": "shopify://shop_images/cta-vitaPro-bg.jpg",
+        "link": "https://nuuva.de/pages/produktvergleich",
         "linktext": "Jetzt vergleichen"
       }
     },
@@ -97,7 +106,7 @@
         "163593723729661e2c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Nuuva Leuchten nutzen doppelte LED Chips. Doppelchip LEDs verbrauchen weniger Strom, haben eine verbesserte<br\/>Strahlungsleistung [in W] und höhere Bestrahlungsstärke [in W\/cm²]. <\/p>"
+            "text": "<p>Alle Nuuva Leuchten nutzen doppelte LED Chips. Doppelchip LEDs verbrauchen weniger Strom, haben eine verbesserte<br/>Strahlungsleistung [in W] und höhere Bestrahlungsstärke [in W/cm²]. </p>"
           }
         }
       },
@@ -106,7 +115,7 @@
         "163593723729661e2c-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
+        "image": "shopify://shop_images/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -125,7 +134,7 @@
         "16359412341220a733-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Nuuva Leuchten sind mit Rotlicht, Nahinfrarot (NIR)-Licht und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten lassen sich per Schalter (BIO) oder Bedienfeld (PRO\/PRO+) auswählen und bieten dir die passende Behandlung für deine Zwecke.<\/p><p><\/p>"
+            "text": "<p>Alle Nuuva Leuchten sind mit Rotlicht, Nahinfrarot (NIR)-Licht und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten lassen sich per Schalter (BIO) oder Bedienfeld (PRO/PRO+) auswählen und bieten dir die passende Behandlung für deine Zwecke.</p><p></p>"
           }
         }
       },
@@ -134,7 +143,7 @@
         "16359412341220a733-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "image": "shopify://shop_images/licht-erklaert.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -153,7 +162,7 @@
         "163593724891150a59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Jedes Gerät kommt mit einem perfekt angepasstem Kühlsystem. Ohne ein angepasstes Temperaturmanagement können die LEDs zu heiß werden und durchbrennen. Die Kühlung und der Luftstrom sind entscheidend, damit deine Leuchte bei optimaler  Betriebstemperatur läuft. Für eine lange Lebenszeit und dass du dich lange an deiner Nuuva Rotlicht-Leuchte erfreuen kannst.<\/p>"
+            "text": "<p>Jedes Gerät kommt mit einem perfekt angepasstem Kühlsystem. Ohne ein angepasstes Temperaturmanagement können die LEDs zu heiß werden und durchbrennen. Die Kühlung und der Luftstrom sind entscheidend, damit deine Leuchte bei optimaler  Betriebstemperatur läuft. Für eine lange Lebenszeit und dass du dich lange an deiner Nuuva Rotlicht-Leuchte erfreuen kannst.</p>"
           }
         }
       },
@@ -162,11 +171,41 @@
         "163593724891150a59-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/vent-erklaert.jpg",
+        "image": "shopify://shop_images/vent-erklaert.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "newsletter_7j6JHq": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_mjgaWX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Melde dich für unseren Newsletter an"
+          }
+        },
+        "paragraph_3GcqQg": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Lerne mehr über die Rotlichttherapie und bekomme die besten Angebote zuerst</p>"
+          }
+        },
+        "email_form_dF4hJc": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_mjgaWX",
+        "paragraph_3GcqQg",
+        "email_form_dF4hJc"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     }
   },
@@ -178,6 +217,7 @@
     "1640248843d35e27a9",
     "163593723729661e2c",
     "16359412341220a733",
-    "163593724891150a59"
+    "163593724891150a59",
+    "newsletter_7j6JHq"
   ]
 }
