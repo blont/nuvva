@@ -478,6 +478,7 @@
         "paragraph_FrDaMA",
         "email_form_VGQdeM"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
