@@ -62,10 +62,10 @@
       "type": "cta",
       "settings": {
         "zwischenheader": "",
-        "title": "Bestelle jetzt deine SMART+ Leuchte!",
+        "title": "Bestelle jetzt deine Nuuva Leuchte!",
         "infotext": "Erlebe die nächste Generation der Rotlichttherapie mit maximaler Leistung und minimalem Aufwand.",
-        "link": "https://www.nuuva.de/collections/nuuva-smart-leuchten",
-        "linktext": "ich will die SMART"
+        "link": "shopify://collections",
+        "linktext": "ich will meine Nuuva"
       }
     },
     "newsletter_AGQzF9": {
