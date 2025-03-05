@@ -64,17 +64,6 @@
         "swipe_on_mobile": false
       }
     },
-    "1640248843d35e27a9": {
-      "type": "cta",
-      "settings": {
-        "zwischenheader": "Produktinformationen",
-        "title": "Alle Nuuva Leuchten",
-        "infotext": "",
-        "image_bg": "shopify://shop_images/cta-vitaPro-bg.jpg",
-        "link": "shopify://pages/serien-im-vergleich",
-        "linktext": "Modelle vergleichen"
-      }
-    },
     "1647967166a764255b": {
       "type": "collection-list",
       "blocks": {
@@ -110,13 +99,24 @@
         "image_padding": false,
         "show_view_all": false
       }
+    },
+    "1640248843d35e27a9": {
+      "type": "cta",
+      "settings": {
+        "zwischenheader": "Produktinformationen",
+        "title": "Alle Nuuva Leuchten",
+        "infotext": "",
+        "image_bg": "shopify://shop_images/cta-vitaPro-bg.jpg",
+        "link": "shopify://pages/serien-im-vergleich",
+        "linktext": "Modelle vergleichen"
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
     "16402499899b9c8652",
-    "1640248843d35e27a9",
-    "1647967166a764255b"
+    "1647967166a764255b",
+    "1640248843d35e27a9"
   ]
 }
