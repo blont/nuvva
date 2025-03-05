@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -29,14 +38,14 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Die Ständer erleichtern das Aufstellen der Nuuva Rotlichttherapie Leuchten und können zu den Leuchten dazu bestellt werden. <\/p><p>Für <strong>1 Leuchte <\/strong>der Nuuva <strong>SMART, PRO <\/strong>und <strong>PRO+<\/strong> Modelle eignet sich hier der <strong>Fuß <\/strong>ganz ausgezeichnet.<\/p><p>Wünscht du eine Optimierung und Vergrößerung deines Lichttherapie Set-Ups, kannst du dank des Nuuva Baukastensystems die Nuuva <strong>BIO-1, PRO<\/strong> und <strong>PRO+<\/strong> Leuchten mit weiteren Geräten ihrer Modellreihe kombinieren. <\/p><p><\/p>"
+            "text": "<p>Die Ständer erleichtern das Aufstellen der Nuuva Rotlichttherapie Leuchten und können zu den Leuchten dazu bestellt werden. </p><p>Für <strong>1 Leuchte </strong>der Nuuva <strong>SMART, PRO </strong>und <strong>PRO+</strong> Modelle eignet sich hier der <strong>Fuß </strong>ganz ausgezeichnet.</p><p>Wünscht du eine Optimierung und Vergrößerung deines Lichttherapie Set-Ups, kannst du dank des Nuuva Baukastensystems die Nuuva <strong>BIO-1, PRO</strong> und <strong>PRO+</strong> Leuchten mit weiteren Geräten ihrer Modellreihe kombinieren. </p><p></p>"
           }
         },
         "16402499893a509840-1": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Du kannst <strong>1-4 Leuchten<\/strong> pro Ständer montieren.<\/p><p><\/p><p>Bei Nuuva <strong>BIO-1,<\/strong> <strong>PRO<\/strong> und <strong>PRO+<\/strong> werden die Leuchten mittels Daisy-Chain so miteinander verbunden, dass du sämtliche Geräte von einer Leuchte betreiben und steuern kannst.<\/p><p><\/p><p>Bitte beachte, dass die Abmessungen der Leuchten, die übereinander montiert werden, in der Breite und Leuchten, die nebeneinander montiert werden in der Höhe übereinstimmen müssen.<\/p>"
+            "text": "<p>Du kannst <strong>1-4 Leuchten</strong> pro Ständer montieren.</p><p></p><p>Bei Nuuva <strong>BIO-1,</strong> <strong>PRO</strong> und <strong>PRO+</strong> werden die Leuchten mittels Daisy-Chain so miteinander verbunden, dass du sämtliche Geräte von einer Leuchte betreiben und steuern kannst.</p><p></p><p>Bitte beachte, dass die Abmessungen der Leuchten, die übereinander montiert werden, in der Breite und Leuchten, die nebeneinander montiert werden in der Höhe übereinstimmen müssen.</p>"
           }
         }
       },
@@ -61,8 +70,8 @@
         "zwischenheader": "Produktinformationen",
         "title": "Alle Nuuva Leuchten",
         "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/pages\/serien-im-vergleich",
+        "image_bg": "shopify://shop_images/cta-vitaPro-bg.jpg",
+        "link": "shopify://pages/serien-im-vergleich",
         "linktext": "Modelle vergleichen"
       }
     },
@@ -72,7 +81,7 @@
         "16479671667ea4cbe1-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bio"
+            "collection": "bio-1"
           }
         },
         "16479671667ea4cbe1-1": {
