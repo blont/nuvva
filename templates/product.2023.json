@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "subtitle": {
           "type": "text",
@@ -26,8 +25,7 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -42,19 +40,16 @@
           }
         },
         "vitals_payment_logos_4XjGpn": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/payment-logos\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "type": "shopify://apps/vitals/blocks/payment-logos/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
         },
         "vitals_trust_jiy3rF": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -84,9 +79,8 @@
       "type": "apps",
       "blocks": {
         "vitals_ub_product_bundles_xBRptJ": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/ub-product-bundles\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "type": "shopify://apps/vitals/blocks/ub-product-bundles/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -114,8 +108,8 @@
         "zwischenheader": "",
         "title": "Produkte vergleichen",
         "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/interior-has-armchair-empty-white-wall_9e6b7c80-65eb-46a6-b3b6-e1de38aee2e2.jpg",
-        "link": "https:\/\/www.nuuva.de\/collections\/all",
+        "image_bg": "shopify://shop_images/interior-has-armchair-empty-white-wall_9e6b7c80-65eb-46a6-b3b6-e1de38aee2e2.jpg",
+        "link": "shopify://collections/alle-produkte",
         "linktext": "Mehr ansehen"
       }
     }
