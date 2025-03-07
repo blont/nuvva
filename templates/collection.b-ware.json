@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -29,21 +38,21 @@
           "type": "column",
           "settings": {
             "title": "NuuvaPRO",
-            "text": "<p>Die NuuvaPRO Modelle sind eine der fortschrittlichsten LED-Lichttherapie Leuchten für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO Leuchten kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet. <\/p>"
+            "text": "<p>Die NuuvaPRO Modelle sind eine der fortschrittlichsten LED-Lichttherapie Leuchten für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO Leuchten kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet. </p>"
           }
         },
         "164787513776b5b4fc-1": {
           "type": "column",
           "settings": {
             "title": "2 Wellenlängen",
-            "text": "<p>-<strong>NuuvaPRO <\/strong>besitzt unser Spektrum R|NIR+, dass eine sehr wirkungsvolle Mischung aus rotem Licht mit 660nm und nahinfrarotem Licht mit 850nm Wellenlänge nutzt.<\/p><p><\/p><p>Diese Wellenlängen sind in zahlreichen wissenschaftlichen Studien als sehr wirkungsvoll für eine Vielzahl von Konditionen ermitelt worden.<\/p><p><\/p><p>Siehe auch den folgenden Artikel <a href=\"\/blogs\/lichttherapie-blog\/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden<\/a><\/p>"
+            "text": "<p>-<strong>NuuvaPRO </strong>besitzt unser Spektrum R|NIR+, dass eine sehr wirkungsvolle Mischung aus rotem Licht mit 660nm und nahinfrarotem Licht mit 850nm Wellenlänge nutzt.</p><p></p><p>Diese Wellenlängen sind in zahlreichen wissenschaftlichen Studien als sehr wirkungsvoll für eine Vielzahl von Konditionen ermitelt worden.</p><p></p><p>Siehe auch den folgenden Artikel <a href=\"/blogs/lichttherapie-blog/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden</a></p>"
           }
         },
         "7dde97ac-44ac-490f-b7b1-2d01cad31cd6": {
           "type": "column",
           "settings": {
             "title": "Daisy Chain",
-            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br\/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- \/Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.<\/p>"
+            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- /Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.</p>"
           }
         }
       },
@@ -69,8 +78,8 @@
         "zwischenheader": "Produktinformation",
         "title": "PRO Modelle vergleichen",
         "infotext": "",
-        "image_bg": "shopify:\/\/shop_images\/interior-has-armchair-empty-white-wall.jpg",
-        "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
+        "image_bg": "shopify://shop_images/interior-has-armchair-empty-white-wall.jpg",
+        "link": "shopify://pages/proplus-serie-uebersicht",
         "linktext": "zur Übersicht"
       }
     },
@@ -86,7 +95,7 @@
         "163593723729661e2c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte<\/p>"
+            "text": "<p>Alle Nuuva Produkte nutzen doppelte LED Chips für höhere Strahlkraft und ausgewogene Bestrahlungs&shy;dichte</p>"
           }
         }
       },
@@ -95,7 +104,7 @@
         "163593723729661e2c-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
+        "image": "shopify://shop_images/lounge-doppeclChip-erklaert_a1149329-131b-4c70-9e54-0b5fb15bc3c0.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -114,7 +123,7 @@
         "16359412341220a733-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Alle Modelle der PRO-Serie sind mit Deep Red, Nah Infrarot (NIR) und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten bieten dir die passende Behandlung für deine Haut.<\/p><p><\/p>"
+            "text": "<p>Alle Modelle der PRO-Serie sind mit Deep Red, Nah Infrarot (NIR) und Kombi+ ausgerüstet. Diese 3 Bestrahlungsarten bieten dir die passende Behandlung für deine Haut.</p><p></p>"
           }
         }
       },
@@ -123,7 +132,7 @@
         "16359412341220a733-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/licht-erklaert.jpg",
+        "image": "shopify://shop_images/licht-erklaert.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -142,7 +151,7 @@
         "163593724891150a59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.<\/p>"
+            "text": "<p>Jedes Gerät kommt mit einem perfekt, angepaßtem Kühlsystem - damit nichts heiß werden kann.</p>"
           }
         }
       },
@@ -151,7 +160,7 @@
         "163593724891150a59-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ventilatoren-erklaert.jpg",
+        "image": "shopify://shop_images/ventilatoren-erklaert.jpg",
         "anchor": "",
         "height": "adapt",
         "color_scheme": "background-1",
