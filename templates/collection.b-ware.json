@@ -63,7 +63,7 @@
         "column_X4FHiV": {
           "type": "column",
           "settings": {
-            "title": "Jetzt B-Ware entdecken und sparen!",
+            "title": "",
             "text": "<p>Es gilt das gesetzliche <strong>14-tägige Widerrufsrecht</strong> – die übliche 2-monatige Testphase entfällt.</p>"
           }
         }
@@ -71,6 +71,7 @@
       "block_order": [
         "column_X4FHiV"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "image_width": "full",
@@ -80,6 +81,33 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
+      }
+    },
+    "text_2spalten_aKBMVe": {
+      "type": "text-2spalten",
+      "blocks": {
+        "heading_3EkfCc": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "text_fzFCGA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gilt das gesetzliche <strong>14-tägige Widerrufsrecht</strong> – die übliche 2-monatige Testphase entfällt.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3EkfCc",
+        "text_fzFCGA"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "product-grid": {
@@ -197,6 +225,7 @@
     "banner",
     "1647875137daadaf60",
     "multicolumn_F7PN4k",
+    "text_2spalten_aKBMVe",
     "product-grid",
     "1647327909629c9879",
     "163593723729661e2c",
