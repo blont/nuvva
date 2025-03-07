@@ -22,20 +22,28 @@
         "column_KJQkeR": {
           "type": "column",
           "settings": {
-            "title": "Unsere B-Ware-Kollektion",
-            "text": "<p>bietet dir die Möglichkeit, hochwertige Nuuva-Lichttherapiegeräte zu einem reduzierten Preis zu erwerben. Alle Geräte in dieser Kategorie wurden sorgfältig geprüft, gegebenenfalls repariert und technisch freigegeben.<br/><br/><strong>Welche B-Ware-Kategorien gibt es?</strong><br/><br/><strong>Neuwertig</strong>: Ungenutzte Geräte, die repariert und geprüft wurden, z. B. aufgrund kleinerer Mängel bei der Erstlieferung.<br/><br/><strong>Gebraucht</strong>: Geräte, die innerhalb der Testphase zurückgegeben wurden. Sie sind voll funktionsfähig, können jedoch Gebrauchsspuren aufweisen.<br/><br/><strong>Beschädigt (Gehäuse)</strong>: Geräte mit Transport- oder Lagerschäden. Sie haben rein optische Mängel wie Kratzer oder Dellen am Gehäuse – sind technisch jedoch einwandfrei.<br/><br/><strong>Jetzt B-Ware entdecken und sparen!</strong></p>"
+            "title": "",
+            "text": "<p><strong>Unsere B-Ware-Kollektion <br/></strong>bietet dir die Möglichkeit, hochwertige Nuuva-Lichttherapiegeräte zu einem reduzierten Preis zu erwerben. Alle Geräte in dieser Kategorie wurden sorgfältig geprüft, gegebenenfalls repariert und technisch freigegeben.<br/><br/><strong>Warum B-Ware kaufen?<br/><br/></strong>Volle Funktionalität: Alle Geräte sind geprüft und voll einsatzbereit.<br/>Nachhaltigkeit: Durch die Nutzung von B-Ware verlängerst du den Lebenszyklus der Produkte.<br/>Attraktive Preisvorteile: Spare bis zu 40% im Vergleich zum Neupreis.<br/><br/><br/></p>"
+          }
+        },
+        "column_mB8UzN": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Welche B-Ware-Kategorien gibt es?</strong><br/><br/><strong>Neuwertig</strong>: Ungenutzte Geräte, die repariert und geprüft wurden, z. B. aufgrund kleinerer Mängel bei der Erstlieferung.<br/><br/><strong>Gebraucht</strong>: Geräte, die innerhalb der Testphase zurückgegeben wurden. Sie sind voll funktionsfähig, können jedoch Gebrauchsspuren aufweisen.<strong><br/><br/>Beschädigt (Gehäuse)</strong>: Geräte mit Transport- oder Lagerschäden. Sie haben rein optische Mängel wie Kratzer oder Dellen am Gehäuse – sind technisch jedoch einwandfrei.<br/><br/></p>"
           }
         },
         "column_wWT34D": {
           "type": "column",
           "settings": {
-            "title": "Warum B-Ware kaufen?",
-            "text": "<p>Volle Funktionalität: Alle Geräte sind geprüft und voll einsatzbereit.<br/>Nachhaltigkeit: Durch die Nutzung von B-Ware verlängerst du den Lebenszyklus der Produkte.<br/>Attraktive Preisvorteile: Spare bis zu 40% im Vergleich zum Neupreis.<br/><br/><strong>Garantie & Rückgabe</strong><br/><br/>Alle B-Ware-Produkte verfügen über eine Garantie, jedoch mit angepassten Bedingungen.<br/>Da es sich um reduzierte Produkte handelt, bieten wir im Garantiefall eine Reparatur an. Sollte eine Reparatur nicht möglich sein, erfolgt eine Rückerstattung des Kaufpreises.<br/><br/><strong>Neuwertige B-Ware:</strong> Volle Garantiezeit wie bei Neuware.<br/><strong>Gebrauchte B-Ware:</strong> Verkürzte Garantiezeit (siehe jeweilige Produktbeschreibung).<br/><strong>Beschädigte B-Ware (Gehäuseschäden):</strong> Volle Garantiezeit wie bei Neuware.<br/><br/>Es gilt das gesetzliche <strong>14-tägige Widerrufsrecht</strong> – die übliche 2-monatige Testphase entfällt.</p>"
+            "title": "",
+            "text": "<p><strong>Garantie & Rückgabe</strong><br/><br/>Alle B-Ware-Produkte verfügen über eine Garantie, jedoch mit angepassten Bedingungen.<br/>Da es sich um reduzierte Produkte handelt, bieten wir im Garantiefall eine Reparatur an. Sollte eine Reparatur nicht möglich sein, erfolgt eine Rückerstattung des Kaufpreises.<br/><br/><strong>Neuwertige B-Ware:</strong> Volle Garantiezeit wie bei Neuware.<br/><strong>Gebrauchte B-Ware:</strong> Verkürzte Garantiezeit (siehe jeweilige Produktbeschreibung).<br/><strong>Beschädigte B-Ware (Gehäuseschäden):</strong> Volle Garantiezeit wie bei Neuware.</p>"
           }
         }
       },
       "block_order": [
         "column_KJQkeR",
+        "column_mB8UzN",
         "column_wWT34D"
       ],
       "settings": {
@@ -43,6 +51,31 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "multicolumn_F7PN4k": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_X4FHiV": {
+          "type": "column",
+          "settings": {
+            "title": "Jetzt B-Ware entdecken und sparen!",
+            "text": "<p>Es gilt das gesetzliche <strong>14-tägige Widerrufsrecht</strong> – die übliche 2-monatige Testphase entfällt.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_X4FHiV"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
@@ -163,6 +196,7 @@
   "order": [
     "banner",
     "1647875137daadaf60",
+    "multicolumn_F7PN4k",
     "product-grid",
     "1647327909629c9879",
     "163593723729661e2c",
