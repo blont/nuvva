@@ -16,6 +16,31 @@
         "show_collection_image": true
       }
     },
+    "1647875137daadaf60": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_wWT34D": {
+          "type": "column",
+          "settings": {
+            "title": "Geprüfte Qualität zu reduzierten Preisen",
+            "text": "<p>Unsere B-Ware-Kollektion bietet dir die Möglichkeit, hochwertige Nuuva-Lichttherapiegeräte zu einem reduzierten Preis zu erwerben. Alle Geräte in dieser Kategorie wurden sorgfältig geprüft, gegebenenfalls repariert und technisch freigegeben.<br/><br/><strong>Welche B-Ware-Kategorien gibt es?</strong><br/><br/>Neuwertig: Ungenutzte Geräte, die repariert und geprüft wurden, z. B. aufgrund kleinerer Mängel bei der Erstlieferung.<br/>Gebraucht: Geräte, die von Kund:innen innerhalb der Testphase zurückgegeben wurden. Sie sind voll funktionsfähig, können jedoch Gebrauchsspuren aufweisen.<br/>Beschädigt (Gehäuse): Geräte mit rein optischen Mängeln wie Kratzern oder Dellen am Gehäuse – technisch jedoch einwandfrei.<br/><br/><strong>Warum B-Ware kaufen?</strong><br/><br/>Volle Funktionalität: Alle Geräte sind geprüft und voll einsatzbereit.<br/>Nachhaltigkeit: Durch die Nutzung von B-Ware verlängerst du den Lebenszyklus der Produkte.<br/>Attraktive Preisvorteile: Spare bis zu 40% im Vergleich zum Neupreis.<br/><br/><strong>Garantie & Rückgabe</strong><br/><br/>Alle B-Ware-Produkte haben den vollen Garantiezeitraum, jedoch mit angepassten Bedingungen (keine 1:1-Austauschoption).<br/>Es gilt das gesetzliche 14-tägige Widerrufsrecht – die übliche 2-monatige Testphase entfällt.<br/><br/><strong>Jetzt B-Ware entdecken und sparen!</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_wWT34D"
+      ],
+      "settings": {
+        "title": "Nuuva B-Ware",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -29,47 +54,6 @@
         "enable_filtering": true,
         "enable_sorting": false,
         "collapse_on_larger_devices": false
-      }
-    },
-    "1647875137daadaf60": {
-      "type": "multicolumn",
-      "blocks": {
-        "164787513776b5b4fc-0": {
-          "type": "column",
-          "settings": {
-            "title": "NuuvaPRO",
-            "text": "<p>Die NuuvaPRO Modelle sind eine der fortschrittlichsten LED-Lichttherapie Leuchten für den Hausgebrauch auf dem Markt. In die Entwicklung dieser Leuchten sind die neuesten wissenschaftlichen und technologischen Erkenntnisse eingeflossen. Die NuuvaPRO Leuchten kombinieren leistungsstarke LED-Lampen mit den Lichtwellenlängen, die die beste Pflege deiner Gesundheit nach letzten wissenschaftlichen Erkenntnissen gewährleistet. </p>"
-          }
-        },
-        "164787513776b5b4fc-1": {
-          "type": "column",
-          "settings": {
-            "title": "2 Wellenlängen",
-            "text": "<p>-<strong>NuuvaPRO </strong>besitzt unser Spektrum R|NIR+, dass eine sehr wirkungsvolle Mischung aus rotem Licht mit 660nm und nahinfrarotem Licht mit 850nm Wellenlänge nutzt.</p><p></p><p>Diese Wellenlängen sind in zahlreichen wissenschaftlichen Studien als sehr wirkungsvoll für eine Vielzahl von Konditionen ermitelt worden.</p><p></p><p>Siehe auch den folgenden Artikel <a href=\"/blogs/lichttherapie-blog/rotlichttherapie-studien\" target=\"_blank\" title=\"Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden\">Rotlichttherapie, was sagt die Wissenschaft: Studien zu Wellenlängen und Beschwerden</a></p>"
-          }
-        },
-        "7dde97ac-44ac-490f-b7b1-2d01cad31cd6": {
-          "type": "column",
-          "settings": {
-            "title": "Daisy Chain",
-            "text": "<p>PRO und PRO+ bieten eine volldigitale Steuerung mit<br/>eingebauter Zeitschaltuhr. Durch die Nuuva spezifischen Montage- /Standoptionen im Baukastenprinzip gibt es die Möglichkeit mehrere Paneele miteinander zu einer größeren Anwendungsfläche zu verbinden. Individuelle Größen können berücksichtigt werden und du kannst dein ideales Lichttherapie-Setup aufbauen. Dank der Daisy Chain Schaltung ist die Bedienung deines Lichttherapie-Setup‘s sehr komfortabel. Die Leuchten sind in Reihe geschaltet und von einem Gerät aus gemeinsam zu bedienen und zu steuern.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "164787513776b5b4fc-0",
-        "164787513776b5b4fc-1",
-        "7dde97ac-44ac-490f-b7b1-2d01cad31cd6"
-      ],
-      "settings": {
-        "title": "Nuuva PRO Modelle",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "1647327909629c9879": {
@@ -170,8 +154,8 @@
   },
   "order": [
     "banner",
-    "product-grid",
     "1647875137daadaf60",
+    "product-grid",
     "1647327909629c9879",
     "163593723729661e2c",
     "16359412341220a733",
