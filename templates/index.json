@@ -384,7 +384,7 @@
           "settings": {
             "image": "shopify://shop_images/badge_lieferung.png",
             "title": "Kostenlose Lieferung",
-            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern jetzt auch an Adressen innerhalb der EU, hier entfällt eine faire Liefergebühr. Siehe auch unsere <a href=\"/pages/liefer-und-versandkosten\" title=\"Lieferbedingungen\">Lieferbedingungen</a>. </p><p><a href=\"/pages/liefer-und-versandkosten\" title=\"Lieferbedingungen\"><br/><br/><br/><br/><br/><br/></a></p>"
+            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern jetzt auch an Adressen innerhalb der EU, hier entfällt eine faire Liefergebühr. Siehe auch unsere <a href=\"/pages/versand\" target=\"_blank\" title=\"Liefer- und Versandkosten\">Lieferbedingungen</a>. </p><p><a href=\"/pages/liefer-und-versandkosten\" title=\"Lieferbedingungen\"><br/><br/><br/><br/><br/><br/></a></p>"
           }
         }
       },
