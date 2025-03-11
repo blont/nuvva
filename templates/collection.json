@@ -102,12 +102,12 @@
     "164328154679720f26": {
       "type": "cta",
       "settings": {
-        "zwischenheader": "Rotlicht Therapie",
-        "title": "Hast du noch eine Frage?",
+        "zwischenheader": "FOKUS Lampen",
+        "title": "FOKUS Modelle Übersicht",
         "infotext": "",
         "image_bg": "shopify://shop_images/cta-vitaPro-bg.jpg",
-        "link": "shopify://pages/faq-rotlichtleuchten",
-        "linktext": "Unsere Antworten"
+        "link": "shopify://pages/fokus-ubersicht",
+        "linktext": "Vergleiche unsere FOKUS"
       }
     },
     "newsletter_ypVewQ": {
