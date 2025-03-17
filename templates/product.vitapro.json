@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,8 +14,7 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "subtitle": {
           "type": "text",
@@ -26,8 +25,7 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -42,14 +40,12 @@
           }
         },
         "vitals_trust_yJb6da": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/trust\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "type": "shopify://apps/vitals/blocks/trust/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "share": {
           "type": "share",
@@ -78,9 +74,8 @@
       "type": "apps",
       "blocks": {
         "vitals_ub_product_bundles_6ngNrk": {
-          "type": "shopify:\/\/apps\/vitals\/blocks\/ub-product-bundles\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
+          "type": "shopify://apps/vitals/blocks/ub-product-bundles/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -95,10 +90,10 @@
       "settings": {
         "zwischenheader": "Nuuva Vielfalt entdecken",
         "title": "Unsere PRO+ Kollektion",
-        "infotext": "Vergleiche unserer PRO+ Leuchten",
-        "image_bg": "shopify:\/\/shop_images\/cta-vitaPro-bg.jpg",
-        "link": "shopify:\/\/pages\/proplus-serie-uebersicht",
-        "linktext": "Zur Übersicht"
+        "infotext": "Eine Übersicht unserer PRO+ Leuchten",
+        "image_bg": "shopify://shop_images/cta-vitaPro-bg.jpg",
+        "link": "shopify://pages/proplus-serie-uebersicht",
+        "linktext": "Zum Vergleich der PRO+ Modelle"
       }
     },
     "product-recommendations": {
