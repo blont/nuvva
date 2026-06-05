@@ -419,12 +419,6 @@
         "swipe_on_mobile": true
       }
     },
-    "17277729872d1dac7e": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "text_2spalten_FH8YVP": {
       "type": "text-2spalten",
       "blocks": {
@@ -500,6 +494,20 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "multicolumn_pjqUky": {
+      "type": "multicolumn",
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Kaufvertrag Widerruf",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
@@ -513,9 +521,9 @@
     "163645210085c341b2",
     "1636039719bcfe7a1a",
     "1636099310f13726c4",
-    "17277729872d1dac7e",
     "text_2spalten_FH8YVP",
     "newsletter_JkywVM",
-    "1780666764c42b5b5e"
+    "1780666764c42b5b5e",
+    "multicolumn_pjqUky"
   ]
 }
