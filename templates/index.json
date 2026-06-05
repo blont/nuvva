@@ -480,6 +480,7 @@
     },
     "multicolumn_pjqUky": {
       "type": "multicolumn",
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
