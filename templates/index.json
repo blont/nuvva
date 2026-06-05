@@ -478,25 +478,9 @@
         "full_width": true
       }
     },
-    "1780666764c42b5b5e": {
-      "type": "apps",
-      "blocks": {
-        "easyreturns_widerruf_LL88q7": {
-          "type": "shopify://apps/easyreturns/blocks/widerruf/019cb339-d80c-79ab-9947-7e6f794cfa38",
-          "settings": {
-            "text": "Kauf widerrufen"
-          }
-        }
-      },
-      "block_order": [
-        "easyreturns_widerruf_LL88q7"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "multicolumn_pjqUky": {
       "type": "multicolumn",
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -523,7 +507,6 @@
     "1636099310f13726c4",
     "text_2spalten_FH8YVP",
     "newsletter_JkywVM",
-    "1780666764c42b5b5e",
     "multicolumn_pjqUky"
   ]
 }
