@@ -383,7 +383,7 @@
           "settings": {
             "image": "shopify://shop_images/badge_garantie.png",
             "title": "3-5 Jahre Qualitätsgarantie",
-            "text": "<p>Wir sind von der Qualität<br/>unserer Leuchten so überzeugt, dass wir für unsere BIO Serie eine Garantie von 3 Jahren und für unsere PRO & PRO+ Serie sogar von 5 Jahren anbieten. Ganz ohne Extrakosten für dich. Die gesetzliche Gewährleistung von 2 Jahren ist davon unbenommen. Siehe unsere <a href=\"/pages/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Garantiebedingungen</a>.<br/><br/></p>"
+            "text": "<p>Wir sind von der Qualität<br/>unserer Leuchten so überzeugt, dass wir für unsere BIO Serie eine Garantie von 3 Jahren und für unsere PRO & PRO+ Serie sogar von 5 Jahren anbieten. Ganz ohne Extrakosten für dich. Die gesetzliche Gewährleistung von 2 Jahren ist davon unbenommen. Siehe unsere <a href=\"/pages/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Garantiebedingungen</a>.</p>"
           }
         },
         "1636099310f13726c4-1": {
@@ -391,7 +391,7 @@
           "settings": {
             "image": "shopify://shop_images/badge_probe.png",
             "title": "2 Monate Probe Strahlen",
-            "text": "<p>Die Effekte unserer Leuchten in der Rotlichttherapie sprechen für sich. Wir glauben, dass du deine Leuchte bald nicht mehr missen möchtest, aber bieten dir eine 60-tägige Probezeit, um dich selbst von Qualität und Wirkung zu überzeugen. Siehe auch unsere <a href=\"/pages/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Rückgabebedingungen</a>.</p><p></p>"
+            "text": "<p>Die Effekte unserer Leuchten in der Rotlichttherapie sprechen für sich. Wir glauben, dass du deine Leuchte bald nicht mehr missen möchtest, aber bieten dir eine 60-tägige Probezeit, um dich selbst von Qualität und Wirkung zu überzeugen. Siehe auch unsere <a href=\"/pages/ruckgabebedingungen\" title=\"Rückgabebedingungen und Garantie\">Rückgabebedingungen</a>.</p>"
           }
         },
         "1636099310f13726c4-2": {
@@ -399,7 +399,7 @@
           "settings": {
             "image": "shopify://shop_images/badge_lieferung.png",
             "title": "Kostenlose Lieferung",
-            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern jetzt auch an Adressen innerhalb der EU, hier entfällt eine faire Liefergebühr. Siehe auch unsere <a href=\"/pages/versand\" title=\"Liefer- und Versandkosten\">Lieferbedingungen</a>. </p><p><a href=\"/pages/liefer-und-versandkosten\" title=\"Lieferbedingungen\"><br/><br/><br/><br/><br/><br/></a></p>"
+            "text": "<p>Innerhalb Deutschlands liefern wir selbstverständlich frei Haus. Wir liefern jetzt auch an Adressen innerhalb der EU, hier entfällt eine faire Liefergebühr. Siehe auch unsere <a href=\"/pages/versand\" title=\"Liefer- und Versandkosten\">Lieferbedingungen</a>. </p>"
           }
         }
       },
@@ -483,6 +483,23 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1780666764c42b5b5e": {
+      "type": "apps",
+      "blocks": {
+        "easyreturns_widerruf_LL88q7": {
+          "type": "shopify://apps/easyreturns/blocks/widerruf/019cb339-d80c-79ab-9947-7e6f794cfa38",
+          "settings": {
+            "text": "Kauf widerrufen"
+          }
+        }
+      },
+      "block_order": [
+        "easyreturns_widerruf_LL88q7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -498,6 +515,7 @@
     "1636099310f13726c4",
     "17277729872d1dac7e",
     "text_2spalten_FH8YVP",
-    "newsletter_JkywVM"
+    "newsletter_JkywVM",
+    "1780666764c42b5b5e"
   ]
 }
