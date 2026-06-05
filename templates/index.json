@@ -505,7 +505,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Kaufvertrag Widerruf",
-        "button_link": "",
+        "button_link": "https://www.nuuva.de/apps/returns/withdrawals",
         "swipe_on_mobile": false
       }
     }
