@@ -73,7 +73,7 @@
             "type": "text",
             "settings": {
               "heading": "Kontakt",
-              "subtext": "<p>Nuuva Lichttherapie GmbH<br/>Brummelhorn 15b<br/>22159 Hamburg</p><p>E-Mail: siehe <a href=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\" title=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\">Kontaktformular</a><br/>Telefon: +49 (0)40 2263 7366-0<br/>Mo-Fr: 10-16:00 Uhr</p>"
+              "subtext": "<p>Nuuva Lichttherapie GmbH<br/>Brummelhorn 15b<br/>22159 Hamburg</p><p>E-Mail: siehe <a href=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\" title=\"https://www.nuuva.de/pages/lichttherapie-kontaktseite\">Kontaktformular</a><br/>Telefon: +49 (0)40 2263 7366-0<br/>Mo-Fr: 10-16:00 Uhr<br/><br/><a href=\"https://www.nuuva.de/apps/returns/withdrawals\" title=\"https://www.nuuva.de/apps/returns/withdrawals\">Kaufvertrag Widerruf</a></p>"
             }
           },
           "text_gBxdw9": {
@@ -145,18 +145,6 @@
         "type": "shopify://apps/uppromote-affiliate/blocks/core-script/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
         "disabled": false,
         "settings": {}
-      },
-      "13772226226185822161": {
-        "type": "shopify://apps/eu-widerrufsbutton/blocks/withdrawal-button/019e3842-e8eb-772d-9292-20f5ccbc0337",
-        "disabled": false,
-        "settings": {
-          "position": "right",
-          "button_text": "Kauf widerrufen",
-          "size": "small",
-          "border_radius": 4,
-          "text_color": "#f3f3f3",
-          "background_color": "#ef5559"
-        }
       }
     }
   },
